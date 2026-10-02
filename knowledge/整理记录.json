@@ -1,0 +1,71 @@
+{
+  "inputCards": 220,
+  "uniqueCards": 207,
+  "chapters": 81,
+  "relations": 334,
+  "merges": [
+    [
+      "personality-flow",
+      "emotion-flow"
+    ],
+    [
+      "cognition-schema",
+      "social-schemas"
+    ],
+    [
+      "cognition-confirmation-bias",
+      "social-confirmation-bias"
+    ],
+    [
+      "foundations-gene-environment",
+      "personality-gene-environment-interaction"
+    ],
+    [
+      "learning-observational",
+      "personality-observational-learning"
+    ],
+    [
+      "development-attachment",
+      "social-attachment"
+    ],
+    [
+      "social-dissonance",
+      "social-cognitive-dissonance"
+    ],
+    [
+      "social-facilitation",
+      "social-social-facilitation"
+    ],
+    [
+      "personality-big-five",
+      "personality-big-five"
+    ],
+    [
+      "emotion-cognitive-appraisal",
+      "emotion-appraisal"
+    ]
+  ],
+  "unresolvedRelations": [
+    {
+      "from": "social-broaden-build",
+      "target": "情绪的社会功能",
+      "reason": "关注情绪与关系的联系"
+    }
+  ],
+  "chapterCounts": {
+    "emotions": 14,
+    "social": 17,
+    "personality": 18,
+    "cognitive": 16,
+    "general": 16
+  },
+  "finalReview": {
+    "mergedDuplicateCards": {
+      "personality-needs-hierarchy": "personality-hierarchy-needs",
+      "emotion-wanting-liking": "learning-wanting-liking",
+      "social-reliability-validity": "foundations-measurement"
+    },
+    "collections": "人工精选并按学习顺序排列",
+    "sourceScope": "五本教材全部81个教学章节/应用模块的核心知识整理，不穷尽全部术语"
+  }
+}

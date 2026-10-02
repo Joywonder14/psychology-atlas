@@ -1,0 +1,1038 @@
+[
+  {
+    "book": "emotions",
+    "id": "emotions-01",
+    "title": "第1章 情绪的理解路径",
+    "epubPath": "OPS/c01.xhtml",
+    "cardIds": [
+      "emotion-unfolding-process",
+      "emotion-james-lange",
+      "emotion-affect-timescales"
+    ],
+    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+  },
+  {
+    "book": "emotions",
+    "id": "emotions-02",
+    "title": "第2章 情绪的进化",
+    "epubPath": "OPS/c02.xhtml",
+    "cardIds": [
+      "emotion-evolutionary-adaptation",
+      "emotion-disgust",
+      "emotion-attachment",
+      "emotion-status-display"
+    ],
+    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+  },
+  {
+    "book": "emotions",
+    "id": "emotions-03",
+    "title": "第3章 情绪的文化理解",
+    "epubPath": "OPS/c03.xhtml",
+    "cardIds": [
+      "emotion-self-construal",
+      "emotion-dialectical-complexity",
+      "emotion-ideal-affect"
+    ],
+    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+  },
+  {
+    "book": "emotions",
+    "id": "emotions-04",
+    "title": "第4章 情绪的沟通",
+    "epubPath": "OPS/c04.xhtml",
+    "cardIds": [
+      "emotion-expression-universality",
+      "emotion-behavioral-ecology",
+      "emotion-display-rules-dialects"
+    ],
+    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+  },
+  {
+    "book": "emotions",
+    "id": "emotions-05",
+    "title": "第5章 身体变化与情绪",
+    "epubPath": "OPS/c05.xhtml",
+    "cardIds": [
+      "emotion-james-lange",
+      "emotion-hpa-axis",
+      "emotion-interoception",
+      "emotion-somatic-marker"
+    ],
+    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+  },
+  {
+    "book": "emotions",
+    "id": "emotions-06",
+    "title": "第6章 评价、体验与调节",
+    "epubPath": "OPS/c06.xhtml",
+    "cardIds": [
+      "emotion-dialectical-complexity",
+      "emotion-appraisal",
+      "emotion-discrete-emotions",
+      "emotion-constructed-emotion",
+      "emotion-regulation-process"
+    ],
+    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+  },
+  {
+    "book": "emotions",
+    "id": "emotions-07",
+    "title": "第7章 脑机制与情绪",
+    "epubPath": "OPS/c07.xhtml",
+    "cardIds": [
+      "emotion-interoception",
+      "emotion-constructed-emotion",
+      "emotion-amygdala-relevance",
+      "learning-wanting-liking",
+      "emotion-brain-patterns"
+    ],
+    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+  },
+  {
+    "book": "emotions",
+    "id": "emotions-08",
+    "title": "第8章 儿童期情绪的发展",
+    "epubPath": "OPS/c08.xhtml",
+    "cardIds": [
+      "emotion-self-conscious-development",
+      "emotion-social-referencing",
+      "emotion-temperament",
+      "emotion-regulation-development"
+    ],
+    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+  },
+  {
+    "book": "emotions",
+    "id": "emotions-09",
+    "title": "第9章 社会关系中的情绪",
+    "epubPath": "OPS/c09.xhtml",
+    "cardIds": [
+      "emotion-disgust",
+      "emotion-status-display",
+      "emotion-emotional-mimicry",
+      "emotion-group-collective",
+      "emotion-infrahumanization",
+      "emotion-emotional-intelligence"
+    ],
+    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+  },
+  {
+    "book": "emotions",
+    "id": "emotions-10",
+    "title": "第10章 情绪与思维",
+    "epubPath": "OPS/c10.xhtml",
+    "cardIds": [
+      "emotion-affect-infusion",
+      "emotion-affect-as-information",
+      "emotion-memory-reconstruction",
+      "emotion-social-intuition"
+    ],
+    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+  },
+  {
+    "book": "emotions",
+    "id": "emotions-11",
+    "title": "第11章 情绪性的个体差异",
+    "epubPath": "OPS/c11.xhtml",
+    "cardIds": [
+      "emotion-attachment",
+      "emotion-temperament",
+      "emotion-differential-susceptibility",
+      "emotion-biobehavioral-synchrony",
+      "emotion-emotion-socialization"
+    ],
+    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+  },
+  {
+    "book": "emotions",
+    "id": "emotions-12",
+    "title": "第12章 儿童情绪的心理病理",
+    "epubPath": "OPS/c12.xhtml",
+    "cardIds": [
+      "emotion-categories-dimensions",
+      "emotion-p-factor",
+      "emotion-transactional-context",
+      "emotion-cumulative-risk",
+      "emotion-developmental-continuity"
+    ],
+    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+  },
+  {
+    "book": "emotions",
+    "id": "emotions-13",
+    "title": "第13章 成年期的情绪障碍",
+    "epubPath": "OPS/c13.xhtml",
+    "cardIds": [
+      "emotion-diathesis-stress",
+      "emotion-rumination",
+      "emotion-anxiety-attention",
+      "emotion-expressed-emotion"
+    ],
+    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+  },
+  {
+    "book": "emotions",
+    "id": "emotions-14",
+    "title": "第14章 有意义的生活",
+    "epubPath": "OPS/c14.xhtml",
+    "cardIds": [
+      "emotion-meaningful-life",
+      "emotion-flow",
+      "emotion-mindfulness",
+      "emotion-cognitive-behavioral"
+    ],
+    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+  },
+  {
+    "book": "social",
+    "id": "social-chapter-01",
+    "title": "社会心理学导论",
+    "pdfStart": 28,
+    "pdfEnd": 75,
+    "cardIds": [
+      "social-construal",
+      "social-automatic-controlled-processing",
+      "social-schemas"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "social",
+    "id": "social-chapter-02",
+    "title": "研究方法",
+    "pdfStart": 76,
+    "pdfEnd": 109,
+    "cardIds": [
+      "social-random-assignment",
+      "foundations-measurement"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "social",
+    "id": "social-chapter-03",
+    "title": "社会自我",
+    "pdfStart": 110,
+    "pdfEnd": 160,
+    "cardIds": [
+      "social-sociometer",
+      "social-self-discrepancy"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "social",
+    "id": "social-chapter-04",
+    "title": "社会认知",
+    "pdfStart": 161,
+    "pdfEnd": 217,
+    "cardIds": [
+      "social-fundamental-attribution-error",
+      "social-confirmation-bias"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "social",
+    "id": "social-chapter-05",
+    "title": "情绪与幸福",
+    "pdfStart": 218,
+    "pdfEnd": 263,
+    "cardIds": [
+      "social-broaden-build",
+      "social-affective-forecasting"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "social",
+    "id": "social-chapter-06",
+    "title": "态度行为与合理化",
+    "pdfStart": 264,
+    "pdfEnd": 307,
+    "cardIds": [
+      "social-cognitive-dissonance",
+      "social-self-perception",
+      "social-self-affirmation"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "social",
+    "id": "social-chapter-07",
+    "title": "说服",
+    "pdfStart": 308,
+    "pdfEnd": 346,
+    "cardIds": [
+      "social-elaboration-likelihood",
+      "social-attitude-inoculation"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "social",
+    "id": "social-chapter-08",
+    "title": "社会影响",
+    "pdfStart": 347,
+    "pdfEnd": 396,
+    "cardIds": [
+      "social-normative-influence",
+      "social-informational-influence",
+      "social-obedience-authority"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "social",
+    "id": "social-chapter-09",
+    "title": "关系与吸引",
+    "pdfStart": 397,
+    "pdfEnd": 452,
+    "cardIds": [
+      "social-attachment",
+      "social-investment-model",
+      "social-mere-exposure",
+      "social-social-exchange"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "social",
+    "id": "social-chapter-10",
+    "title": "刻板印象偏见与歧视",
+    "pdfStart": 453,
+    "pdfEnd": 507,
+    "cardIds": [
+      "social-social-identity",
+      "social-realistic-group-conflict",
+      "social-self-fulfilling-prophecy"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "social",
+    "id": "social-chapter-11",
+    "title": "生活在偏见世界中",
+    "pdfStart": 508,
+    "pdfEnd": 558,
+    "cardIds": [
+      "social-stereotype-threat",
+      "social-attributional-ambiguity"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "social",
+    "id": "social-chapter-12",
+    "title": "群体",
+    "pdfStart": 559,
+    "pdfEnd": 608,
+    "cardIds": [
+      "social-social-facilitation",
+      "social-group-polarization",
+      "social-social-loafing",
+      "social-groupthink"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "social",
+    "id": "social-chapter-13",
+    "title": "攻击",
+    "pdfStart": 609,
+    "pdfEnd": 655,
+    "cardIds": [
+      "social-dehumanization",
+      "social-honor-culture"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "social",
+    "id": "social-chapter-14",
+    "title": "道德利他与合作",
+    "pdfStart": 656,
+    "pdfEnd": 702,
+    "cardIds": [
+      "social-empathy-altruism",
+      "social-reciprocal-altruism",
+      "social-bystander-diffusion",
+      "social-pluralistic-ignorance"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "social",
+    "id": "social-chapter-a1",
+    "title": "社会心理学与健康",
+    "pdfStart": 703,
+    "pdfEnd": 720,
+    "cardIds": [
+      "social-stress-appraisal",
+      "social-perceived-control"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "social",
+    "id": "social-chapter-a2",
+    "title": "社会心理学与教育",
+    "pdfStart": 721,
+    "pdfEnd": 735,
+    "cardIds": [
+      "social-implicit-intelligence-theories",
+      "social-teacher-expectancy"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "social",
+    "id": "social-chapter-a3",
+    "title": "社会心理学与法律",
+    "pdfStart": 736,
+    "pdfEnd": 755,
+    "cardIds": [
+      "social-eyewitness-memory",
+      "social-procedural-justice"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "personality",
+    "id": "personality-chapter-01",
+    "title": "对人的研究",
+    "pdfStart": 59,
+    "pdfEnd": 98,
+    "cardIds": [
+      "personality-psychological-triad",
+      "personality-complementary-approaches"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "personality",
+    "id": "personality-chapter-02",
+    "title": "人格研究方法",
+    "pdfStart": 104,
+    "pdfEnd": 187,
+    "cardIds": [
+      "personality-blis-data",
+      "personality-construct-validity"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "personality",
+    "id": "personality-chapter-03",
+    "title": "人格评估与开放科学",
+    "pdfStart": 188,
+    "pdfEnd": 263,
+    "cardIds": [
+      "personality-effect-size",
+      "personality-replication-open-science"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "personality",
+    "id": "personality-chapter-04",
+    "title": "人与情境",
+    "pdfStart": 269,
+    "pdfEnd": 334,
+    "cardIds": [
+      "personality-person-situation-interaction",
+      "personality-relative-consistency"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "personality",
+    "id": "personality-chapter-05",
+    "title": "人格判断",
+    "pdfStart": 335,
+    "pdfEnd": 402,
+    "cardIds": [
+      "personality-realistic-accuracy-model",
+      "personality-convergent-validation"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "personality",
+    "id": "personality-chapter-06",
+    "title": "特质与类型",
+    "pdfStart": 403,
+    "pdfEnd": 488,
+    "cardIds": [
+      "personality-big-five",
+      "personality-traits-types",
+      "personality-self-monitoring"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "personality",
+    "id": "personality-chapter-07",
+    "title": "人格稳定发展与变化",
+    "pdfStart": 489,
+    "pdfEnd": 564,
+    "cardIds": [
+      "personality-cumulative-continuity",
+      "personality-maturity-principle"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "personality",
+    "id": "personality-chapter-08",
+    "title": "人格的解剖与生理",
+    "pdfStart": 570,
+    "pdfEnd": 652,
+    "cardIds": [
+      "personality-behavioral-activation",
+      "personality-neural-networks"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "personality",
+    "id": "personality-chapter-09",
+    "title": "遗传与进化",
+    "pdfStart": 653,
+    "pdfEnd": 721,
+    "cardIds": [
+      "personality-heritability",
+      "personality-gene-environment-interaction"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "personality",
+    "id": "personality-chapter-10",
+    "title": "精神分析基础",
+    "pdfStart": 728,
+    "pdfEnd": 824,
+    "cardIds": [
+      "personality-structural-conflict",
+      "personality-defense-mechanisms",
+      "personality-psychosexual-development"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "personality",
+    "id": "personality-chapter-11",
+    "title": "弗洛伊德之后",
+    "pdfStart": 825,
+    "pdfEnd": 878,
+    "cardIds": [
+      "personality-psychosocial-development",
+      "personality-object-relations"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "personality",
+    "id": "personality-chapter-12",
+    "title": "人本积极心理与幸福",
+    "pdfStart": 884,
+    "pdfEnd": 975,
+    "cardIds": [
+      "personality-personal-constructs",
+      "emotion-flow",
+      "personality-rogerian-humanism",
+      "personality-hierarchy-needs"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "personality",
+    "id": "personality-chapter-13",
+    "title": "文化差异",
+    "pdfStart": 976,
+    "pdfEnd": 1068,
+    "cardIds": [
+      "personality-individualism-collectivism",
+      "personality-etics-emics"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "personality",
+    "id": "personality-chapter-14",
+    "title": "人格过程",
+    "pdfStart": 1074,
+    "pdfEnd": 1150,
+    "cardIds": [
+      "personality-cognitive-affective-system",
+      "personality-reciprocal-determinism",
+      "personality-locus-control",
+      "personality-self-efficacy",
+      "personality-expectancy-reward-value",
+      "personality-observational-learning"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "personality",
+    "id": "personality-chapter-15",
+    "title": "自我",
+    "pdfStart": 1151,
+    "pdfEnd": 1203,
+    "cardIds": [
+      "personality-declarative-self",
+      "personality-procedural-self"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "personality",
+    "id": "personality-chapter-16",
+    "title": "关系与工作",
+    "pdfStart": 1209,
+    "pdfEnd": 1271,
+    "cardIds": [
+      "personality-rejection-sensitivity",
+      "personality-holland-vocational-types"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "personality",
+    "id": "personality-chapter-17",
+    "title": "心理与身体健康",
+    "pdfStart": 1272,
+    "pdfEnd": 1359,
+    "cardIds": [
+      "personality-dimensional-personality-pathology",
+      "personality-health-behavior-pathway"
+    ],
+    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+  },
+  {
+    "book": "personality",
+    "id": "personality-chapter-18",
+    "title": "我们学到了什么",
+    "pdfStart": 1360,
+    "pdfEnd": 1395,
+    "cardIds": [
+      "personality-complementary-approaches",
+      "personality-relative-consistency"
+    ],
+    "notes": "本章为全书总结；核对 PDF 第1393页后复用研究取向互补性与相对一致性卡，不制造新的理论条目。"
+  },
+  {
+    "book": "cognitive",
+    "id": "cognitive-01",
+    "title": "第1章 · 人类认知研究方法",
+    "pdfStart": 33,
+    "pdfEnd": 71,
+    "cardIds": [
+      "cognition-top-down-bottom-up",
+      "foundations-double-dissociation",
+      "cognition-connectionism"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "cognitive",
+    "id": "cognitive-02",
+    "title": "第2章 · 视觉知觉的基本过程",
+    "pdfStart": 75,
+    "pdfEnd": 124,
+    "cardIds": [
+      "cognition-perception-action",
+      "cognition-color-opponent",
+      "cognition-subliminal"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "cognitive",
+    "id": "cognitive-03",
+    "title": "第3章 · 物体与面孔识别",
+    "pdfStart": 126,
+    "pdfEnd": 171,
+    "cardIds": [
+      "cognition-gestalt",
+      "cognition-recognition-components",
+      "cognition-face-recognition"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "cognitive",
+    "id": "cognitive-04",
+    "title": "第4章 · 运动知觉与行动",
+    "pdfStart": 172,
+    "pdfEnd": 208,
+    "cardIds": [
+      "cognition-affordances",
+      "cognition-optic-flow",
+      "cognition-change-blindness"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "cognitive",
+    "id": "cognitive-05",
+    "title": "第5章 · 注意与表现",
+    "pdfStart": 210,
+    "pdfEnd": 265,
+    "cardIds": [
+      "cognition-load-theory",
+      "cognition-feature-integration",
+      "cognition-multiple-resources"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "cognitive",
+    "id": "cognitive-06",
+    "title": "第6章 · 学习、记忆与遗忘",
+    "pdfStart": 270,
+    "pdfEnd": 326,
+    "cardIds": [
+      "cognition-working-memory",
+      "learning-levels-processing",
+      "learning-testing-effect"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "cognitive",
+    "id": "cognitive-07",
+    "title": "第7章 · 长期记忆系统",
+    "pdfStart": 327,
+    "pdfEnd": 373,
+    "cardIds": [
+      "cognition-episodic-semantic",
+      "social-schemas",
+      "cognition-priming"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "cognitive",
+    "id": "cognitive-08",
+    "title": "第8章 · 日常记忆",
+    "pdfStart": 375,
+    "pdfEnd": 422,
+    "cardIds": [
+      "cognition-self-memory",
+      "cognition-misinformation",
+      "cognition-prospective-memory",
+      "cognition-implementation-intentions"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "cognitive",
+    "id": "cognitive-09",
+    "title": "第9章 · 言语知觉与阅读",
+    "pdfStart": 432,
+    "pdfEnd": 489,
+    "cardIds": [
+      "cognition-trace",
+      "cognition-dual-route-reading",
+      "cognition-ez-reader"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "cognitive",
+    "id": "cognitive-10",
+    "title": "第10章 · 语言理解",
+    "pdfStart": 490,
+    "pdfEnd": 542,
+    "cardIds": [
+      "cognition-garden-path",
+      "cognition-constraint-language",
+      "cognition-situation-model"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "cognitive",
+    "id": "cognitive-11",
+    "title": "第11章 · 语言产生",
+    "pdfStart": 543,
+    "pdfEnd": 596,
+    "cardIds": [
+      "cognition-speech-spreading",
+      "cognition-weaver",
+      "cognition-audience-design"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "cognitive",
+    "id": "cognitive-12",
+    "title": "第12章 · 问题解决与专长",
+    "pdfStart": 601,
+    "pdfEnd": 649,
+    "cardIds": [
+      "cognition-insight",
+      "cognition-analogy",
+      "cognition-expertise",
+      "foundations-plasticity"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "cognitive",
+    "id": "cognitive-13",
+    "title": "第13章 · 判断与决策",
+    "pdfStart": 650,
+    "pdfEnd": 693,
+    "cardIds": [
+      "cognition-heuristics",
+      "cognition-prospect-theory",
+      "cognition-accountability"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "cognitive",
+    "id": "cognitive-14",
+    "title": "第14章 · 推理与假设检验",
+    "pdfStart": 694,
+    "pdfEnd": 738,
+    "cardIds": [
+      "social-confirmation-bias",
+      "cognition-mental-models",
+      "cognition-dual-process"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "cognitive",
+    "id": "cognitive-15",
+    "title": "第15章 · 认知与情绪",
+    "pdfStart": 743,
+    "pdfEnd": 794,
+    "cardIds": [
+      "emotion-appraisal",
+      "emotion-mood-memory",
+      "emotion-cognitive-biases"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "cognitive",
+    "id": "cognitive-16",
+    "title": "第16章 · 意识",
+    "pdfStart": 795,
+    "pdfEnd": 828,
+    "cardIds": [
+      "cognition-global-workspace",
+      "cognition-agency",
+      "cognition-consciousness-report"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "general",
+    "id": "general-01",
+    "title": "第1章 · 心理学研究的背景",
+    "pdfStart": 49,
+    "pdfEnd": 105,
+    "cardIds": [
+      "foundations-empiricism-nativism",
+      "foundations-levels-explanation"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "general",
+    "id": "general-02",
+    "title": "第2章 · 心理学的方法",
+    "pdfStart": 106,
+    "pdfEnd": 166,
+    "cardIds": [
+      "foundations-experiment-correlation",
+      "foundations-measurement"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "general",
+    "id": "general-03",
+    "title": "第3章 · 行为的遗传与进化基础",
+    "pdfStart": 168,
+    "pdfEnd": 256,
+    "cardIds": [
+      "personality-gene-environment-interaction",
+      "social-kin-selection",
+      "social-reciprocal-altruism"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "general",
+    "id": "general-04",
+    "title": "第4章 · 行为的神经控制",
+    "pdfStart": 257,
+    "pdfEnd": 360,
+    "cardIds": [
+      "foundations-neural-signaling",
+      "learning-hebb-ltp",
+      "foundations-plasticity"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "general",
+    "id": "general-05",
+    "title": "第5章 · 动机与情绪的机制",
+    "pdfStart": 361,
+    "pdfEnd": 440,
+    "cardIds": [
+      "foundations-homeostasis",
+      "learning-wanting-liking"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "general",
+    "id": "general-06",
+    "title": "第6章 · 嗅觉、味觉、痛觉、听觉与心理物理学",
+    "pdfStart": 442,
+    "pdfEnd": 512,
+    "cardIds": [
+      "cognition-signal-detection",
+      "cognition-pain-gate"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "general",
+    "id": "general-07",
+    "title": "第7章 · 视觉心理学",
+    "pdfStart": 513,
+    "pdfEnd": 594,
+    "cardIds": [
+      "cognition-top-down-bottom-up",
+      "cognition-color-opponent",
+      "cognition-perceptual-constancy"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "general",
+    "id": "general-08",
+    "title": "第8章 · 学习的基本过程",
+    "pdfStart": 596,
+    "pdfEnd": 689,
+    "cardIds": [
+      "learning-habituation",
+      "learning-classical-conditioning",
+      "learning-operant-conditioning",
+      "personality-observational-learning"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "general",
+    "id": "general-09",
+    "title": "第9章 · 记忆、注意与意识",
+    "pdfStart": 690,
+    "pdfEnd": 787,
+    "cardIds": [
+      "cognition-working-memory",
+      "cognition-priming",
+      "cognition-prospective-memory",
+      "cognition-retrieval-cues"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "general",
+    "id": "general-10",
+    "title": "第10章 · 问题解决：推理与智力",
+    "pdfStart": 788,
+    "pdfEnd": 872,
+    "cardIds": [
+      "social-confirmation-bias",
+      "cognition-general-intelligence",
+      "cognition-fluid-crystallized"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "general",
+    "id": "general-11",
+    "title": "第11章 · 身体、思维与语言的发展",
+    "pdfStart": 874,
+    "pdfEnd": 975,
+    "cardIds": [
+      "development-piaget",
+      "development-sociocultural",
+      "development-theory-mind"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "general",
+    "id": "general-12",
+    "title": "第12章 · 社会发展",
+    "pdfStart": 976,
+    "pdfEnd": 1064,
+    "cardIds": [
+      "emotion-attachment",
+      "development-parenting"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "general",
+    "id": "general-13",
+    "title": "第13章 · 社会心理学",
+    "pdfStart": 1066,
+    "pdfEnd": 1155,
+    "cardIds": [
+      "social-cognitive-dissonance",
+      "social-social-facilitation"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "general",
+    "id": "general-14",
+    "title": "第14章 · 人格",
+    "pdfStart": 1156,
+    "pdfEnd": 1247,
+    "cardIds": [
+      "personality-big-five",
+      "personality-hierarchy-needs",
+      "personality-rogerian-humanism"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "general",
+    "id": "general-15",
+    "title": "第15章 · 心理障碍",
+    "pdfStart": 1249,
+    "pdfEnd": 1347,
+    "cardIds": [
+      "clinical-three-ps",
+      "clinical-hopelessness-rumination",
+      "emotion-rumination"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  },
+  {
+    "book": "general",
+    "id": "general-16",
+    "title": "第16章 · 心理障碍的治疗",
+    "pdfStart": 1348,
+    "pdfEnd": 1415,
+    "cardIds": [
+      "clinical-abc-model",
+      "clinical-exposure-extinction"
+    ],
+    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+  }
+]
