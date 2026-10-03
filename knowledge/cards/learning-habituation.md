@@ -9,7 +9,7 @@ summary: "重复出现且未带来重要后果的刺激，可能逐渐引起较�
 aliases: ["Habituation"]
 keywords: ["习惯化", "Habituation", "基本学习", "反应减弱", "重复", "适应", "熟悉", "麻木"]
 questions: ["为什么反复遇到同样的刺激，反应会越来越弱？", "习惯化在什么条件下适用，有什么局限？"]
-sources: [{"book": "general", "chapter": "第8章 · 学习的基本过程", "locator": "PDF 第 600–601 页", "pdfPages": [600, 601]}]
+sources: [{"book": "general", "chapter": "第8章 · 学习的基本过程", "locator": "PDF 第 600–601 页", "pdfPages": [600, 601]}, {"book": "personality", "chapter": "人格过程", "locator": "Behaviorism / Habituation；PDF文件第1084页", "pdfPages": [1084]}]
 candidateRelated: [{"title": "经典条件作用", "reason": "重复刺激本身与学习刺激关系应区分"}, {"title": "暴露与消退学习", "reason": "重复接触可能参与反应减弱但过程有别"}]
 ---
 
@@ -24,3 +24,7 @@ candidateRelated: [{"title": "经典条件作用", "reason": "重复刺激本身
 ## 理解边界
 
 并非所有反射都会习惯化，也不能把习惯化直接等同接受、赞同或规范改变。生理反应减弱与复杂态度变化之间需要额外证据。
+
+## 人格教材补充：重复刺激与反应减弱
+
+教材先用重复敲锣引发的惊跳逐渐减小解释习惯化，再把视野扩展到反复媒体暴露和重大事件的情绪适应。一般习惯化、特定暴力内容的去敏化以及主观幸福的长期变化并非完全等同；后一类延伸须另看时间尺度和结果指标。

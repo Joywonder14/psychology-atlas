@@ -6,7 +6,7 @@ kind: "理论"
 domain: "social"
 subdomain: "态度与行为"
 summary: "当想法、价值与自己的行动难以相容时，人可能感到不舒服，并试图恢复一致。认知失调理论解释了为什么行为有时会反过来改变原来的态度。"
-aliases: ["认知不协调", "Cognitive dissonance theory", "认知失调理论"]
+aliases: ["认知不协调", "Cognitive dissonance theory"]
 keywords: ["失调", "一致性", "合理化", "态度", "行为", "选择", "努力辩护", "外在理由", "认知失调理论", "Cognitive dissonance theory", "态度与自我", "不一致", "辩护", "后悔", "信念"]
 questions: ["为什么付出很多之后会更难承认结果普通？", "行为改变了态度一定意味着认知失调吗？", "做出选择后，为什么我会变得更相信自己的选择？", "认知失调理论在什么条件下适用，有什么局限？"]
 sources: [{"book": "social", "chapter": "第6章 态度行为与合理化", "locator": "PDF 第 277–278 页", "pdfPages": [277, 278]}, {"book": "social", "chapter": "第6章 态度行为与合理化", "locator": "PDF 第 287–288 页", "pdfPages": [287, 288]}, {"book": "social", "chapter": "第6章 态度行为与合理化", "locator": "PDF 第 305 页", "pdfPages": [305]}, {"book": "general", "chapter": "第13章 · 社会心理学", "locator": "PDF 第 1090–1092 页", "pdfPages": [1090, 1091, 1092]}]
@@ -24,3 +24,7 @@ candidateRelated: [{"concept": "自我知觉理论", "reason": "提供行为影�
 ## 理解边界
 
 行为后的态度变化不必都来自失调。原有态度较模糊时，自我知觉也能提供解释，不能仅凭结果就确定动机。
+
+## 选择接触的研究线索
+
+教材通过政治事件期间的媒体接触研究说明：人可能回避与既有支持立场冲突的信息，以减少不一致。该例来自教材转述的Sweeney与Gruber研究，并不意味着人总是回避异见；这里未独立核验原始论文。

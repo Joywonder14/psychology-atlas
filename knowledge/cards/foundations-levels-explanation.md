@@ -9,7 +9,7 @@ summary: "同一个行为可以从神经、学习、认知、社会、文化或�
 aliases: ["Levels of analysis in psychology"]
 keywords: ["心理学的多层次解释", "Levels of analysis in psychology", "心理学的解释", "解释", "神经", "文化", "社会", "发展", "因果"]
 questions: ["心理学的多层次解释解释了什么心理现象？", "心理学的多层次解释在什么条件下适用，有什么局限？"]
-sources: [{"book": "general", "chapter": "第1章 · 心理学研究的背景", "locator": "PDF 第 71–72 页", "pdfPages": [71, 72]}]
+sources: [{"book": "general", "chapter": "第1章 · 心理学研究的背景", "locator": "PDF 第 71–72 页", "pdfPages": [71, 72]}, {"book": "general", "chapter": "第3章 · 行为的遗传与进化基础", "locator": "PDF 第 207–208 页", "pdfPages": [207, 208]}]
 candidateRelated: [{"title": "基因与环境交互", "reason": "生物与经验不是独立的原因清单"}, {"title": "实验研究与相关研究", "reason": "不同解释需要适合的研究设计"}]
 ---
 
@@ -24,3 +24,7 @@ candidateRelated: [{"title": "基因与环境交互", "reason": "生物与经验
 ## 理解边界
 
 较低层次并不自动更真实，较高层次也不能脱离实现机制。跨层联系需要证据，不能只把不同术语并列就视为完成解释。
+
+## 近端机制与远端功能
+
+近端解释说明眼前哪些内部与外部条件使行为发生；远端解释讨论该行为在演化中的生存或繁殖功能。两者互补：一种行为可能具有某种功能，但这不等于当事人有意识地追求那个演化结果。

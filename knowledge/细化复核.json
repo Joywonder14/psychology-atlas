@@ -1,0 +1,2135 @@
+{
+  "updated": "2026-10-03",
+  "scope": "五本教材的章节与小节细化；纳入独立机制、效应、模型和理论概念，跨书合并，不等同穷尽全书全部术语。",
+  "sources": "教材中的研究线索仅为教材转述；未独立核读的原始论文不作为新增一级来源。",
+  "summary": {
+    "originalCards": 207,
+    "newCards": 320,
+    "totalCards": 527,
+    "updatedExistingCards": 23,
+    "relations": 860,
+    "likelyDuplicates": [],
+    "unresolvedRelations": [],
+    "unresolvedUpdates": [],
+    "collections": 10,
+    "finalCards": 527
+  },
+  "merges": {
+    "personality-awe-humility": "emotion-awe",
+    "foundations-epigenetics": "personality-epigenetics",
+    "clinical-transference": "personality-transference",
+    "social-base-rate-neglect": "cognition-base-rate-neglect",
+    "social-own-race-identification": "cognition-own-race-bias",
+    "social-tend-befriend": "personality-tend-befriend"
+  },
+  "chapterAudit": [
+    {
+      "chapterId": "emotions-01",
+      "reviewedSections": [
+        "第1章 · Erving Goffman, Arlie Russell Hochschild, and Lila Abu-Lughod: Emotions as Moral Dramas Involving Selves and Others"
+      ],
+      "addedCardIds": [
+        "emotion-emotional-labor",
+        "emotion-feeling-rules",
+        "emotion-social-roles"
+      ],
+      "existingCardIds": [
+        "emotion-unfolding-process",
+        "emotion-james-lange",
+        "emotion-affect-timescales"
+      ],
+      "notes": "复核章节小节目录，并对本轮新增卡所列小节核读正文；已有卡保留。以可独立解释的机制、模型、效应和概念为单位，不把每个研究案例拆成卡；未宣称列尽全部术语。"
+    },
+    {
+      "chapterId": "emotions-02",
+      "reviewedSections": [],
+      "addedCardIds": [],
+      "existingCardIds": [
+        "emotion-evolutionary-adaptation",
+        "emotion-disgust",
+        "emotion-attachment",
+        "emotion-status-display"
+      ],
+      "notes": "复核章节小节目录，并对本轮新增卡所列小节核读正文；已有卡保留。以可独立解释的机制、模型、效应和概念为单位，不把每个研究案例拆成卡；未宣称列尽全部术语。"
+    },
+    {
+      "chapterId": "emotions-03",
+      "reviewedSections": [
+        "第3章 · Falling in Love: Emotion as a Role",
+        "第3章 · Individual Emotion: Amae"
+      ],
+      "addedCardIds": [
+        "emotion-social-roles",
+        "emotion-amae",
+        "emotion-context-recognition"
+      ],
+      "existingCardIds": [
+        "emotion-self-construal",
+        "emotion-dialectical-complexity",
+        "emotion-ideal-affect"
+      ],
+      "notes": "复核章节小节目录，并对本轮新增卡所列小节核读正文；已有卡保留。以可独立解释的机制、模型、效应和概念为单位，不把每个研究案例拆成卡；未宣称列尽全部术语。"
+    },
+    {
+      "chapterId": "emotions-04",
+      "reviewedSections": [
+        "第4章 · Inference and Context in Emotion Recognition",
+        "第4章 · Emotional Expression and the Coordination of Social Interaction"
+      ],
+      "addedCardIds": [
+        "emotion-context-recognition",
+        "emotion-expression-social-functions"
+      ],
+      "existingCardIds": [
+        "emotion-expression-universality",
+        "emotion-behavioral-ecology",
+        "emotion-display-rules-dialects"
+      ],
+      "notes": "复核章节小节目录，并对本轮新增卡所列小节核读正文；已有卡保留。以可独立解释的机制、模型、效应和概念为单位，不把每个研究案例拆成卡；未宣称列尽全部术语。"
+    },
+    {
+      "chapterId": "emotions-05",
+      "reviewedSections": [
+        "第5章 · Representations of Emotions in the Body",
+        "第5章 · Directed Facial Action and Physiological Differentiation of Negative Emotion",
+        "第5章 · The Blush",
+        "第5章 · Individual Emotion: Awe"
+      ],
+      "addedCardIds": [
+        "emotion-facial-feedback",
+        "emotion-blushing-repair",
+        "emotion-awe"
+      ],
+      "existingCardIds": [
+        "emotion-james-lange",
+        "emotion-hpa-axis",
+        "emotion-interoception",
+        "emotion-somatic-marker"
+      ],
+      "notes": "复核章节小节目录，并对本轮新增卡所列小节核读正文；已有卡保留。以可独立解释的机制、模型、效应和概念为单位，不把每个研究案例拆成卡；未宣称列尽全部术语。"
+    },
+    {
+      "chapterId": "emotions-06",
+      "reviewedSections": [
+        "第6章 · Which Is Stronger, Good or Bad?",
+        "第6章 · Primary Appraisals, Good and Bad",
+        "第6章 · Prototypes",
+        "第6章 · Novels and films: Vertigo",
+        "第6章 · Distraction, Reappraisal, Suppression",
+        "第6章 · Variations in Emotion Lexicon"
+      ],
+      "addedCardIds": [
+        "emotion-negativity-bias",
+        "emotion-affective-priming",
+        "emotion-prototypes",
+        "emotion-social-sharing",
+        "emotion-reappraisal",
+        "emotion-expressive-suppression",
+        "emotion-distraction",
+        "emotion-expressive-writing"
+      ],
+      "existingCardIds": [
+        "emotion-dialectical-complexity",
+        "emotion-appraisal",
+        "emotion-discrete-emotions",
+        "emotion-constructed-emotion",
+        "emotion-regulation-process"
+      ],
+      "notes": "复核章节小节目录，并对本轮新增卡所列小节核读正文；已有卡保留。以可独立解释的机制、模型、效应和概念为单位，不把每个研究案例拆成卡；未宣称列尽全部术语。"
+    },
+    {
+      "chapterId": "emotions-07",
+      "reviewedSections": [
+        "第7章 · Empathy and the Cortex",
+        "第7章 · Social Pain and the Dorsal Anterior Cingulate Cortex and Anterior Insular Cortex"
+      ],
+      "addedCardIds": [
+        "emotion-empathy-components",
+        "emotion-social-pain"
+      ],
+      "existingCardIds": [
+        "emotion-interoception",
+        "emotion-constructed-emotion",
+        "emotion-amygdala-relevance",
+        "learning-wanting-liking",
+        "emotion-brain-patterns"
+      ],
+      "notes": "复核章节小节目录，并对本轮新增卡所列小节核读正文；已有卡保留。以可独立解释的机制、模型、效应和概念为单位，不把每个研究案例拆成卡；未宣称列尽全部术语。"
+    },
+    {
+      "chapterId": "emotions-08",
+      "reviewedSections": [
+        "第8章 · The Negativity Bias",
+        "第8章 · Theories of Emotional Development",
+        "第8章 · Multimodal Recognition of Emotions",
+        "第8章 · Neurobiological Development of Emotion Regulation"
+      ],
+      "addedCardIds": [
+        "emotion-negativity-bias",
+        "development-functionalist-emotion",
+        "emotion-multimodal-recognition",
+        "development-effortful-control"
+      ],
+      "existingCardIds": [
+        "emotion-self-conscious-development",
+        "emotion-social-referencing",
+        "emotion-temperament",
+        "emotion-regulation-development"
+      ],
+      "notes": "复核章节小节目录，并对本轮新增卡所列小节核读正文；已有卡保留。以可独立解释的机制、模型、效应和概念为单位，不把每个研究案例拆成卡；未宣称列尽全部术语。"
+    },
+    {
+      "chapterId": "emotions-09",
+      "reviewedSections": [
+        "第9章 · Box Individual Emotion: Compassion",
+        "第9章 · Gratitude",
+        "第9章 · Social Support",
+        "第9章 · Power and Emotion",
+        "第9章 · Social Class and Emotion"
+      ],
+      "addedCardIds": [
+        "emotion-forgiveness",
+        "emotion-gratitude",
+        "emotion-social-support-buffering",
+        "emotion-power-approach-inhibition",
+        "emotion-social-class-context"
+      ],
+      "existingCardIds": [
+        "emotion-disgust",
+        "emotion-status-display",
+        "emotion-emotional-mimicry",
+        "emotion-group-collective",
+        "emotion-infrahumanization",
+        "emotion-emotional-intelligence"
+      ],
+      "notes": "复核章节小节目录，并对本轮新增卡所列小节核读正文；已有卡保留。以可独立解释的机制、模型、效应和概念为单位，不把每个研究案例拆成卡；未宣称列尽全部术语。"
+    },
+    {
+      "chapterId": "emotions-10",
+      "reviewedSections": [
+        "第10章 · Emotions Prioritize Thoughts, Goals, and Actions",
+        "第10章 · Styles of Processing",
+        "第10章 · Attentional Effects"
+      ],
+      "addedCardIds": [
+        "emotion-priority-interruption",
+        "emotion-processing-style",
+        "emotion-distractor-devaluation"
+      ],
+      "existingCardIds": [
+        "emotion-affect-infusion",
+        "emotion-affect-as-information",
+        "emotion-memory-reconstruction",
+        "emotion-social-intuition"
+      ],
+      "notes": "复核章节小节目录，并对本轮新增卡所列小节核读正文；已有卡保留。以可独立解释的机制、模型、效应和概念为单位，不把每个研究案例拆成卡；未宣称列尽全部术语。"
+    },
+    {
+      "chapterId": "emotions-11",
+      "reviewedSections": [
+        "第11章 · Parental Mentalization and Reflective Capacity",
+        "第11章 · Talk About Emotions",
+        "第11章 · Parental Reactions to Children's Emotions and Emotion Coaching"
+      ],
+      "addedCardIds": [
+        "development-parental-mentalization",
+        "development-mental-state-talk",
+        "development-emotion-coaching"
+      ],
+      "existingCardIds": [
+        "emotion-attachment",
+        "emotion-temperament",
+        "emotion-differential-susceptibility",
+        "emotion-biobehavioral-synchrony",
+        "emotion-emotion-socialization"
+      ],
+      "notes": "复核章节小节目录，并对本轮新增卡所列小节核读正文；已有卡保留。以可独立解释的机制、模型、效应和概念为单位，不把每个研究案例拆成卡；未宣称列尽全部术语。"
+    },
+    {
+      "chapterId": "emotions-12",
+      "reviewedSections": [
+        "第12章 · Trajectories of Externalizing Problems"
+      ],
+      "addedCardIds": [
+        "development-conduct-trajectories"
+      ],
+      "existingCardIds": [
+        "emotion-categories-dimensions",
+        "emotion-p-factor",
+        "emotion-transactional-context",
+        "emotion-cumulative-risk",
+        "emotion-developmental-continuity"
+      ],
+      "notes": "复核章节小节目录，并对本轮新增卡所列小节核读正文；已有卡保留。以可独立解释的机制、模型、效应和概念为单位，不把每个研究案例拆成卡；未宣称列尽全部术语。"
+    },
+    {
+      "chapterId": "emotions-13",
+      "reviewedSections": [
+        "第13章 · Social Support",
+        "第13章 · Individual Emotion: Self-compassion",
+        "第13章 · Recurrence"
+      ],
+      "addedCardIds": [
+        "emotion-social-support-buffering",
+        "emotion-self-compassion",
+        "emotion-stress-sensitization"
+      ],
+      "existingCardIds": [
+        "emotion-diathesis-stress",
+        "emotion-rumination",
+        "emotion-anxiety-attention",
+        "emotion-expressed-emotion"
+      ],
+      "notes": "复核章节小节目录，并对本轮新增卡所列小节核读正文；已有卡保留。以可独立解释的机制、模型、效应和概念为单位，不把每个研究案例拆成卡；未宣称列尽全部术语。"
+    },
+    {
+      "chapterId": "emotions-14",
+      "reviewedSections": [
+        "第14章 · Psychotherapy Without Therapists",
+        "第14章 · Well-Being",
+        "第14章 · Emotion-Focused Therapy: Changing Emotional Life by Emotions",
+        "第14章 · Reflection and Cultivation: Emotion Diaries",
+        "第14章 · Emotions in Literature"
+      ],
+      "addedCardIds": [
+        "emotion-social-sharing",
+        "emotion-hedonic-adaptation",
+        "emotion-emotion-focused-therapy",
+        "emotion-expressive-writing",
+        "emotion-literature-simulation"
+      ],
+      "existingCardIds": [
+        "emotion-meaningful-life",
+        "emotion-flow",
+        "emotion-mindfulness",
+        "emotion-cognitive-behavioral"
+      ],
+      "notes": "复核章节小节目录，并对本轮新增卡所列小节核读正文；已有卡保留。以可独立解释的机制、模型、效应和概念为单位，不把每个研究案例拆成卡；未宣称列尽全部术语。"
+    },
+    {
+      "chapterId": "social-chapter-01",
+      "reviewedSections": [
+        "情境力量与通道因素",
+        "解释、图式与自动加工",
+        "进化与自然主义谬误",
+        "文化、自我与WEIRD范围"
+      ],
+      "addedCardIds": [
+        "social-channel-factors",
+        "social-naturalistic-fallacy",
+        "social-naive-realism"
+      ],
+      "existingCardIds": [
+        "social-automatic-controlled-processing",
+        "social-construal",
+        "social-schemas"
+      ],
+      "notes": "第二轮按小节、术语和实例查漏，核读新增卡所列PDF文件页序的正文；已有大理论复用并补充必要出处。reviewedSections为扫描范围，不表示逐字穷尽或所引原论文已核验。未将只有描述性关联或缺少独立解释的所有实例强行建卡。"
+    },
+    {
+      "chapterId": "social-chapter-02",
+      "reviewedSections": [
+        "观察、档案与抽样",
+        "相关、第三变量与自我选择",
+        "纵向、实验与自然实验",
+        "内外效度、测量与重复",
+        "伦理与基础/应用研究"
+      ],
+      "addedCardIds": [
+        "social-hindsight-bias",
+        "social-natural-experiment"
+      ],
+      "existingCardIds": [
+        "foundations-experiment-correlation",
+        "foundations-measurement",
+        "social-random-assignment"
+      ],
+      "notes": "第二轮按小节、术语和实例查漏，核读新增卡所列PDF文件页序的正文；已有大理论复用并补充必要出处。reviewedSections为扫描范围，不表示逐字穷尽或所引原论文已核验。未将只有描述性关联或缺少独立解释的所有实例强行建卡。"
+    },
+    {
+      "chapterId": "social-chapter-03",
+      "reviewedSections": [
+        "自我知识的组织与准确性",
+        "社会化、反映评价与工作自我",
+        "社会比较和群体身份",
+        "自尊条件及社会计量器",
+        "自我增强与验证",
+        "调节焦点与执行意向",
+        "自我呈现、监控和设障"
+      ],
+      "addedCardIds": [
+        "social-reflected-appraisal",
+        "social-working-self-concept",
+        "social-social-comparison",
+        "social-self-worth-contingencies",
+        "social-self-enhancement",
+        "social-self-verification",
+        "social-regulatory-focus",
+        "social-self-presentation",
+        "social-self-handicapping"
+      ],
+      "existingCardIds": [
+        "cognition-implementation-intentions",
+        "social-self-discrepancy",
+        "social-sociometer"
+      ],
+      "notes": "第二轮按小节、术语和实例查漏，核读新增卡所列PDF文件页序的正文；已有大理论复用并补充必要出处。reviewedSections为扫描范围，不表示逐字穷尽或所引原论文已核验。未将只有描述性关联或缺少独立解释的所有实例强行建卡。"
+    },
+    {
+      "chapterId": "social-chapter-04",
+      "reviewedSections": [
+        "外表快速印象",
+        "共变、折扣与反事实归因",
+        "自利、对应与行动者观察者差异",
+        "顺序、框架与时间解释水平",
+        "确认偏差、图式与启动",
+        "易得性、流畅性、代表性与基率",
+        "虚假相关与回归效应"
+      ],
+      "addedCardIds": [
+        "social-covariation-attribution",
+        "social-discounting-principle",
+        "social-counterfactual-thinking",
+        "social-self-serving-attribution",
+        "social-actor-observer",
+        "social-order-effects",
+        "social-framing-effects",
+        "social-construal-level",
+        "social-processing-fluency",
+        "cognition-base-rate-neglect",
+        "social-illusory-correlation",
+        "social-regression-fallacy"
+      ],
+      "existingCardIds": [
+        "social-confirmation-bias",
+        "social-fundamental-attribution-error"
+      ],
+      "notes": "第二轮按小节、术语和实例查漏，核读新增卡所列PDF文件页序的正文；已有大理论复用并补充必要出处。reviewedSections为扫描范围，不表示逐字穷尽或所引原论文已核验。未将只有描述性关联或缺少独立解释的所有实例强行建卡。"
+    },
+    {
+      "chapterId": "social-chapter-05",
+      "reviewedSections": [
+        "情绪定义与评价",
+        "表达普遍性及文化变异",
+        "社会功能、承诺和协作",
+        "社会判断与扩展建构",
+        "幸福预测、免疫忽视及焦点偏差",
+        "记忆中的峰终与时长忽视"
+      ],
+      "addedCardIds": [
+        "social-peak-end-duration",
+        "social-emotion-commitment"
+      ],
+      "existingCardIds": [
+        "emotion-expression-social-functions",
+        "social-affective-forecasting",
+        "social-broaden-build"
+      ],
+      "notes": "第二轮按小节、术语和实例查漏，核读新增卡所列PDF文件页序的正文；已有大理论复用并补充必要出处。reviewedSections为扫描范围，不表示逐字穷尽或所引原论文已核验。未将只有描述性关联或缺少独立解释的所有实例强行建卡。"
+    },
+    {
+      "chapterId": "social-chapter-06",
+      "reviewedSections": [
+        "态度三成分与测量",
+        "态度行为对应及内省",
+        "决策、努力与诱导顺从",
+        "责任与失调边界",
+        "自我知觉与身体线索",
+        "系统合理化和恐惧管理的重复争议"
+      ],
+      "addedCardIds": [
+        "social-attitude-components",
+        "social-attitude-behavior-correspondence",
+        "social-reasons-analysis",
+        "social-effort-justification",
+        "social-induced-compliance",
+        "social-system-justification",
+        "social-terror-management"
+      ],
+      "existingCardIds": [
+        "social-cognitive-dissonance",
+        "social-self-affirmation",
+        "social-self-perception"
+      ],
+      "notes": "第二轮按小节、术语和实例查漏，核读新增卡所列PDF文件页序的正文；已有大理论复用并补充必要出处。reviewedSections为扫描范围，不表示逐字穷尽或所引原论文已核验。未将只有描述性关联或缺少独立解释的所有实例强行建卡。"
+    },
+    {
+      "chapterId": "social-chapter-07",
+      "reviewedSections": [
+        "双过程与精细加工",
+        "来源可信度和睡眠者效应",
+        "生动性、可识别受害者与恐惧",
+        "受众认知需要及文化",
+        "议程、敌意媒体与误信息",
+        "注意选择、思考极化、知识与接种"
+      ],
+      "addedCardIds": [
+        "social-sleeper-effect",
+        "social-identifiable-victim",
+        "social-fear-appeals",
+        "social-need-for-cognition",
+        "social-agenda-control",
+        "social-hostile-media",
+        "social-thought-polarization"
+      ],
+      "existingCardIds": [
+        "social-attitude-inoculation",
+        "social-elaboration-likelihood"
+      ],
+      "notes": "第二轮按小节、术语和实例查漏，核读新增卡所列PDF文件页序的正文；已有大理论复用并补充必要出处。reviewedSections为扫描范围，不表示逐字穷尽或所引原论文已核验。未将只有描述性关联或缺少独立解释的所有实例强行建卡。"
+    },
+    {
+      "chapterId": "social-chapter-08",
+      "reviewedSections": [
+        "自动模仿与规范/信息影响",
+        "群体大小、一致性和文化",
+        "少数派持续影响",
+        "登门槛及静态/动态规范",
+        "互惠、相互让步与情绪",
+        "服从的情境条件及心理逆反"
+      ],
+      "addedCardIds": [
+        "social-minority-influence",
+        "social-foot-in-the-door",
+        "social-descriptive-injunctive-norms",
+        "social-dynamic-norms",
+        "social-reciprocity-norm",
+        "social-door-in-the-face",
+        "social-negative-state-relief",
+        "social-psychological-reactance"
+      ],
+      "existingCardIds": [
+        "social-informational-influence",
+        "social-normative-influence",
+        "social-obedience-authority"
+      ],
+      "notes": "第二轮按小节、术语和实例查漏，核读新增卡所列PDF文件页序的正文；已有大理论复用并补充必要出处。reviewedSections为扫描范围，不表示逐字穷尽或所引原论文已核验。未将只有描述性关联或缺少独立解释的所有实例强行建卡。"
+    },
+    {
+      "chapterId": "social-chapter-09",
+      "reviewedSections": [
+        "归属需要与关系研究的选择限制",
+        "共有/交换、公平与依恋",
+        "功能距离、曝光、相似与互补",
+        "外貌吸引与配偶偏好解释的限制",
+        "爱的类型、投资及回应性",
+        "负面沟通、归因与关系维护"
+      ],
+      "addedCardIds": [
+        "social-need-to-belong",
+        "social-communal-exchange",
+        "social-equity-theory",
+        "social-functional-distance",
+        "social-similarity-attraction",
+        "social-halo-effect",
+        "social-partner-responsiveness",
+        "social-relationship-attributions"
+      ],
+      "existingCardIds": [
+        "social-attachment",
+        "social-investment-model",
+        "social-mere-exposure",
+        "social-social-exchange"
+      ],
+      "notes": "第二轮按小节、术语和实例查漏，核读新增卡所列PDF文件页序的正文；已有大理论复用并补充必要出处。reviewedSections为扫描范围，不表示逐字穷尽或所引原论文已核验。未将只有描述性关联或缺少独立解释的所有实例强行建卡。"
+    },
+    {
+      "chapterId": "social-chapter-10",
+      "reviewedSections": [
+        "刻板印象、偏见与行为区分",
+        "现代、善意和矛盾偏见",
+        "自陈、IAT、启动及AMP",
+        "现实冲突、最小群体及社会认同",
+        "独特性、解释、语言及反例子类型",
+        "同质性、面孔识别与自动控制",
+        "接触、个体化、共同身份及多样性理念"
+      ],
+      "addedCardIds": [
+        "social-stereotype-prejudice-discrimination",
+        "social-modern-racism",
+        "social-benevolent-prejudice",
+        "social-implicit-association-test",
+        "social-affect-misattribution-procedure",
+        "social-paired-distinctiveness",
+        "social-subtyping",
+        "social-outgroup-homogeneity",
+        "cognition-own-race-bias",
+        "social-contact-hypothesis",
+        "social-common-ingroup-identity",
+        "social-diversity-ideologies"
+      ],
+      "existingCardIds": [
+        "social-realistic-group-conflict",
+        "social-self-fulfilling-prophecy",
+        "social-social-identity"
+      ],
+      "notes": "第二轮按小节、术语和实例查漏，核读新增卡所列PDF文件页序的正文；已有大理论复用并补充必要出处。reviewedSections为扫描范围，不表示逐字穷尽或所引原论文已核验。未将只有描述性关联或缺少独立解释的所有实例强行建卡。"
+    },
+    {
+      "chapterId": "social-chapter-11",
+      "reviewedSections": [
+        "个人、制度和行为等级维持",
+        "支配倾向、功绩观和公正世界",
+        "温暖能力与矛盾刻板印象",
+        "日常偏见、归因模糊与刻板威胁",
+        "跨群体互动目标和认知负担",
+        "人口变化、进步参照与历史知识"
+      ],
+      "addedCardIds": [
+        "social-social-dominance",
+        "social-just-world",
+        "social-stereotype-content",
+        "social-intergroup-goal-mismatch",
+        "social-marley-hypothesis"
+      ],
+      "existingCardIds": [
+        "social-attributional-ambiguity",
+        "social-stereotype-threat"
+      ],
+      "notes": "第二轮按小节、术语和实例查漏，核读新增卡所列PDF文件页序的正文；已有大理论复用并补充必要出处。reviewedSections为扫描范围，不表示逐字穷尽或所引原论文已核验。未将只有描述性关联或缺少独立解释的所有实例强行建卡。"
+    },
+    {
+      "chapterId": "social-chapter-12",
+      "reviewedSections": [
+        "群体性质与社会助长",
+        "单纯在场与评价顾虑的竞争检验",
+        "社会惰化、群体迷思和极化",
+        "权力获得、德性与暗黑特质",
+        "权力趋近/抑制",
+        "去个体化、责任及唤起",
+        "自我意识、镜子与聚光灯"
+      ],
+      "addedCardIds": [
+        "social-evaluation-apprehension",
+        "social-deindividuation",
+        "social-self-awareness",
+        "social-spotlight-effect"
+      ],
+      "existingCardIds": [
+        "emotion-power-approach-inhibition",
+        "social-group-polarization",
+        "social-groupthink",
+        "social-social-facilitation",
+        "social-social-loafing"
+      ],
+      "notes": "第二轮按小节、术语和实例查漏，核读新增卡所列PDF文件页序的正文；已有大理论复用并补充必要出处。reviewedSections为扫描范围，不表示逐字穷尽或所引原论文已核验。未将只有描述性关联或缺少独立解释的所有实例强行建卡。"
+    },
+    {
+      "chapterId": "social-chapter-13",
+      "reviewedSections": [
+        "一般攻击框架",
+        "炎热、媒体暴力及因果/外推限制",
+        "拒绝、不平等与自然环境",
+        "愤怒、武器线索、制服与去人性化",
+        "荣誉、性别与不稳定男性气概",
+        "对手误解、反应性贬值与复杂推理",
+        "视角表达、和解及恢复性司法"
+      ],
+      "addedCardIds": [
+        "social-general-aggression",
+        "social-heat-misattribution",
+        "social-weapons-cues",
+        "social-precarious-manhood",
+        "social-reactive-devaluation",
+        "social-integrative-complexity",
+        "social-perspective-giving",
+        "social-restorative-justice"
+      ],
+      "existingCardIds": [
+        "emotion-social-pain",
+        "social-dehumanization",
+        "social-honor-culture"
+      ],
+      "notes": "第二轮按小节、术语和实例查漏，核读新增卡所列PDF文件页序的正文；已有大理论复用并补充必要出处。reviewedSections为扫描范围，不表示逐字穷尽或所引原论文已核验。未将只有描述性关联或缺少独立解释的所有实例强行建卡。"
+    },
+    {
+      "chapterId": "social-chapter-14",
+      "reviewedSections": [
+        "社会直觉与道德基础",
+        "个人痛苦、共情与助人动机",
+        "旁观者阶段、责任与多元无知",
+        "亲缘与互惠的演化解释",
+        "囚徒困境、声誉、标签与文化",
+        "经济博弈外部效度",
+        "最后通牒与以牙还牙"
+      ],
+      "addedCardIds": [
+        "social-moral-foundations",
+        "social-prisoners-dilemma",
+        "social-tit-for-tat",
+        "social-reputation-cooperation",
+        "social-ultimatum-game"
+      ],
+      "existingCardIds": [
+        "social-bystander-diffusion",
+        "social-construal",
+        "social-empathy-altruism",
+        "social-pluralistic-ignorance",
+        "social-reciprocal-altruism"
+      ],
+      "notes": "第二轮按小节、术语和实例查漏，核读新增卡所列PDF文件页序的正文；已有大理论复用并补充必要出处。reviewedSections为扫描范围，不表示逐字穷尽或所引原论文已核验。未将只有描述性关联或缺少独立解释的所有实例强行建卡。"
+    },
+    {
+      "chapterId": "social-chapter-a1",
+      "reviewedSections": [
+        "短期/慢性压力与HPA",
+        "反刍、情感标记和表达性写作",
+        "资源、客观阶层及主观阶梯",
+        "社会支持与照顾结盟",
+        "控制感和乐观预期"
+      ],
+      "addedCardIds": [
+        "social-affect-labeling",
+        "personality-tend-befriend",
+        "social-subjective-social-rank",
+        "social-dispositional-optimism"
+      ],
+      "existingCardIds": [
+        "emotion-expressive-writing",
+        "emotion-social-support-buffering",
+        "social-perceived-control",
+        "social-stress-appraisal"
+      ],
+      "notes": "第二轮按小节、术语和实例查漏，核读新增卡所列PDF文件页序的正文；已有大理论复用并补充必要出处。reviewedSections为扫描范围，不表示逐字穷尽或所引原论文已核验。未将只有描述性关联或缺少独立解释的所有实例强行建卡。"
+    },
+    {
+      "chapterId": "social-chapter-a2",
+      "reviewedSections": [
+        "教师期待与能力信念",
+        "文化和社会化的成绩解释",
+        "价值肯定与递归反馈",
+        "归属不确定性及文化不匹配",
+        "娱乐教育与观察学习",
+        "统计推理、样本与因果识别"
+      ],
+      "addedCardIds": [
+        "social-belonging-uncertainty",
+        "social-cultural-mismatch",
+        "social-recursive-intervention"
+      ],
+      "existingCardIds": [
+        "personality-observational-learning",
+        "social-implicit-intelligence-theories",
+        "social-teacher-expectancy"
+      ],
+      "notes": "第二轮按小节、术语和实例查漏，核读新增卡所列PDF文件页序的正文；已有大理论复用并补充必要出处。reviewedSections为扫描范围，不表示逐字穷尽或所引原论文已核验。未将只有描述性关联或缺少独立解释的所有实例强行建卡。"
+    },
+    {
+      "chapterId": "social-chapter-a3",
+      "reviewedSections": [
+        "重建记忆、误导与证人辨认",
+        "虚假供认及压力折扣",
+        "陪审选择、多数/少数及决策规则",
+        "惩罚金额尺度转换",
+        "报应/威慑及归因情绪路径",
+        "刻板印象与程序公正"
+      ],
+      "addedCardIds": [
+        "social-false-confessions",
+        "social-punitive-damage-mapping",
+        "social-punishment-attribution"
+      ],
+      "existingCardIds": [
+        "social-eyewitness-memory",
+        "social-normative-influence",
+        "social-procedural-justice"
+      ],
+      "notes": "第二轮按小节、术语和实例查漏，核读新增卡所列PDF文件页序的正文；已有大理论复用并补充必要出处。reviewedSections为扫描范围，不表示逐字穷尽或所引原论文已核验。未将只有描述性关联或缺少独立解释的所有实例强行建卡。"
+    },
+    {
+      "chapterId": "personality-chapter-01",
+      "reviewedSections": [
+        "The Goals of Personality Psychology",
+        "Mission: Impossible",
+        "Competitors or Complements?",
+        "Distinct Approaches Versus the One Big Theory",
+        "Advantages as Disadvantages and Vice Versa",
+        "The Plan of This Book",
+        "Pigeonholing Versus Appreciation of Individual Differences",
+        "Summary; Key Terms"
+      ],
+      "addedCardIds": [],
+      "existingCardIds": [
+        "personality-psychological-triad",
+        "personality-complementary-approaches"
+      ],
+      "notes": "完成目录、小节、术语与关键正文扫描。复用心理三要素和取向互补；Funder第一法则属于作者贯穿全书的概括，作为取向边界补充，不单列为经证实的心理定律。 本轮为全章小节与术语扫描、候选正文定位复核，未声称逐字穷尽全部研究；全部引用均为教材内容，未检索外部资料。"
+    },
+    {
+      "chapterId": "personality-chapter-02",
+      "reviewedSections": [
+        "Psychology’s Emphasis on Method",
+        "Scientific Education and Technical Training",
+        "Personality Data / Four Kinds of Clues",
+        "S Data / Advantages and Disadvantages",
+        "I Data / Judgments and Expectancies",
+        "L Data / Advantages and Disadvantages",
+        "Naturalistic B Data / Experience Sampling / EAR",
+        "Laboratory B Data / Experiments and Physiological Measures",
+        "Quality of Data / Reliability / Aggregation / Validity / Generalizability",
+        "Research Design / Case Method",
+        "Experimental and Correlational Methods",
+        "Summary; Key Terms"
+      ],
+      "addedCardIds": [
+        "foundations-aggregation",
+        "foundations-experience-sampling",
+        "foundations-case-method"
+      ],
+      "existingCardIds": [
+        "personality-blis-data",
+        "personality-construct-validity",
+        "social-self-verification",
+        "foundations-measurement"
+      ],
+      "notes": "补测量聚合、经验取样和个案研究。自我验证使用Social负责的新ID补来源，泛化性并入既有测量卡；四类资料与实验/相关不重复建卡。 本轮为全章小节与术语扫描、候选正文定位复核，未声称逐字穷尽全部研究；全部引用均为教材内容，未检索外部资料。"
+    },
+    {
+      "chapterId": "personality-chapter-03",
+      "reviewedSections": [
+        "Personality Assessment",
+        "The Business of Testing",
+        "S-Data Versus B-Data Personality Tests",
+        "Projective Tests / Projective Hypothesis / Validity",
+        "Objective Tests / Validity and Subjectivity",
+        "Rational Method",
+        "Factor Analytic Method",
+        "Empirical Method / Cross-validation",
+        "Combination of Methods",
+        "Significance Testing / Type I and II Errors",
+        "Effect Size / BESD",
+        "Replication",
+        "Purposes of Personality Testing",
+        "Protection of Research Participants",
+        "The Uses of Psychological Research",
+        "Honesty and Open Science",
+        "Summary; Key Terms"
+      ],
+      "addedCardIds": [
+        "personality-projective-hypothesis",
+        "foundations-rational-test-construction",
+        "foundations-factor-analysis",
+        "foundations-empirical-test-construction",
+        "foundations-significance-errors",
+        "foundations-besd"
+      ],
+      "existingCardIds": [
+        "personality-effect-size",
+        "personality-replication-open-science"
+      ],
+      "notes": "补编量表三种方法、投射假说、两类推断错误及BESD。客观题仍有解释问题；BESD明确假想50/50边际条件，不直接当现实预测准确率。伦理小节保留为研究背景，不造心理效应。 本轮为全章小节与术语扫描、候选正文定位复核，未声称逐字穷尽全部研究；全部引用均为教材内容，未检索外部资料。"
+    },
+    {
+      "chapterId": "personality-chapter-04",
+      "reviewedSections": [
+        "The Trait Approach",
+        "People Are Inconsistent",
+        "The Person-Situation Debate / Predictability",
+        "The Power of the Situation",
+        "Absolute Versus Relative Consistency",
+        "Are Person Perceptions Fundamentally Mistaken?",
+        "Personality and Life",
+        "Persons and Situations / Interactionism",
+        "Persons, Situations, and Values",
+        "People Are Different",
+        "Summary; Key Terms"
+      ],
+      "addedCardIds": [],
+      "existingCardIds": [
+        "personality-person-situation-interaction",
+        "personality-relative-consistency"
+      ],
+      "notes": "完整扫描人与情境争论、绝对/相对一致性、生活结果及价值讨论。已有两张主卡可承接，新增正文补充三种交互路径；本章不为争论换名制造重复卡。 本轮为全章小节与术语扫描、候选正文定位复核，未声称逐字穷尽全部研究；全部引用均为教材内容，未检索外部资料。"
+    },
+    {
+      "chapterId": "personality-chapter-05",
+      "reviewedSections": [
+        "Consequences of Everyday Judgments / Opportunities / Expectancies",
+        "Criteria for Accuracy / Convergent Validation",
+        "First Impressions / Faces and Visible Signs",
+        "Moderators of Accuracy / The Good Judge",
+        "Normative and Distinctive Judgment",
+        "The Good Target / Judgability",
+        "The Good Trait",
+        "The Good Information / Quantity and Quality",
+        "The Realistic Accuracy Model",
+        "Accurate Self-Knowledge",
+        "Self-Knowledge Versus Knowledge of Others",
+        "Improving Self-Knowledge",
+        "Summary; Key Terms"
+      ],
+      "addedCardIds": [
+        "personality-judgability",
+        "personality-normative-distinctive-accuracy",
+        "personality-self-other-knowledge-asymmetry"
+      ],
+      "existingCardIds": [
+        "personality-realistic-accuracy-model",
+        "personality-convergent-validation"
+      ],
+      "notes": "补对象可判断性、常模/独特准确性、自我/他人知识不对称。第一印象研究未被写成凭外貌诊断；判断准确性仍需外部效标。 本轮为全章小节与术语扫描、候选正文定位复核，未声称逐字穷尽全部研究；全部引用均为教材内容，未检索外部资料。"
+    },
+    {
+      "chapterId": "personality-chapter-06",
+      "reviewedSections": [
+        "Four Ways to Study Personality",
+        "The Single-Trait Approach / Self-Monitoring",
+        "Narcissism / Self-Regulation / Generational Debate",
+        "The Many-Trait Approach / California Q-Set",
+        "Talking",
+        "Political Beliefs",
+        "Theoretical Approaches to Essential Traits",
+        "Factor Analytic Approaches",
+        "Discovery of the Big Five / Lexical Hypothesis",
+        "Extraversion / Eysenck and Big Five Views",
+        "Neuroticism",
+        "Conscientiousness",
+        "Agreeableness",
+        "Openness to Experience",
+        "Beyond the Big Five / HEXACO",
+        "Typologies / Myers-Briggs / Uses and Limits",
+        "Summary; Key Terms"
+      ],
+      "addedCardIds": [
+        "personality-narcissism",
+        "personality-q-sort",
+        "personality-lexical-hypothesis",
+        "personality-extraversion-arousal",
+        "personality-hexaco"
+      ],
+      "existingCardIds": [
+        "personality-big-five",
+        "personality-traits-types",
+        "personality-self-monitoring"
+      ],
+      "notes": "补自恋、Q分类、词汇假说、Eysenck假说与HEXACO。大五各维度既有总卡承接；政治相关、外貌、代际变化等例子不升级成个人定论。 本轮为全章小节与术语扫描、候选正文定位复核，未声称逐字穷尽全部研究；全部引用均为教材内容，未检索外部资料。"
+    },
+    {
+      "chapterId": "personality-chapter-07",
+      "reviewedSections": [
+        "Personality Stability / Rank-Order Consistency",
+        "Causes of Stability / Temperament and Heterotypic Continuity",
+        "Physical and Environmental Factors",
+        "Person-Environment Transactions / Active / Reactive / Evocative",
+        "Cumulative Continuity",
+        "Cross-Sectional Studies / Cohort Effects",
+        "Longitudinal Studies / Maturity Principle",
+        "Causes of Personality Development",
+        "The Social Clock",
+        "The Development of Narrative Identity",
+        "Goals Across the Life Span",
+        "The Desire for Change",
+        "Psychotherapy",
+        "General and Targeted Interventions",
+        "Behaviors and Life Experiences",
+        "Overcoming Obstacles to Change",
+        "Principles of Continuity and Change / Seven Principles",
+        "Is Personality Change Good or Bad?",
+        "Summary; Key Terms"
+      ],
+      "addedCardIds": [
+        "personality-person-environment-transactions",
+        "foundations-cohort-effects",
+        "personality-social-clock",
+        "personality-narrative-identity",
+        "personality-time-perspective-goals",
+        "personality-intentional-change",
+        "personality-social-investment"
+      ],
+      "existingCardIds": [
+        "personality-cumulative-continuity",
+        "personality-maturity-principle",
+        "emotion-developmental-continuity"
+      ],
+      "notes": "补三种人境交易、队列效应、社会时钟、叙事身份、时间视野、改变路径与社会投入。异型连续性加至既有卡并注明人格用法与跨诊断用法范围不同。 本轮为全章小节与术语扫描、候选正文定位复核，未声称逐字穷尽全部研究；全部引用均为教材内容，未检索外部资料。"
+    },
+    {
+      "chapterId": "personality-chapter-08",
+      "reviewedSections": [
+        "The Anatomy of Personality",
+        "Research Methods / Damage / Stimulation / Imaging",
+        "EEG / MEG / PET / fMRI",
+        "Brain Imaging Inference / Neural Context / Replication",
+        "The Amygdala",
+        "Frontal Lobes and Neocortex / Somatic Markers",
+        "The Anterior Cingulate",
+        "The Lessons of Psychosurgery",
+        "Brain Systems",
+        "Biochemistry / Neurotransmitters / Dopamine / Serotonin",
+        "Hormones / Stress / Tend-and-Befriend",
+        "Testosterone",
+        "Cortisol",
+        "Oxytocin / Context / Tentative Findings",
+        "The Big Five and the Brain",
+        "Biology: Cause and Effect",
+        "Summary; Key Terms"
+      ],
+      "addedCardIds": [
+        "foundations-reverse-inference",
+        "personality-tend-befriend",
+        "personality-oxytocin-context"
+      ],
+      "existingCardIds": [
+        "personality-behavioral-activation",
+        "personality-neural-networks"
+      ],
+      "notes": "补反向推断、照料结盟和催产素的条件性。脑区、递质与激素已扫描；不为每个解剖名词单建卡，不把BIS脚注扩写成完整理论，注意教材自身复制警告。 本轮为全章小节与术语扫描、候选正文定位复核，未声称逐字穷尽全部研究；全部引用均为教材内容，未检索外部资料。"
+    },
+    {
+      "chapterId": "personality-chapter-09",
+      "reviewedSections": [
+        "Behavioral Genetics / Controversy",
+        "Calculating Heritability",
+        "What Heritability Tells You / Shared and Nonshared Environment",
+        "What Heritability Can’t Tell You",
+        "Molecular Genetics",
+        "Gene-Environment Interactions / Niche Picking",
+        "Genome-Wide Association Studies",
+        "Epigenetics",
+        "The Future of Behavioral Genetics",
+        "Evolution and Behavior / Mismatch / Aggression and Altruism",
+        "Individual Differences / Adaptation / Life History / Frequency Dependence",
+        "Five Stress Tests / Methodology / Reproduction / Values / Flexibility / Social Structure",
+        "The Contribution of Evolutionary Theory",
+        "Inheritance Is the Beginning, Not the End",
+        "Will Biology Replace Psychology?",
+        "Summary; Key Terms"
+      ],
+      "addedCardIds": [
+        "personality-shared-nonshared-environment",
+        "foundations-gwas-polygenicity",
+        "personality-epigenetics",
+        "personality-evolutionary-mismatch",
+        "personality-adaptive-tradeoffs"
+      ],
+      "existingCardIds": [
+        "personality-heritability",
+        "personality-gene-environment-interaction"
+      ],
+      "notes": "补共享/非共享环境、GWAS、表观遗传、进化失配和适应权衡。生命史、频率依赖与条件反应作为进化个体差异小节已扫描，本轮未扩写证据篇幅有限的特定人类因果故事。 本轮为全章小节与术语扫描、候选正文定位复核，未声称逐字穷尽全部研究；全部引用均为教材内容，未检索外部资料。"
+    },
+    {
+      "chapterId": "personality-chapter-10",
+      "reviewedSections": [
+        "Freud Himself",
+        "Psychic Determinism",
+        "Internal Structure / Conflict and Compromise",
+        "Mental Energy / Catharsis Critique",
+        "Controversy / Life and Death",
+        "Psychosexual Development / Oral / Anal / Phallic / Genital / Fixation and Regression",
+        "Thinking and Consciousness / Primary and Secondary Processes",
+        "Topographic Model",
+        "Parapraxes / Forgetting / Slips",
+        "Anxiety and Defense / Table 10.2 / Eight Mechanisms",
+        "Therapy / Insight / Alliance / Transference / Countertransference",
+        "Critique / Complexity / Case Method / Definitions / Untestability / Sexism",
+        "Why Study Freud?",
+        "Summary; Key Terms"
+      ],
+      "addedCardIds": [
+        "personality-psychic-determinism",
+        "personality-primary-secondary-process",
+        "personality-transference",
+        "personality-catharsis-hypothesis",
+        "personality-defense-denial",
+        "personality-defense-repression",
+        "personality-defense-reaction-formation",
+        "personality-defense-projection",
+        "personality-defense-rationalization",
+        "personality-defense-intellectualization",
+        "personality-defense-displacement",
+        "personality-defense-sublimation"
+      ],
+      "existingCardIds": [
+        "personality-structural-conflict",
+        "personality-defense-mechanisms",
+        "personality-psychosexual-development"
+      ],
+      "notes": "补决定论、初级/次级过程、移情、宣泄假说与表10.2八种防御。历史理论明确标注；不从口误、梦、职业或遗忘直接判断隐秘动机，升华保留教材中的建设性例外。 本轮为全章小节与术语扫描、候选正文定位复核，未声称逐字穷尽全部研究；全部引用均为教材内容，未检索外部资料。"
+    },
+    {
+      "chapterId": "personality-chapter-11",
+      "reviewedSections": [
+        "Interpreting Freud",
+        "Common Themes of Neo-Freudian Thought / Ego Psychology",
+        "Inferiority and Compensation: Adler",
+        "Collective Unconscious / Archetypes: Jung",
+        "Persona / Anima and Animus / Thinking Types",
+        "Feminine Psychology and Basic Anxiety: Horney",
+        "Psychosocial Development: Erikson",
+        "Object Relations: Klein / Splitting",
+        "Winnicott / Transitional Object / False Self",
+        "Where Have All the Neo-Freudians Gone?",
+        "Current Psychoanalytic Research / Testing Hypotheses",
+        "Unconscious Thought",
+        "Psychoanalysis in Perspective",
+        "Summary; Key Terms"
+      ],
+      "addedCardIds": [
+        "personality-adler-compensation",
+        "personality-collective-unconscious",
+        "personality-persona",
+        "personality-horney-basic-anxiety",
+        "personality-transitional-object",
+        "personality-splitting"
+      ],
+      "existingCardIds": [
+        "personality-psychosocial-development",
+        "personality-object-relations"
+      ],
+      "notes": "补Adler、Jung、Horney与Winnicott小节机制及分裂式评价。Erikson与客体关系总卡复用；不把原型、男性抗议或儿童案例当普遍实证定律。 本轮为全章小节与术语扫描、候选正文定位复核，未声称逐字穷尽全部研究；全部引用均为教材内容，未检索外部资料。"
+    },
+    {
+      "chapterId": "personality-chapter-12",
+      "reviewedSections": [
+        "Phenomenology / Construal / Introspection",
+        "Existentialism / Umwelt / Mitwelt / Eigenwelt",
+        "Thrown-ness and Angst",
+        "Bad Faith / Authentic Existence",
+        "The Eastern Alternative",
+        "Rogers / Self-Actualization",
+        "Maslow / Hierarchy of Needs",
+        "The Fully Functioning Person / Psychotherapy",
+        "Personal Constructs: Kelly / Sources / Reality",
+        "Positive Psychology / Virtues",
+        "Positive Experience / Mindfulness / Flow / Awe",
+        "Defining Happiness / Hedonia and Eudaimonia",
+        "Sources and Consequences of Happiness",
+        "Humanistic and Positive Psychology in the 21st Century",
+        "The Mystery of Experience / Understanding Others",
+        "Summary; Key Terms"
+      ],
+      "addedCardIds": [
+        "personality-existential-authenticity",
+        "emotion-awe",
+        "personality-hedonic-eudaimonic-wellbeing"
+      ],
+      "existingCardIds": [
+        "personality-personal-constructs",
+        "emotion-flow",
+        "personality-rogerian-humanism",
+        "personality-hierarchy-needs",
+        "emotion-mindfulness"
+      ],
+      "notes": "补本真/自欺、敬畏、两种福祉。Rogers、Maslow、Kelly及心流/正念复用。东方哲学术语与主观体验问题已扫描，未把哲学主张伪装成实验结论。 本轮为全章小节与术语扫描、候选正文定位复核，未声称逐字穷尽全部研究；全部引用均为教材内容，未检索外部资料。"
+    },
+    {
+      "chapterId": "personality-chapter-13",
+      "reviewedSections": [
+        "Culture and Psychology / Universals Versus Specificity",
+        "What Is Culture? / Enculturation / Acculturation",
+        "Cross-Cultural Understanding",
+        "Generalizability / Varieties of Experience",
+        "Etics and Emics",
+        "Tough and Easy / Achievement and Affiliation / Complexity",
+        "Tightness and Looseness",
+        "Head Versus Heart",
+        "Collectivism and Individualism / Self-Regard / Consistency / Horizontal and Vertical",
+        "Honor, Face, and Dignity",
+        "Comparing Traits Across Cultures",
+        "Different Traits / Translation / Item Response / Indigenous Inventories",
+        "Thinking / Holistic Perception",
+        "Values / Universal Values / Cultural Differences",
+        "Origins / Ecological Approach / Genetics and Culture",
+        "Ethnocentrism",
+        "Exaggeration of Differences / Outgroup Homogeneity",
+        "Cultures and Values / Subcultures / Multiculturalism",
+        "Universal Human Condition",
+        "Summary; Key Terms"
+      ],
+      "addedCardIds": [
+        "personality-cultural-tightness",
+        "personality-honor-face-dignity",
+        "personality-cross-cultural-measurement",
+        "personality-cultural-ecology",
+        "personality-value-structure",
+        "personality-enculturation-acculturation"
+      ],
+      "existingCardIds": [
+        "personality-individualism-collectivism",
+        "personality-etics-emics",
+        "social-outgroup-homogeneity"
+      ],
+      "notes": "补紧松、荣誉/面子/尊严、测量可比性、文化生态、价值结构和文化学习。外群体同质性使用Social新ID补来源。宏观生态解释保持假说口吻，不以国籍推断个人。 本轮为全章小节与术语扫描、候选正文定位复核，未声称逐字穷尽全部研究；全部引用均为教材内容，未检索外部资料。"
+    },
+    {
+      "chapterId": "personality-chapter-14",
+      "reviewedSections": [
+        "Behaviorism / Functional Analysis",
+        "Habituation / Repeated Violent Media",
+        "Classical Conditioning / Learned Helplessness / S-R Personality",
+        "Operant Conditioning / Reinforcement / Shaping",
+        "Social Learning Theory / Shortcomings of Behaviorism",
+        "Rotter / Expectancies / Locus of Control",
+        "Bandura / Self-Efficacy / Observational Learning",
+        "Motivation / Goals and Strategies",
+        "Short- and Long-Term Goals / Hierarchies",
+        "Idiographic Goals / Current Concerns / Projects / Strivings",
+        "Nomothetic Goals / Achievement / Affiliation / Power",
+        "Judgment and Development Goals / Entity and Incremental Theories",
+        "Strategies / Defensive Pessimism",
+        "Emotional Experience / Categories / Circumplex",
+        "Emotional Intensity / Variability / Emotional Intelligence / Cognitive Control",
+        "CAPS",
+        "BEATS",
+        "Personality as a Verb",
+        "Summary; Key Terms"
+      ],
+      "addedCardIds": [
+        "learning-desensitization",
+        "learning-learned-helplessness",
+        "personality-goal-hierarchy",
+        "personality-idiographic-nomothetic-goals",
+        "personality-defensive-pessimism",
+        "personality-affect-intensity",
+        "personality-beats"
+      ],
+      "existingCardIds": [
+        "personality-cognitive-affective-system",
+        "personality-reciprocal-determinism",
+        "personality-locus-control",
+        "personality-self-efficacy",
+        "personality-expectancy-reward-value",
+        "personality-observational-learning",
+        "social-implicit-intelligence-theories",
+        "learning-operant-conditioning",
+        "learning-habituation"
+      ],
+      "notes": "去敏化严格标明正文是Habituation中的暴力媒体例子，参考文献题名为独立线索；1084正文与1444书目分开。补无助、目标结构、个人/共同目标、防御性悲观、情感强度和BEATS。成长观念、习惯化和塑造并入现有卡，Skinner门口讲课轶事明确可能杜撰。 本轮为全章小节与术语扫描、候选正文定位复核，未声称逐字穷尽全部研究；全部引用均为教材内容，未检索外部资料。"
+    },
+    {
+      "chapterId": "personality-chapter-15",
+      "reviewedSections": [
+        "The I and the Me",
+        "Contents and Purposes of the Self",
+        "Declarative Self / Self-Esteem",
+        "The Self-Schema / Reaction Times",
+        "Self-Reference and Memory",
+        "Self-Efficacy",
+        "Possible Selves",
+        "Self-Discrepancy Theory",
+        "Procedural Self",
+        "Relational Selves",
+        "Implicit Selves / IAT",
+        "Acquiring and Changing Procedural Knowledge",
+        "How Many Selves? / Working Self-Concept",
+        "Future Self-Continuity / Congruence",
+        "The Really Real Self",
+        "Summary; Key Terms"
+      ],
+      "addedCardIds": [
+        "personality-self-schema",
+        "learning-self-reference-effect",
+        "personality-possible-selves",
+        "personality-relational-self",
+        "personality-future-self-continuity"
+      ],
+      "existingCardIds": [
+        "personality-declarative-self",
+        "personality-procedural-self",
+        "social-implicit-association-test",
+        "social-working-self-concept"
+      ],
+      "notes": "补自我图式、自我参照、可能自我、关系自我与未来连续性。IAT和工作自我概念按Social新ID补来源；陈述/程序性总卡和自我差异理论复用。I/Me哲学区分不再包装成已验证机制。 本轮为全章小节与术语扫描、候选正文定位复核，未声称逐字穷尽全部研究；全部引用均为教材内容，未检索外部资料。"
+    },
+    {
+      "chapterId": "personality-chapter-16",
+      "reviewedSections": [
+        "Relationships / Deal-makers",
+        "Deal-breakers / Dispositional Contempt / Rejection Sensitivity",
+        "Compatibility",
+        "Sexual Relationships / Mate Selection / Mating Strategies",
+        "Sociosexuality",
+        "Same-Sex Relationships / Limits of Explanations",
+        "Love and Attachment / Dimensions and Adult Relationships",
+        "Occupational Success / Integrity Tests",
+        "Conscientiousness / Citizenship Performance / Lifetime Earnings",
+        "Leadership and Management / Dark Triad",
+        "Occupational Choice / Holland",
+        "Personality and Life",
+        "Summary; Key Terms"
+      ],
+      "addedCardIds": [
+        "personality-sociosexuality",
+        "personality-citizenship-performance",
+        "personality-dark-triad"
+      ],
+      "existingCardIds": [
+        "personality-rejection-sensitivity",
+        "personality-holland-vocational-types"
+      ],
+      "notes": "补社会性性取向、组织公民绩效及暗黑三联征。拒绝敏感、依恋、职业匹配复用；择偶/周期研究的教材争议不省略为确定因果，同性吸引不病理化。 本轮为全章小节与术语扫描、候选正文定位复核，未声称逐字穷尽全部研究；全部引用均为教材内容，未检索外部资料。"
+    },
+    {
+      "chapterId": "personality-chapter-17",
+      "reviewedSections": [
+        "Personality Disorders",
+        "DSM / Controversy / Purposes",
+        "Definition / Extreme and Problematic / Cultural Context",
+        "Social / Stable / Ego-Syntonic and Ego-Dystonic",
+        "Schizotypal / Narcissistic / Antisocial Personality Descriptions",
+        "Borderline Personality / Splitting / Development Hypotheses / DBT",
+        "Avoidant / Obsessive-Compulsive Personality Descriptions",
+        "DSM-5 Alternative Trait Domains / Diagnosis",
+        "Personality and Disorder / Pathologizing / Mental Health / Labeling",
+        "Normal and Abnormal Continuity",
+        "Physical Health / Measurement / Biological and Behavioral Pathways",
+        "Type A / Hostility / Evidence History",
+        "Emotionality / Conscientiousness",
+        "Prospects for Improving Health / Healthy Personality",
+        "Summary; Key Terms"
+      ],
+      "addedCardIds": [
+        "personality-ego-syntonic-dystonic",
+        "personality-type-a-hostility",
+        "personality-biosocial-emotion-dysregulation",
+        "personality-dbt-emotion-skills",
+        "personality-splitting"
+      ],
+      "existingCardIds": [
+        "personality-dimensional-personality-pathology",
+        "personality-health-behavior-pathway"
+      ],
+      "notes": "补自我协调性、A型研究修订、生物—社会情绪失调假说与DBT简要技能机制。扫描六类人格困难描述、替代特质域、标签和病理化小节，既有维度卡承接分类比较；不扩写最新DSM或诊断/治疗建议。 本轮为全章小节与术语扫描、候选正文定位复核，未声称逐字穷尽全部研究；全部引用均为教材内容，未检索外部资料。"
+    },
+    {
+      "chapterId": "personality-chapter-18",
+      "reviewedSections": [
+        "Which Approach Is Right?",
+        "Research Methods Are Useful",
+        "Cross-Situational Consistency and Aggregation",
+        "Personality Growth and Change",
+        "The Biological Roots of Personality",
+        "The Unconscious Mind",
+        "Free Will and Responsibility",
+        "The Nature of Happiness",
+        "Culture and Personality",
+        "Choosing and Changing Situations",
+        "Construals",
+        "The Fine, Uncertain, and Important Line Between Normal and Abnormal",
+        "Personality, Behavior, and Health",
+        "The Quest for Understanding",
+        "Summary; Think About It"
+      ],
+      "addedCardIds": [
+        "foundations-aggregation",
+        "personality-person-environment-transactions"
+      ],
+      "existingCardIds": [
+        "personality-complementary-approaches",
+        "personality-relative-consistency"
+      ],
+      "notes": "逐项扫描本章13个主题与结语，正文核对1370、1377–1378、1385、1390。复用取向互补、相对一致性、测量聚合与人境交易并补来源；本章综合回顾没有独立新理论，不为章节配额新造卡。 本轮为全章小节与术语扫描、候选正文定位复核，未声称逐字穷尽全部研究；全部引用均为教材内容，未检索外部资料。"
+    },
+    {
+      "chapterId": "cognitive-01",
+      "reviewedSections": [
+        "Cognitive psychology",
+        "Cognitive neuropsychology",
+        "Cognitive neuroscience: the brain in action",
+        "Computational cognitive science",
+        "Comparisons of major approaches",
+        "Is there a replication crisis?",
+        "Outline of this book"
+      ],
+      "addedCardIds": [
+        "foundations-reverse-inference",
+        "cognition-act-r",
+        "foundations-task-impurity"
+      ],
+      "existingCardIds": [
+        "cognition-top-down-bottom-up",
+        "foundations-double-dissociation",
+        "cognition-connectionism"
+      ],
+      "notes": "增补计算架构、任务不纯和反向推断；原有双重分离、连接主义及加工方向复用。脑测量技术名称未逐一拆卡。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "cognitive-02",
+      "reviewedSections": [
+        "Vision and the brain",
+        "Two visual systems: perception-action model",
+        "Colour vision",
+        "Depth perception",
+        "Perception without awareness: subliminal perception"
+      ],
+      "addedCardIds": [
+        "cognition-reliability-weighted-cues",
+        "cognition-blindsight"
+      ],
+      "existingCardIds": [
+        "cognition-perception-action",
+        "cognition-color-opponent",
+        "cognition-subliminal"
+      ],
+      "notes": "增补线索整合与盲视；色觉、知觉—行动与阈下知觉复用。视网膜解剖和深度线索名称不逐一建卡。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "cognitive-03",
+      "reviewedSections": [
+        "Pattern recognition",
+        "Perceptual organisation",
+        "Approaches to object recognition",
+        "Object recognition: top-down processes",
+        "Face recognition",
+        "Visual imagery"
+      ],
+      "addedCardIds": [
+        "cognition-holistic-face-processing",
+        "cognition-visual-imagery"
+      ],
+      "existingCardIds": [
+        "cognition-gestalt",
+        "cognition-recognition-components",
+        "cognition-face-recognition"
+      ],
+      "notes": "新增整体面孔与意象；原有格式塔、成分识别和面孔模型保留，不把每个临床症状拆成理论。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "cognitive-04",
+      "reviewedSections": [
+        "Direct perception",
+        "Visually guided movement",
+        "Visually guided action: contemporary approaches",
+        "Perception of human motion",
+        "Change blindness"
+      ],
+      "addedCardIds": [
+        "cognition-planning-control",
+        "cognition-mirror-neurons"
+      ],
+      "existingCardIds": [
+        "cognition-affordances",
+        "cognition-optic-flow",
+        "cognition-change-blindness"
+      ],
+      "notes": "新增计划—控制及镜像机制；直接知觉、光流和变化盲复用。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "cognitive-05",
+      "reviewedSections": [
+        "Focused auditory attention",
+        "Focused visual attention",
+        "Disorders of visual attention",
+        "Visual search",
+        "Cross-modal effects",
+        "Divided attention: dual-task performance",
+        "“Automatic” processing"
+      ],
+      "addedCardIds": [
+        "cognition-selective-filter",
+        "cognition-object-based-attention",
+        "cognition-inhibition-return",
+        "cognition-attentional-extinction",
+        "cognition-ventriloquism",
+        "cognition-psychological-refractory-period"
+      ],
+      "existingCardIds": [
+        "cognition-load-theory",
+        "cognition-feature-integration",
+        "cognition-multiple-resources"
+      ],
+      "notes": "补注意选择、对象注意、返回抑制、有偏竞争、跨感官整合和心理不应期；负荷和多资源等原有模型复用。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "cognitive-06",
+      "reviewedSections": [
+        "Short-term vs long-term memory",
+        "Working memory: Baddeley and Hitch",
+        "Working memory: individual differences and executive functions",
+        "Levels of processing (and beyond)",
+        "Learning through retrieval",
+        "Implicit learning",
+        "Forgetting from long-term memory"
+      ],
+      "addedCardIds": [
+        "cognition-executive-unity-diversity",
+        "learning-transfer-appropriate-processing",
+        "learning-implicit-learning",
+        "cognition-interference",
+        "cognition-directed-forgetting",
+        "cognition-memory-consolidation",
+        "cognition-reconsolidation"
+      ],
+      "existingCardIds": [
+        "cognition-working-memory",
+        "learning-levels-processing",
+        "learning-testing-effect"
+      ],
+      "notes": "细化执行功能、编码—测试匹配、内隐学习、干扰、遗忘控制、巩固与再巩固；保留原有工作记忆和测试效应。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "cognitive-07",
+      "reviewedSections": [
+        "Declarative memory",
+        "Episodic memory",
+        "Semantic memory",
+        "Non-declarative memory",
+        "Beyond memory systems and declarative vs non-declarative memory"
+      ],
+      "addedCardIds": [
+        "cognition-familiarity-recollection",
+        "cognition-semanticisation",
+        "cognition-semantic-spreading",
+        "cognition-grounded-cognition",
+        "cognition-hub-spoke",
+        "cognition-episodic-future-thinking",
+        "cognition-process-alliances"
+      ],
+      "existingCardIds": [
+        "cognition-episodic-semantic",
+        "cognition-priming",
+        "social-schemas"
+      ],
+      "notes": "细化再认双过程、语义化、语义网络、扎根认知、枢纽模型和未来模拟；保留原有记忆系统区分。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "cognitive-08",
+      "reviewedSections": [
+        "Autobiographical memory: introduction",
+        "Memories across the lifetime",
+        "Theoretical approaches to autobiographical memory",
+        "Eyewitness testimony",
+        "Enhancing eyewitness memory",
+        "Prospective memory",
+        "Theoretical perspectives on prospective memory"
+      ],
+      "addedCardIds": [
+        "cognition-flashbulb-memory",
+        "cognition-reminiscence-bump",
+        "cognition-infantile-amnesia",
+        "cognition-cognitive-interview",
+        "cognition-saying-is-believing",
+        "clinical-ocd-safety-completion",
+        "cognition-prospective-multiprocess"
+      ],
+      "existingCardIds": [
+        "cognition-self-memory",
+        "cognition-misinformation",
+        "cognition-prospective-memory",
+        "cognition-implementation-intentions"
+      ],
+      "notes": "补公共与人生事件记忆、交流重述、认知访谈和意图提取框架，并补反复检查对记忆确信度的影响。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "cognitive-09",
+      "reviewedSections": [
+        "Speech (and music) perception",
+        "Listening to speech",
+        "Context effects",
+        "Theories of speech perception",
+        "Cognitive neuropsychology",
+        "Reading: introduction",
+        "Word recognition",
+        "Reading aloud",
+        "Reading: eye-movement research"
+      ],
+      "addedCardIds": [
+        "cognition-categorical-speech-perception",
+        "cognition-mcgurk",
+        "cognition-phonemic-restoration",
+        "cognition-cohort-model",
+        "cognition-word-superiority",
+        "cognition-triangle-reading"
+      ],
+      "existingCardIds": [
+        "cognition-trace",
+        "cognition-dual-route-reading",
+        "cognition-ez-reader"
+      ],
+      "notes": "补类别知觉、视听融合、语音恢复、候选集、词优势和三角模型；既有TRACE、双路线与E-Z Reader复用。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "cognitive-10",
+      "reviewedSections": [
+        "Parsing: overview",
+        "Theoretical approaches: parsing and prediction",
+        "Pragmatics",
+        "Individual differences: working memory capacity",
+        "Discourse processing: inferences",
+        "Discourse comprehension: theoretical approaches"
+      ],
+      "addedCardIds": [
+        "cognition-good-enough-language",
+        "cognition-egocentric-listening",
+        "cognition-bridging-elaborative-inference",
+        "cognition-construction-integration",
+        "cognition-event-segmentation"
+      ],
+      "existingCardIds": [
+        "cognition-garden-path",
+        "cognition-constraint-language",
+        "cognition-situation-model"
+      ],
+      "notes": "补浅层理解、听者视角、推论、建构—整合和事件分段；既有句法和情境模型继续作为上位卡。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "cognitive-11",
+      "reviewedSections": [
+        "Basic aspects of speech production",
+        "Speech planning",
+        "Speech errors",
+        "Theories of speech production",
+        "Cognitive neuropsychology: speech production",
+        "Speech as communication",
+        "Writing: the main processes",
+        "Spelling"
+      ],
+      "addedCardIds": [
+        "cognition-speech-monitoring",
+        "cognition-incremental-speech",
+        "cognition-knowledge-transforming-writing",
+        "cognition-gesture-support"
+      ],
+      "existingCardIds": [
+        "cognition-speech-spreading",
+        "cognition-weaver",
+        "cognition-audience-design"
+      ],
+      "notes": "细化监控、增量计划、手势和写作过程；原有言语产生和听众设计模型复用。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "cognitive-12",
+      "reviewedSections": [
+        "Problem solving: introduction",
+        "Gestalt approach and beyond: insight and role of experience",
+        "Problem-solving strategies",
+        "Analogical problem solving and reasoning",
+        "Expertise",
+        "Chess-playing expertise",
+        "Medical expertise",
+        "Brain plasticity",
+        "Deliberate practice and beyond"
+      ],
+      "addedCardIds": [
+        "cognition-functional-fixedness",
+        "cognition-mental-set",
+        "cognition-incubation",
+        "cognition-means-ends"
+      ],
+      "existingCardIds": [
+        "cognition-insight",
+        "cognition-analogy",
+        "cognition-expertise",
+        "foundations-plasticity"
+      ],
+      "notes": "新增策略固着、功能固着、酝酿和手段—目的分析；顿悟、类比和专业技能保留。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "cognitive-13",
+      "reviewedSections": [
+        "Judgement research",
+        "Theories of judgement",
+        "Decision-making under risk",
+        "Decision-making: emotional and social factors",
+        "Applied and complex decision-making"
+      ],
+      "addedCardIds": [
+        "cognition-base-rate-neglect",
+        "cognition-natural-frequencies",
+        "cognition-support-theory",
+        "cognition-fast-frugal",
+        "cognition-sunk-cost",
+        "cognition-omission-bias",
+        "cognition-anchoring",
+        "cognition-framing-effect"
+      ],
+      "existingCardIds": [
+        "cognition-heuristics",
+        "cognition-prospect-theory",
+        "cognition-accountability"
+      ],
+      "notes": "新增基础比率、自然频数、支持理论、快速节俭策略、沉没成本、不作为、锚定与框架；与前景理论保持机制关联。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "cognitive-14",
+      "reviewedSections": [
+        "Hypothesis testing",
+        "Deductive reasoning",
+        "Theories of “deductive” reasoning",
+        "Brain systems in reasoning",
+        "Informal reasoning",
+        "Are humans rational?"
+      ],
+      "addedCardIds": [
+        "cognition-belief-bias",
+        "cognition-deontic-reasoning",
+        "cognition-bounded-rationality",
+        "cognition-positive-test-strategy"
+      ],
+      "existingCardIds": [
+        "social-confirmation-bias",
+        "cognition-mental-models",
+        "cognition-dual-process"
+      ],
+      "notes": "补信念偏差、许可规则、有限理性与正例检验；立场偏差作为确认偏误的补充，不重复建卡。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "cognitive-15",
+      "reviewedSections": [
+        "Appraisal theories",
+        "Emotion regulation",
+        "Affect and cognition: attention and memory",
+        "Affect and cognition: judgement and decision-making",
+        "Judgement and decision-making: theoretical approaches",
+        "Anxiety, depression and cognitive biases",
+        "Cognitive bias modification and beyond"
+      ],
+      "addedCardIds": [
+        "emotion-motivational-intensity-attention",
+        "cognition-cni-model",
+        "cognition-emotion-imbued-choice",
+        "clinical-cognitive-bias-modification"
+      ],
+      "existingCardIds": [
+        "emotion-appraisal",
+        "emotion-mood-memory",
+        "emotion-cognitive-biases",
+        "emotion-anxiety-attention"
+      ],
+      "notes": "补动机强度、CNI、情绪嵌入选择及偏向修正；注意控制理论补入原卡。其他情绪模型交由情绪教材批次归并。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "cognitive-16",
+      "reviewedSections": [
+        "Functions of consciousness",
+        "Assessing consciousness and conscious experience",
+        "Global workspace and global neuronal workspace theories",
+        "Is consciousness unitary?"
+      ],
+      "addedCardIds": [
+        "cognition-recurrent-processing",
+        "cognition-integrated-information",
+        "cognition-left-hemisphere-interpreter"
+      ],
+      "existingCardIds": [
+        "cognition-global-workspace",
+        "cognition-agency",
+        "cognition-consciousness-report"
+      ],
+      "notes": "补循环加工、整合信息及左半球解释者；保留原有工作空间、能动感和意识报告方法。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "general-01",
+      "reviewedSections": [
+        "行为的物理因果：笛卡尔与霍布斯",
+        "经验如何塑造心智：联想与相邻律",
+        "自然选择与行为心智演化",
+        "心理解释层次与嫉妒实例",
+        "心理学分支及与其他学科的联系",
+        "心理学职业与批判性思考"
+      ],
+      "addedCardIds": [
+        "learning-association-contiguity"
+      ],
+      "existingCardIds": [
+        "foundations-empiricism-nativism",
+        "foundations-levels-explanation"
+      ],
+      "notes": "补联想形成；其他哲学背景与解释层次复用，历史人物不各建一张理论卡。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "general-02",
+      "reviewedSections": [
+        "聪明的汉斯：观察、理论与假设",
+        "研究设计：实验、相关与描述",
+        "研究场景：实验室与现场",
+        "数据收集：自我报告与观察",
+        "描述统计与推断统计",
+        "样本偏差",
+        "信度与效度",
+        "观察者和被试期待效应",
+        "重复研究",
+        "人类与非人动物研究伦理"
+      ],
+      "addedCardIds": [
+        "foundations-observer-expectancy"
+      ],
+      "existingCardIds": [
+        "foundations-experiment-correlation",
+        "foundations-measurement"
+      ],
+      "notes": "补期待效应与盲法的机制依据；统计和伦理标题纳入审计，不把每项统计技术列为心理理论。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "general-03",
+      "reviewedSections": [
+        "基因如何影响行为与有性遗传",
+        "单基因与多基因行为特征",
+        "选择性繁育",
+        "表观遗传：甲基化与表达调节",
+        "自然选择、遗传多样性与环境变化",
+        "功能主义及其限制",
+        "远端与近端解释",
+        "物种典型行为与跨物种比较",
+        "亲代投资和交配模式",
+        "人类择偶、攻击性及帮助行为"
+      ],
+      "addedCardIds": [
+        "personality-epigenetics",
+        "development-parental-investment"
+      ],
+      "existingCardIds": [
+        "social-reciprocal-altruism",
+        "personality-gene-environment-interaction",
+        "social-kin-selection",
+        "foundations-levels-explanation"
+      ],
+      "notes": "补表观遗传、亲代投资与近端/远端解释；亲缘选择和互惠利他复用。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "general-04",
+      "reviewedSections": [
+        "神经元类别、动作电位与突触传递",
+        "神经元发育",
+        "镜像神经元与社会学习",
+        "人脑与动物脑的功能研究方法",
+        "周围神经、脊髓与皮层下结构",
+        "皮层组织与激素互动",
+        "裂脑及半球差异",
+        "语言区域",
+        "使用依赖的脑变化",
+        "突触增强与学习",
+        "人脑演化"
+      ],
+      "addedCardIds": [
+        "cognition-mirror-neurons"
+      ],
+      "existingCardIds": [
+        "foundations-neural-signaling",
+        "learning-hebb-ltp",
+        "foundations-plasticity"
+      ],
+      "notes": "增加镜像神经元的跨教材出处；基础神经传递、突触学习与可塑性已有卡，未堆砌解剖名称。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "general-05",
+      "reviewedSections": [
+        "驱力的种类与脑状态",
+        "奖励的喜欢、想要与强化成分",
+        "奖励系统与成瘾",
+        "饥饿的神经和激素调节",
+        "肥胖问题",
+        "睡眠状态与周期",
+        "睡眠的保存保护解释",
+        "身体修复与快速眼动睡眠的脑维护解释",
+        "梦的功能与副产物解释",
+        "睡眠不足、个体差异与日内变化",
+        "昼夜节律与光照同步",
+        "情绪的性质、身体反馈与脑机制"
+      ],
+      "addedCardIds": [
+        "foundations-circadian-rhythm",
+        "foundations-sleep-functions"
+      ],
+      "existingCardIds": [
+        "foundations-homeostasis",
+        "learning-wanting-liking"
+      ],
+      "notes": "补节律与睡眠功能比较；驱力、奖励和情绪基础已有卡。梦的竞争解释在目录审计中保留，本轮不将不确定的单一解释当成定论卡。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "general-06",
+      "reviewedSections": [
+        "感觉受体、转导与编码",
+        "感觉系统对变化与稳态的反应",
+        "绝对阈限",
+        "差别阈限与韦伯定律",
+        "信号检测",
+        "嗅觉机制、个体差异及社会信号",
+        "味觉机制与功能",
+        "疼痛路径与情绪成分",
+        "疼痛调节：闸门、内啡肽与期待",
+        "听觉转导、音高与声音组织"
+      ],
+      "addedCardIds": [
+        "cognition-sensory-adaptation",
+        "cognition-weber-law",
+        "cognition-placebo-analgesia"
+      ],
+      "existingCardIds": [
+        "cognition-signal-detection",
+        "cognition-pain-gate"
+      ],
+      "notes": "补感觉适应、韦伯定律与期待镇痛；嗅味听觉器官名称未独立建卡，疼痛闸门和信号检测复用。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "general-07",
+      "reviewedSections": [
+        "眼的功能组织、视锥与视杆",
+        "三色与对立加工",
+        "视觉发育和经验可塑性",
+        "特征检测与结合",
+        "格式塔分组和整体对部分的影响",
+        "对象识别",
+        "面孔识别、倒置与他族效应",
+        "深度线索与大小知觉",
+        "多感觉整合",
+        "联觉"
+      ],
+      "addedCardIds": [
+        "cognition-own-race-bias",
+        "development-perceptual-narrowing"
+      ],
+      "existingCardIds": [
+        "cognition-top-down-bottom-up",
+        "cognition-color-opponent",
+        "cognition-perceptual-constancy"
+      ],
+      "notes": "补面孔他族效应及经验专门化来源；视觉组织与恒常性等既有卡保留。知觉窄化卡注明术语与所引正文表述的区别。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "general-08",
+      "reviewedSections": [
+        "习惯化",
+        "经典条件作用的获得、消退和泛化",
+        "学习内容：预测关系与阻断",
+        "情绪、食欲与药物的条件反应",
+        "效果律与操作学习",
+        "塑造与连续近似",
+        "强化时程与抗消退",
+        "正负强化与惩罚",
+        "辨别训练",
+        "过度合理化",
+        "行为分析",
+        "游戏的学习功能",
+        "探索与潜伏学习",
+        "观察学习、仿效与模仿",
+        "食物厌恶与生物准备性",
+        "印刻等专门学习能力"
+      ],
+      "addedCardIds": [
+        "learning-contingency",
+        "learning-blocking",
+        "learning-reinforcement-schedules",
+        "learning-overjustification",
+        "learning-latent-learning",
+        "learning-taste-aversion"
+      ],
+      "existingCardIds": [
+        "learning-habituation",
+        "learning-classical-conditioning",
+        "learning-operant-conditioning",
+        "personality-observational-learning"
+      ],
+      "notes": "新增预测关系、阻断、时程、过度合理化、潜伏学习及味觉厌恶；塑造作为操作学习补充。去敏化由另一批次补充，关联ID预留。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "general-09",
+      "reviewedSections": [
+        "感觉、短时和长时信息加工",
+        "快速与缓慢加工：斯特鲁普冲突",
+        "选择性注意、注意转移与前注意加工",
+        "言语工作记忆、广度与执行功能",
+        "显性与内隐记忆及神经心理学区分",
+        "编码：意义、组织、组块和意象",
+        "记忆巩固与再提取",
+        "提取的联想与线索",
+        "图式和记忆建构",
+        "错误记忆、暗示与想象",
+        "前瞻记忆与心理时间旅行"
+      ],
+      "addedCardIds": [
+        "cognition-memory-consolidation",
+        "cognition-stroop",
+        "cognition-dual-coding",
+        "cognition-imagination-false-memory"
+      ],
+      "existingCardIds": [
+        "cognition-working-memory",
+        "cognition-priming",
+        "cognition-prospective-memory",
+        "cognition-retrieval-cues"
+      ],
+      "notes": "补斯特鲁普、双重编码和想象诱发错误回忆，并追加巩固来源；未重复工作记忆、图式和误导信息卡。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "general-10",
+      "reviewedSections": [
+        "类比与归纳",
+        "可得性及确认倾向",
+        "具体材料中的演绎推理",
+        "顿悟、心向与功能固着",
+        "非西方受教育经验与逻辑任务",
+        "整体式和分析式文化差异",
+        "智力测试历史与预测效度",
+        "一般智力及流体和晶体智力",
+        "基因与环境对智力的贡献",
+        "文化群体差异与刻板印象威胁",
+        "弗林效应"
+      ],
+      "addedCardIds": [
+        "cognition-functional-fixedness",
+        "cognition-holistic-analytic-thinking",
+        "cognition-flynn-effect"
+      ],
+      "existingCardIds": [
+        "social-confirmation-bias",
+        "cognition-general-intelligence",
+        "cognition-fluid-crystallized"
+      ],
+      "notes": "补整体/分析思维与弗林效应；功能固着追加来源，智力与刻板印象威胁已有卡。弗林效应仅描述教材覆盖的历史证据。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "general-11",
+      "reviewedSections": [
+        "产前与青春期身体发育",
+        "婴儿探索、控制与共同注意",
+        "违反期待与核心物理知识",
+        "物体永存及A非B任务",
+        "皮亚杰的主动建构",
+        "维果茨基与社会文化支持",
+        "信息加工：速度、工作记忆与执行功能",
+        "心理理论与他人信念",
+        "语言的结构与隐性语法",
+        "语音辨别和经验专门化",
+        "词汇、规则获得与过度规则化",
+        "先天语言机制与社会支持",
+        "新手语形成与语言学习时机",
+        "双语"
+      ],
+      "addedCardIds": [
+        "development-violation-expectation",
+        "development-perceptual-narrowing",
+        "development-overregularization",
+        "development-language-sensitive-period"
+      ],
+      "existingCardIds": [
+        "development-piaget",
+        "development-sociocultural",
+        "development-theory-mind"
+      ],
+      "notes": "补婴儿研究范式、知觉专门化、规则化错误及语言时机；已有发展理论和心理理论复用。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "general-12",
+      "reviewedSections": [
+        "依恋、陌生情境与跨文化照护",
+        "帮助、安慰、公平与亲社会行为",
+        "仿效、过度模仿及同伴传递",
+        "教养风格和因果方向问题",
+        "游戏的发展作用",
+        "性别与社会发展",
+        "青春期亲子和同伴关系",
+        "鲁莽、成熟差距与亚文化解释",
+        "风险行为的神经双系统解释",
+        "道德发展与性探索",
+        "成人爱情、工作和自主性",
+        "年龄增长与生活优先目标"
+      ],
+      "addedCardIds": [
+        "development-overimitation",
+        "development-adolescent-dual-systems",
+        "development-maturity-gap",
+        "development-occupational-self-direction"
+      ],
+      "existingCardIds": [
+        "emotion-attachment",
+        "development-parenting"
+      ],
+      "notes": "补过度模仿、风险双系统、成熟差距和职业自主性；依恋、教养与亲社会理论复用。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "general-13",
+      "reviewedSections": [
+        "印象形成与归因",
+        "面孔线索及网络印象",
+        "自我反映与主动建构",
+        "显性和内隐态度",
+        "认知失调与合理化",
+        "群体分类、内外群体和刻板印象",
+        "观察者效应：社会促进、干扰和压力下表现",
+        "印象管理",
+        "从众、规范与群体讨论",
+        "顺从策略与服从",
+        "公共资源困境与合作条件",
+        "群际竞争与罗伯斯山洞研究"
+      ],
+      "addedCardIds": [],
+      "existingCardIds": [
+        "social-cognitive-dissonance",
+        "social-social-facilitation"
+      ],
+      "notes": "社会心理学专题由并行批次细化；此处为社会促进与失调补教材来源和机制段，不重复生成同概念卡。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "general-14",
+      "reviewedSections": [
+        "人格特质的测量与五因素",
+        "特质与实际行为、跨时间连续性",
+        "遗传与人格",
+        "差异的适应性价值",
+        "差别易感性",
+        "家庭和性别环境中的适应",
+        "心理动力学、冲突与防御",
+        "人本主义与自我意义",
+        "控制点、自我可塑性与乐观悲观",
+        "情境特定的行为模式",
+        "DIAMONDS情境分类",
+        "跨文化人格差异"
+      ],
+      "addedCardIds": [],
+      "existingCardIds": [
+        "personality-big-five",
+        "personality-rogerian-humanism",
+        "personality-hierarchy-needs",
+        "emotion-differential-susceptibility",
+        "personality-cognitive-affective-system"
+      ],
+      "notes": "人格专题由并行批次细化；此处为差别易感性及情境特定人格追加来源。DIAMONDS和防御性悲观可供人格批次交叉核对。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "general-15",
+      "reviewedSections": [
+        "障碍识别、类别与文化变异",
+        "脑机制与多重原因框架",
+        "易感、诱发和维持因素",
+        "性别差异的可能来源",
+        "广泛焦虑与威胁警觉",
+        "恐惧症、回避与负强化",
+        "恐慌及身体唤醒的灾难化解释",
+        "强迫行为与安全完成感",
+        "创伤后压力及其成因",
+        "抑郁、反刍与双相障碍",
+        "精神分裂症的神经与环境因素",
+        "人格障碍的维度与发展来源"
+      ],
+      "addedCardIds": [
+        "clinical-avoidance-reinforcement",
+        "clinical-panic-catastrophic-interpretation",
+        "clinical-ocd-safety-completion"
+      ],
+      "existingCardIds": [
+        "emotion-rumination",
+        "clinical-three-ps",
+        "clinical-hopelessness-rumination"
+      ],
+      "notes": "细化回避强化、恐慌解释循环和安全完成感；不把诊断类别本身逐项充作独立机制。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    },
+    {
+      "chapterId": "general-16",
+      "reviewedSections": [
+        "照护的社会历史与系统组织",
+        "药物和其他生物治疗",
+        "心理动力学、阻抗与移情",
+        "人本主义的治疗关系",
+        "行为后果管理",
+        "暴露与安全学习",
+        "认知治疗及自动思维",
+        "治疗比较和效果评估",
+        "支持、希望与动机等共同因素"
+      ],
+      "addedCardIds": [
+        "clinical-common-factors",
+        "clinical-contingency-management",
+        "personality-transference"
+      ],
+      "existingCardIds": [
+        "clinical-abc-model",
+        "clinical-exposure-extinction"
+      ],
+      "notes": "补共同因素、后果管理和移情；暴露及认知行为框架原有卡继续使用。药物治疗不写成自助指令。 本记录表示小节级第二轮扫描与概念取舍，不宣称穷尽每个术语、实例或引文；新增卡均回到正文页序定位。"
+    }
+  ],
+  "independentSourceCheck": "五张情绪卡再次对照指定EPUB小节；将持笔面部反馈实验的指标精确为卡通好笑程度评价。"
+}

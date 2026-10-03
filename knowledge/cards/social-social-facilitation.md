@@ -9,7 +9,7 @@ summary: "他人在场可能改善熟练任务的表现，也可能妨碍新颖�
 aliases: ["社会促进", "Social facilitation and social interference", "社会促进与社会干扰"]
 keywords: ["社会助长", "观众", "在场", "唤醒", "优势反应", "熟练", "困难", "表现", "社会促进与社会干扰", "Social facilitation and social interference", "他人在场", "紧张"]
 questions: ["为什么观众有时帮助表现、有时反而妨碍？", "社会助长与社会惰化有什么不同？", "为什么观众有时让我发挥更好，有时更差？", "社会促进与社会干扰在什么条件下适用，有什么局限？"]
-sources: [{"book": "social", "chapter": "第12章 群体", "locator": "PDF 第 606 页", "pdfPages": [606]}, {"book": "general", "chapter": "第13章 · 社会心理学", "locator": "PDF 第 1104–1105 页", "pdfPages": [1104, 1105]}]
+sources: [{"book": "social", "chapter": "第12章 群体", "locator": "PDF 第 606 页", "pdfPages": [606]}, {"book": "general", "chapter": "第13章 · 社会心理学", "locator": "PDF 第 1104–1105 页", "pdfPages": [1104, 1105]}, {"book": "general", "chapter": "第13章 · 社会心理学", "locator": "PDF 第 1103–1105 页", "pdfPages": [1103, 1104, 1105]}]
 candidateRelated: [{"concept": "群体极化", "reason": "同样关注群体情境的影响"}, {"concept": "人与情境交互作用", "reason": "任务条件改变行为结果"}, {"title": "专长、组块与刻意练习", "reason": "熟练程度改变优势反应的质量"}, {"title": "多重资源理论", "reason": "他人在场可能改变注意和协调要求"}]
 ---
 
@@ -24,3 +24,7 @@ candidateRelated: [{"concept": "群体极化", "reason": "同样关注群体情�
 ## 理解边界
 
 社会助长与集体任务中的社会惰化不同。前者关注他人在场和任务反应，后者关注个人贡献不易被识别时的努力变化。
+
+## 优势反应的条件
+
+普通心理学教材用优势反应解释观众为何既能帮助也能干扰表现：熟练或简单反应更易被唤醒促进，需要控制和新学习的任务则可能受损。是否存在观众，不能脱离任务熟练度解释。

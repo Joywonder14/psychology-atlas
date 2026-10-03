@@ -1,21 +1,136 @@
 {
   "title": "心理学图谱",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "domains": [
-    {"id":"social","name":"社会与群体","english":"Social psychology","color":"#3264bb","icon":"people","description":"自我、态度与社会影响，理解人与人如何相互塑造。"},
-    {"id":"cognition","name":"认知与思维","english":"Cognitive psychology","color":"#7354b8","icon":"nodes","description":"注意、记忆、语言与判断，探索信息如何成为理解。"},
-    {"id":"emotion","name":"情绪心理","english":"Emotion","color":"#ad4b69","icon":"pulse","description":"情绪的产生、表达与调节，以及它与思考和关系的联系。"},
-    {"id":"personality","name":"人格与差异","english":"Personality","color":"#98702c","icon":"fingerprint","description":"特质、人格发展与情境，理解人的稳定性和变化。"},
-    {"id":"learning","name":"学习与动机","english":"Learning & motivation","color":"#238477","icon":"cycle","description":"经验怎样改变行为，目标与奖赏如何影响行动。"},
-    {"id":"development","name":"发展心理","english":"Development","color":"#387d9c","icon":"growth","description":"从童年到成年，追踪认知、情绪与社会关系的发展。"},
-    {"id":"foundations","name":"基础与研究方法","english":"Foundations & methods","color":"#657186","icon":"compass","description":"心理学的研究视角、生物基础与理解证据的方法。"},
-    {"id":"clinical","name":"心理困扰与干预","english":"Psychopathology","color":"#966044","icon":"leaf","description":"教材中的心理困扰解释、分类与干预理论。"}
+    {
+      "id": "social",
+      "name": "社会与群体",
+      "english": "Social psychology",
+      "color": "#3264bb",
+      "icon": "people",
+      "description": "自我、态度与社会影响，理解人与人如何相互塑造。"
+    },
+    {
+      "id": "cognition",
+      "name": "认知与思维",
+      "english": "Cognitive psychology",
+      "color": "#7354b8",
+      "icon": "nodes",
+      "description": "注意、记忆、语言与判断，探索信息如何成为理解。"
+    },
+    {
+      "id": "emotion",
+      "name": "情绪心理",
+      "english": "Emotion",
+      "color": "#ad4b69",
+      "icon": "pulse",
+      "description": "情绪的产生、表达与调节，以及它与思考和关系的联系。"
+    },
+    {
+      "id": "personality",
+      "name": "人格与差异",
+      "english": "Personality",
+      "color": "#98702c",
+      "icon": "fingerprint",
+      "description": "特质、人格发展与情境，理解人的稳定性和变化。"
+    },
+    {
+      "id": "learning",
+      "name": "学习与动机",
+      "english": "Learning & motivation",
+      "color": "#238477",
+      "icon": "cycle",
+      "description": "经验怎样改变行为，目标与奖赏如何影响行动。"
+    },
+    {
+      "id": "development",
+      "name": "发展心理",
+      "english": "Development",
+      "color": "#387d9c",
+      "icon": "growth",
+      "description": "从童年到成年，追踪认知、情绪与社会关系的发展。"
+    },
+    {
+      "id": "foundations",
+      "name": "基础与研究方法",
+      "english": "Foundations & methods",
+      "color": "#657186",
+      "icon": "compass",
+      "description": "心理学的研究视角、生物基础与理解证据的方法。"
+    },
+    {
+      "id": "clinical",
+      "name": "心理困扰与干预",
+      "english": "Psychopathology",
+      "color": "#966044",
+      "icon": "leaf",
+      "description": "教材中的心理困扰解释、分类与干预理论。"
+    }
   ],
   "books": [
-    {"id":"general","short":"Psychology","title":"Psychology","authors":"Peter Gray · David F. Bjorklund","edition":"第 8 版","year":"2018","filename":"Psychology (8th Edition).pdf","format":"PDF","pages":1862,"color":"#3c6b8e","description":"心理学全貌与基础框架"},
-    {"id":"social","short":"Social Psychology","title":"Social Psychology","authors":"Thomas Gilovich · Dacher Keltner · Serena Chen · Richard E. Nisbett","edition":"第 6 版","year":"版权页 2022","filename":"Tom Gilovich_ Dacher Keltner_ Serena Chen_ Richard E Nisbett - Social Psychology (2023, W. W. Norton) - libgen.li.pdf","format":"PDF","pages":1098,"color":"#3264bb","description":"社会认知、自我、态度与群体"},
-    {"id":"cognitive","short":"Cognitive Psychology","title":"Cognitive Psychology: A Student’s Handbook","authors":"Michael W. Eysenck · Mark T. Keane","edition":"第 8 版","year":"2020","filename":"Cognitive Psychology_ A Student's Handbook.pdf","format":"PDF","pages":975,"color":"#7354b8","description":"知觉、注意、记忆与思维"},
-    {"id":"emotions","short":"Understanding Emotions","title":"Understanding Emotions","authors":"Dacher Keltner · Keith Oatley · Jennifer M. Jenkins","edition":"第 4 版","year":"","filename":"Understanding Emotions.epub","format":"EPUB","color":"#ad4b69","description":"情绪理论、发展与社会生活"},
-    {"id":"personality","short":"The Personality Puzzle","title":"The Personality Puzzle","authors":"David C. Funder","edition":"第 8 版","year":"2019","filename":"The Personality Puzzle 8th Edition.pdf","format":"PDF","pages":1820,"color":"#98702c","description":"人格理论、测量与个体差异"}
+    {
+      "id": "general",
+      "short": "Psychology",
+      "title": "Psychology",
+      "authors": "Peter Gray · David F. Bjorklund",
+      "edition": "第 8 版",
+      "year": "2018",
+      "filename": "Psychology (8th Edition).pdf",
+      "format": "PDF",
+      "pages": 1862,
+      "color": "#3c6b8e",
+      "description": "心理学全貌与基础框架"
+    },
+    {
+      "id": "social",
+      "short": "Social Psychology",
+      "title": "Social Psychology",
+      "authors": "Thomas Gilovich · Dacher Keltner · Serena Chen · Richard E. Nisbett",
+      "edition": "第 6 版",
+      "year": "版权页 2022",
+      "filename": "Tom Gilovich_ Dacher Keltner_ Serena Chen_ Richard E Nisbett - Social Psychology (2023, W. W. Norton) - libgen.li.pdf",
+      "format": "PDF",
+      "pages": 1098,
+      "color": "#3264bb",
+      "description": "社会认知、自我、态度与群体"
+    },
+    {
+      "id": "cognitive",
+      "short": "Cognitive Psychology",
+      "title": "Cognitive Psychology: A Student’s Handbook",
+      "authors": "Michael W. Eysenck · Mark T. Keane",
+      "edition": "第 8 版",
+      "year": "2020",
+      "filename": "Cognitive Psychology_ A Student's Handbook.pdf",
+      "format": "PDF",
+      "pages": 975,
+      "color": "#7354b8",
+      "description": "知觉、注意、记忆与思维"
+    },
+    {
+      "id": "emotions",
+      "short": "Understanding Emotions",
+      "title": "Understanding Emotions",
+      "authors": "Dacher Keltner · Keith Oatley · Jennifer M. Jenkins",
+      "edition": "第 4 版",
+      "year": "",
+      "filename": "Understanding Emotions.epub",
+      "format": "EPUB",
+      "color": "#ad4b69",
+      "description": "情绪理论、发展与社会生活"
+    },
+    {
+      "id": "personality",
+      "short": "The Personality Puzzle",
+      "title": "The Personality Puzzle",
+      "authors": "David C. Funder",
+      "edition": "第 8 版",
+      "year": "2019",
+      "filename": "The Personality Puzzle 8th Edition.pdf",
+      "format": "PDF",
+      "pages": 1820,
+      "color": "#98702c",
+      "description": "人格理论、测量与个体差异"
+    }
   ]
 }

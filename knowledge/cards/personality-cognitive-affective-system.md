@@ -9,7 +9,7 @@ summary: "人格可以表现为稳定的情境反应模式，而不只是每次�
 aliases: ["CAPS"]
 keywords: ["认知情感", "人格系统", "如果那么", "情境", "反应模式", "稳定", "米歇尔", "行为"]
 questions: ["不同场合行为不一样还能体现稳定人格吗？", "怎样用如果那么描述一个人的反应模式？"]
-sources: [{"book": "personality", "chapter": "第14章 人格过程", "locator": "PDF 第 1144 页", "pdfPages": [1144]}]
+sources: [{"book": "personality", "chapter": "第14章 人格过程", "locator": "PDF 第 1144 页", "pdfPages": [1144]}, {"book": "general", "chapter": "第14章 · 人格", "locator": "PDF 第 1232–1234 页", "pdfPages": [1232, 1233, 1234]}]
 candidateRelated: [{"concept": "人与情境交互作用", "reason": "提供更一般的关系框架"}, {"concept": "相对一致性", "reason": "另一种理解稳定的方法"}]
 ---
 

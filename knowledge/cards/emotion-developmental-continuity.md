@@ -9,7 +9,7 @@ summary: "同型连续性指相似症状随时间延续，异型连续性指早�
 aliases: []
 keywords: ["同型连续性", "异型连续性", "发展轨迹", "症状变化", "内化", "外化", "跨诊断", "纵向研究", "连续性", "Homotypic and Heterotypic Continuity"]
 questions: ["儿童期一种困难为何可能在后来以另一种形式出现？", "症状名称变了是否就说明原来的易感性消失了？"]
-sources: [{"book": "emotions", "chapter": "第12章 儿童情绪的心理病理", "locator": "第12章 · Homotypic and Heterotypic Continuity", "epubPath": "OPS/c12.xhtml#head-3-174"}]
+sources: [{"book": "emotions", "chapter": "第12章 儿童情绪的心理病理", "locator": "第12章 · Homotypic and Heterotypic Continuity", "epubPath": "OPS/c12.xhtml#head-3-174"}, {"book": "personality", "chapter": "人格稳定发展与变化", "locator": "Causes of Stability / From Temperament to Personality；PDF文件第499页", "pdfPages": [499]}]
 candidateRelated: [{"title": "一般心理病理因素", "reason": "共有因素可能解释部分异型连续性"}, {"title": "人与环境的交互发展", "reason": "反馈循环为症状延续和转变提供过程解释"}]
 ---
 
@@ -24,3 +24,7 @@ candidateRelated: [{"title": "一般心理病理因素", "reason": "共有因素
 ## 理解边界
 
 预测关联不表示每个儿童都沿同一路径发展，也不能仅凭先后顺序确定因果。年龄、测量方式和共同风险都会影响观察到的连续性。
+
+## 人格发展中的异型连续性
+
+人格教材也使用异型连续性，但研究对象是倾向在不同年龄的不同表现，而不只指心理困难跨类别延续。例如害羞儿童躲在父母身后，成年后则可能避免与陌生人交谈。表面行为不同，潜在倾向可能延续；是否为同一发展机制仍需纵向证据，不能把这一用法与跨诊断预测完全等同。

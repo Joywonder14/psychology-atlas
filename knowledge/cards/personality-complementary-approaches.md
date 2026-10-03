@@ -9,7 +9,7 @@ summary: "特质、生物、精神分析、现象学及学习认知取向回答�
 aliases: []
 keywords: ["研究取向", "特质", "生物", "精神分析", "人本", "认知", "互补", "人格"]
 questions: ["为什么人格研究会保留多种不同取向？", "怎样根据问题选择合适的解释框架？"]
-sources: [{"book": "personality", "chapter": "第1章 对人的研究", "locator": "PDF 第 94 页", "pdfPages": [94]}, {"book": "personality", "chapter": "第18章 我们学到了什么", "locator": "PDF 第 1393 页", "pdfPages": [1393]}]
+sources: [{"book": "personality", "chapter": "第1章 对人的研究", "locator": "PDF 第 94 页", "pdfPages": [94]}, {"book": "personality", "chapter": "第18章 我们学到了什么", "locator": "PDF 第 1393 页", "pdfPages": [1393]}, {"book": "personality", "chapter": "对人的研究", "locator": "The Goals of Personality Psychology; Competitors or Complements?; Distinct Approaches; Advantages as Disadvantages；PDF文件第69、71、72、73、75、77、79页", "pdfPages": [69, 71, 72, 73, 75, 77, 79]}, {"book": "personality", "chapter": "我们学到了什么", "locator": "Which Approach Is Right?; The Quest for Understanding；PDF文件第1370、1390页", "pdfPages": [1370, 1390]}]
 candidateRelated: [{"concept": "心理三要素", "reason": "构成人格研究的共同对象"}, {"concept": "人与情境交互作用", "reason": "示范把多个解释因素结合"}]
 ---
 
@@ -24,3 +24,11 @@ candidateRelated: [{"concept": "心理三要素", "reason": "构成人格研究�
 ## 理解边界
 
 互补不等于所有主张都同样可靠，也不意味着互相矛盾的解释可以不加检验地并列。仍需查看概念、证据和适用范围。
+
+## 第一章正文补充：取向的自我限制
+
+教材把取向看成有意识地限制观察对象和问题的方式：整体理解人的目标太广，因此不同研究程序各有聚焦。取向的优势与局限往往来自同一选择，是否有用要看正在回答什么问题。这是全书的方法论立场，不是证明所有理论同样正确。
+
+## 第18章正文补充：按问题选择取向
+
+结尾再次要求按想理解的问题选择取向，而在关系、工作和健康等现实问题上组合多个取向。无论取向如何，关于某个人的理解最终都需回到能观察的行为与可获得的报告来检验，不能只因一种解释听起来完整就接受它。

@@ -18,6 +18,7 @@
       "cognition-prospect-theory",
       "emotion-somatic-marker",
       "emotion-affect-as-information",
+      "emotion-negativity-bias",
       "emotion-affect-infusion",
       "social-affective-forecasting",
       "emotion-social-intuition",
@@ -100,6 +101,7 @@
       "emotion-unfolding-process",
       "emotion-evolutionary-adaptation",
       "emotion-james-lange",
+      "emotion-facial-feedback",
       "emotion-appraisal",
       "emotion-discrete-emotions",
       "emotion-constructed-emotion",
@@ -108,6 +110,7 @@
       "emotion-amygdala-relevance",
       "emotion-brain-patterns",
       "emotion-expression-universality",
+      "emotion-context-recognition",
       "emotion-behavioral-ecology",
       "emotion-display-rules-dialects",
       "emotion-ideal-affect",
@@ -121,6 +124,9 @@
       "social-affective-forecasting",
       "social-broaden-build",
       "emotion-regulation-process",
+      "emotion-reappraisal",
+      "emotion-expressive-suppression",
+      "emotion-distraction",
       "emotion-emotional-intelligence",
       "emotion-rumination",
       "emotion-anxiety-attention",
@@ -136,6 +142,7 @@
     "prompt": "先区分习惯化、条件作用与观察学习，再联系动机、记忆和练习中的知识运用。",
     "cardIds": [
       "learning-habituation",
+      "learning-desensitization",
       "social-mere-exposure",
       "learning-classical-conditioning",
       "learning-operant-conditioning",
@@ -214,6 +221,9 @@
       "development-parenting",
       "emotion-social-referencing",
       "emotion-emotion-socialization",
+      "development-parental-mentalization",
+      "development-mental-state-talk",
+      "development-emotion-coaching",
       "emotion-self-conscious-development",
       "emotion-regulation-development",
       "personality-psychosocial-development",
@@ -245,6 +255,45 @@
       "personality-traits-types",
       "personality-etics-emics",
       "personality-complementary-approaches"
+    ]
+  },
+  {
+    "id": "repeated-experience",
+    "title": "反复经历如何改变反应",
+    "description": "比较习惯化、去敏化、单纯曝光、适应与敏化。",
+    "prompt": "从习惯化与去敏化的区别开始，比较情绪反应、好恶与行为如何改变，再看反应为什么也可能增强。",
+    "cardIds": [
+      "learning-habituation",
+      "learning-desensitization",
+      "social-mere-exposure",
+      "learning-classical-conditioning",
+      "clinical-exposure-extinction",
+      "emotion-hedonic-adaptation",
+      "emotion-stress-sensitization",
+      "cognition-reconsolidation"
+    ]
+  },
+  {
+    "id": "emotion-social-life",
+    "title": "情绪与社会关系",
+    "description": "探索角色、规范、权力与相互依赖怎样塑造情绪。",
+    "prompt": "先看情绪如何表达与协调关系，再理解感受规则和情绪劳动，最后联系权力、资源、分享和支持。",
+    "cardIds": [
+      "emotion-expression-social-functions",
+      "emotion-context-recognition",
+      "emotion-blushing-repair",
+      "emotion-gratitude",
+      "emotion-forgiveness",
+      "emotion-social-roles",
+      "emotion-feeling-rules",
+      "emotion-emotional-labor",
+      "emotion-display-rules-dialects",
+      "emotion-expressive-suppression",
+      "emotion-power-approach-inhibition",
+      "emotion-social-class-context",
+      "emotion-social-sharing",
+      "emotion-social-support-buffering",
+      "emotion-group-collective"
     ]
   }
 ]

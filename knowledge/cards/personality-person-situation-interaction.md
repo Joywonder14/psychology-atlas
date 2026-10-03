@@ -9,7 +9,7 @@ summary: "行为由人的特点和情境共同形成，二者还会彼此影响�
 aliases: []
 keywords: ["人格", "情境", "交互", "选择", "环境", "特质", "行为", "反馈"]
 questions: ["人格与情境为什么不必争出一个唯一胜者？", "人怎样主动塑造自己所处的环境？"]
-sources: [{"book": "personality", "chapter": "第4章 人与情境", "locator": "PDF 第 328–329 页", "pdfPages": [328, 329]}]
+sources: [{"book": "personality", "chapter": "第4章 人与情境", "locator": "PDF 第 328–329 页", "pdfPages": [328, 329]}, {"book": "personality", "chapter": "人与情境", "locator": "Persons and Situations / Interactionism；PDF文件第318页", "pdfPages": [318]}]
 candidateRelated: [{"concept": "相对一致性", "reason": "说明行为改变与特质稳定可以共存"}, {"concept": "认知情感人格系统", "reason": "刻画情境化反应模式"}]
 ---
 
@@ -24,3 +24,7 @@ candidateRelated: [{"concept": "相对一致性", "reason": "说明行为改变�
 ## 理解边界
 
 交互作用不是把所有结果笼统归为两者都有作用。具体解释仍需指出哪种特质、哪类情境，以及预期怎样一起改变行为。
+
+## 第四章正文补充：三种人境联系
+
+本章区分个人特征与情境的条件性交互、不同人进入不同情境，以及人以行为改变情境。前者说明变量效应可能依赖另一变量，后两者说明环境并非总是独立施加；这些机制不能被简化成“人格占一半、情境占一半”。第7章的人境交易卡进一步展开跨时间反馈。

@@ -2002,5 +2002,3161 @@
     "target": "social-reciprocal-altruism",
     "reason": "比较遗传关联与未来合作回报的进化解释",
     "kind": "关联阅读"
+  },
+  {
+    "source": "emotion-emotional-labor",
+    "target": "emotion-feeling-rules",
+    "reason": "说明工作场景中哪些感受被视为合宜",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-emotional-labor",
+    "target": "emotion-expressive-suppression",
+    "reason": "表层扮演可能涉及控制外在表达",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-feeling-rules",
+    "target": "emotion-display-rules-dialects",
+    "reason": "区分感受的合宜性与表达方式",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-social-roles",
+    "target": "emotion-feeling-rules",
+    "reason": "角色携带合宜感受的期待",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-social-roles",
+    "target": "emotion-appraisal",
+    "reason": "社会角色影响事件对个人意味着什么",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-amae",
+    "target": "emotion-attachment",
+    "reason": "被接纳与依靠他人的体验具有依恋含义",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-amae",
+    "target": "emotion-self-construal",
+    "reason": "文化中的相互依赖影响情绪的正当位置",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-context-recognition",
+    "target": "emotion-expression-universality",
+    "reason": "帮助理解单独脸孔任务的适用边界",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-context-recognition",
+    "target": "emotion-multimodal-recognition",
+    "reason": "情境信息可以来自面孔之外的感觉通道",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-expression-social-functions",
+    "target": "emotion-behavioral-ecology",
+    "reason": "都关注表达对互动对象的作用",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-expression-social-functions",
+    "target": "emotion-status-display",
+    "reason": "地位协调是表达社会功能的一种情境",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-facial-feedback",
+    "target": "emotion-james-lange",
+    "reason": "都考虑身体变化如何参与情绪",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-facial-feedback",
+    "target": "emotion-interoception",
+    "reason": "身体信号进入体验的相关途径",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-blushing-repair",
+    "target": "emotion-self-conscious-development",
+    "reason": "脸红与在意他人如何评价自己有关",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-blushing-repair",
+    "target": "emotion-expression-social-functions",
+    "reason": "表达可能缓和关系中的规范破坏",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-awe",
+    "target": "emotion-appraisal",
+    "reason": "宏大与顺应需要属于对事件的评价",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-awe",
+    "target": "emotion-self-conscious-development",
+    "reason": "敬畏可改变自我在更大整体中的位置感",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-awe",
+    "target": "personality-narcissism",
+    "reason": "可比较自我中心与自我位置变化",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-negativity-bias",
+    "target": "cognition-prospect-theory",
+    "reason": "比较一般负面权重与得失参照点机制",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-negativity-bias",
+    "target": "emotion-anxiety-attention",
+    "reason": "焦虑可进一步影响对威胁线索的选择",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-affective-priming",
+    "target": "emotion-affect-as-information",
+    "reason": "比较先前情感线索与当前感受怎样进入判断",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-affective-priming",
+    "target": "social-mere-exposure",
+    "reason": "区分情感线索迁移与熟悉性增加",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-prototypes",
+    "target": "emotion-discrete-emotions",
+    "reason": "原型观点与离散情绪观点对类别及边界的解释侧重点不同",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-prototypes",
+    "target": "emotion-constructed-emotion",
+    "reason": "两者都重视概念，但不应视为同一个理论",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-social-sharing",
+    "target": "emotion-rumination",
+    "reason": "反复谈论不必然产生新的理解",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-social-sharing",
+    "target": "emotion-social-support-buffering",
+    "reason": "分享可能成为获得支持的途径",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-reappraisal",
+    "target": "emotion-regulation-process",
+    "reason": "重评是改变评价的具体途径",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-reappraisal",
+    "target": "emotion-expressive-suppression",
+    "reason": "两者干预情绪过程的位置和代价不同",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-expressive-suppression",
+    "target": "emotion-display-rules-dialects",
+    "reason": "社会规范可改变抑制表达的含义与效果",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-distraction",
+    "target": "emotion-regulation-process",
+    "reason": "注意部署是调节过程中的一个环节",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-distraction",
+    "target": "emotion-reappraisal",
+    "reason": "比较转移加工对象与改变对象意义",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-empathy-components",
+    "target": "development-theory-mind",
+    "reason": "认知共情涉及理解他人的心理状态",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-empathy-components",
+    "target": "social-empathy-altruism",
+    "reason": "区分体验或理解他人状态与关怀性的帮助动机",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-social-pain",
+    "target": "social-sociometer",
+    "reason": "关系接纳受到威胁时，自我评价也可能变化",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-social-pain",
+    "target": "emotion-social-support-buffering",
+    "reason": "联结可能缓冲排斥造成的负担",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-functionalist-emotion",
+    "target": "emotion-discrete-emotions",
+    "reason": "比较固定类别与情境功能的不同解释重点",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-functionalist-emotion",
+    "target": "emotion-transactional-context",
+    "reason": "都关注儿童与环境相互改变",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-multimodal-recognition",
+    "target": "emotion-emotional-intelligence",
+    "reason": "识别情绪是相关能力的一部分",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-effortful-control",
+    "target": "emotion-regulation-development",
+    "reason": "努力控制是发展中的一种调节能力",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-effortful-control",
+    "target": "cognition-working-memory",
+    "reason": "维持目标有助于控制当前反应",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-forgiveness",
+    "target": "emotion-appraisal",
+    "reason": "对冒犯者和事件的重新理解可伴随情绪变化",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-forgiveness",
+    "target": "emotion-reappraisal",
+    "reason": "重评可能参与宽恕，但不是宽恕的同义词",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-gratitude",
+    "target": "social-reciprocal-altruism",
+    "reason": "感恩可支持互惠，但两者解释层次不同",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-gratitude",
+    "target": "emotion-expression-social-functions",
+    "reason": "感恩表达可强化他人的帮助行为",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-social-support-buffering",
+    "target": "social-stress-appraisal",
+    "reason": "支持可影响人对资源与应对能力的判断",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-power-approach-inhibition",
+    "target": "personality-behavioral-activation",
+    "reason": "比较动机系统与社会权力条件的联系",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-power-approach-inhibition",
+    "target": "emotion-status-display",
+    "reason": "表达既反映也参与协调权力关系",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-social-class-context",
+    "target": "emotion-power-approach-inhibition",
+    "reason": "资源与约束是相关但不同的社会条件",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-social-class-context",
+    "target": "emotion-self-construal",
+    "reason": "自主和相互依赖可以影响情绪关注对象",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-priority-interruption",
+    "target": "emotion-appraisal",
+    "reason": "评价事件与目标的关系决定其优先性",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-priority-interruption",
+    "target": "emotion-unfolding-process",
+    "reason": "把目标优先级变化放进情绪发生的时间过程",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-processing-style",
+    "target": "emotion-affect-as-information",
+    "reason": "比较判断内容受到影响与加工方式受到影响",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-processing-style",
+    "target": "social-broaden-build",
+    "reason": "积极情绪扩大思考范围是相关解释之一",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-distractor-devaluation",
+    "target": "social-mere-exposure",
+    "reason": "比较接触频率与注意处理方式的不同作用",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-distractor-devaluation",
+    "target": "cognition-load-theory",
+    "reason": "忽略无关刺激的过程可能改变后续评价",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-parental-mentalization",
+    "target": "development-theory-mind",
+    "reason": "都涉及表征他人的内在状态",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-parental-mentalization",
+    "target": "emotion-attachment",
+    "reason": "敏感照料与理解孩子的心理状态具有联系",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-mental-state-talk",
+    "target": "development-parental-mentalization",
+    "reason": "内在理解通过谈话表达给孩子",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-mental-state-talk",
+    "target": "emotion-emotion-socialization",
+    "reason": "语言是社会化的一条具体渠道",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-emotion-coaching",
+    "target": "emotion-feeling-rules",
+    "reason": "照料者传递何种情绪可以被承认",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-emotion-coaching",
+    "target": "emotion-emotion-socialization",
+    "reason": "元情绪理念影响社会化过程",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-conduct-trajectories",
+    "target": "emotion-developmental-continuity",
+    "reason": "同一表现可持续，也可转化或减退",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-conduct-trajectories",
+    "target": "emotion-cumulative-risk",
+    "reason": "多个风险条件可能与不同轨迹相联系",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-self-compassion",
+    "target": "emotion-mindfulness",
+    "reason": "平衡地觉察痛苦是相关过程",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-self-compassion",
+    "target": "emotion-rumination",
+    "reason": "自我关怀提供不同于反复自责的理解方式",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-stress-sensitization",
+    "target": "learning-desensitization",
+    "reason": "重复经历的结果可能是反应减弱，也可能是更容易被触发；需要分别检验条件与反应指标。",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-stress-sensitization",
+    "target": "emotion-diathesis-stress",
+    "reason": "已有脆弱性与压力共同参与结果",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-hedonic-adaptation",
+    "target": "learning-habituation",
+    "reason": "都关注反应随经历变化，但对简单刺激的反应与长期幸福感的适应属于不同层面。",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-hedonic-adaptation",
+    "target": "social-affective-forecasting",
+    "reason": "忽略适应可能影响对未来感受的预测",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-emotion-focused-therapy",
+    "target": "emotion-appraisal",
+    "reason": "情绪提示了哪些目标或关切受到影响",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-emotion-focused-therapy",
+    "target": "emotion-emotional-labor",
+    "reason": "社会允许或不允许的感受可影响人如何面对自身体验",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-expressive-writing",
+    "target": "emotion-social-sharing",
+    "reason": "两者都把体验转成可反思的语言",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-expressive-writing",
+    "target": "emotion-rumination",
+    "reason": "有组织的意义建构不同于反复陷在相同想法中",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-literature-simulation",
+    "target": "emotion-empathy-components",
+    "reason": "叙事可同时涉及体验他人感受与推断心理状态",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-literature-simulation",
+    "target": "emotion-prototypes",
+    "reason": "故事通过事件序列呈现情绪的典型结构",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-channel-factors",
+    "target": "social-construal",
+    "reason": "情境安排与情境解释共同影响行动",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-naturalistic-fallacy",
+    "target": "emotion-evolutionary-adaptation",
+    "reason": "区分适应解释与道德正当性",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-hindsight-bias",
+    "target": "social-confirmation-bias",
+    "reason": "两者都会使既有判断显得比实际更可靠",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-natural-experiment",
+    "target": "social-random-assignment",
+    "reason": "自然实验需要评估与随机安排的可比性",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-reflected-appraisal",
+    "target": "social-self-verification",
+    "reason": "既有自我观也会引导反馈选择",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-working-self-concept",
+    "target": "personality-declarative-self",
+    "reason": "工作自我是自我知识中当下被激活的部分",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-social-comparison",
+    "target": "social-self-enhancement",
+    "reason": "选择比较对象可以服务于积极自我评价",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-self-worth-contingencies",
+    "target": "social-sociometer",
+    "reason": "两者解释自尊波动的不同信息来源",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-self-enhancement",
+    "target": "social-self-verification",
+    "reason": "验证既有自我与追求正面自我是不同动机",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-regulatory-focus",
+    "target": "social-self-discrepancy",
+    "reason": "调节焦点从理想与应然标准延伸到目标追求",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-self-presentation",
+    "target": "personality-self-monitoring",
+    "reason": "自我监控反映对呈现线索和要求的关注差异",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-self-handicapping",
+    "target": "social-self-serving-attribution",
+    "reason": "一个提前建造解释条件，一个事后分配成败原因",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-covariation-attribution",
+    "target": "social-fundamental-attribution-error",
+    "reason": "对应偏差可能忽略这些情境信息",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-discounting-principle",
+    "target": "social-covariation-attribution",
+    "reason": "共变与折扣提供两种归因信息组织方式",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-counterfactual-thinking",
+    "target": "social-affective-forecasting",
+    "reason": "情绪也取决于被聚焦的参照与解释",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-self-serving-attribution",
+    "target": "social-self-enhancement",
+    "reason": "自利归因是维护积极自我的一种方式",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-actor-observer",
+    "target": "social-fundamental-attribution-error",
+    "reason": "都涉及个人与情境信息的相对权重",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-order-effects",
+    "target": "social-schemas",
+    "reason": "先形成的框架影响后续信息解释",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-framing-effects",
+    "target": "cognition-prospect-theory",
+    "reason": "风险选择的框架是更具体的一类问题",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-construal-level",
+    "target": "social-construal",
+    "reason": "在一般情境解释之上说明解释层次如何变化",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-processing-fluency",
+    "target": "cognition-heuristics",
+    "reason": "与易得性相关但不限于例子的回忆速度",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-base-rate-neglect",
+    "target": "cognition-heuristics",
+    "reason": "代表性启发式可能产生这类信息遗漏",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-base-rate-neglect",
+    "target": "cognition-natural-frequencies",
+    "reason": "信息格式改变可改善概率整合",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-illusory-correlation",
+    "target": "social-paired-distinctiveness",
+    "reason": "稀有事件共同醒目可通过另一条路径产生虚假相关",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-regression-fallacy",
+    "target": "foundations-experiment-correlation",
+    "reason": "回归会让前后比较产生虚假的因果印象",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-peak-end-duration",
+    "target": "social-affective-forecasting",
+    "reason": "区分回顾过去与预测未来的情绪偏差",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-emotion-commitment",
+    "target": "social-investment-model",
+    "reason": "分别从情绪过程与关系结构解释承诺",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-attitude-components",
+    "target": "social-attitude-behavior-correspondence",
+    "reason": "成分区分有助于理解态度何时预测行为",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-reasons-analysis",
+    "target": "social-attitude-behavior-correspondence",
+    "reason": "说明报告态度失去预测力的一种具体路径",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-effort-justification",
+    "target": "social-cognitive-dissonance",
+    "reason": "这是投入和结果不协调的一种失调情形",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-induced-compliance",
+    "target": "social-self-perception",
+    "reason": "有时也可比较由行为反推态度的解释",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-system-justification",
+    "target": "social-just-world",
+    "reason": "相信结果应得是相关但不完全相同的过程",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-terror-management",
+    "target": "social-self-affirmation",
+    "reason": "两者都涉及威胁后的意义或价值维护",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-sleeper-effect",
+    "target": "social-elaboration-likelihood",
+    "reason": "说服的内容和来源线索可能具有不同时间进程",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-identifiable-victim",
+    "target": "social-empathy-altruism",
+    "reason": "可识别性可能通过共情影响援助动机",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-fear-appeals",
+    "target": "social-elaboration-likelihood",
+    "reason": "恐惧可以改变信息加工的动机与条件",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-need-for-cognition",
+    "target": "social-elaboration-likelihood",
+    "reason": "认知需要会影响采用较精细加工的倾向",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-agenda-control",
+    "target": "cognition-heuristics",
+    "reason": "容易想到的议题可能被赋予较高重要性",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-hostile-media",
+    "target": "social-construal",
+    "reason": "同一信息可被不同立场解释为不同含义",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-thought-polarization",
+    "target": "social-group-polarization",
+    "reason": "区分独自思考与群体互动两种极化情境",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-minority-influence",
+    "target": "social-informational-influence",
+    "reason": "少数派可能通过促使重新检查信息产生影响",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-foot-in-the-door",
+    "target": "social-self-perception",
+    "reason": "先前行为可成为推断自我身份的线索",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-descriptive-injunctive-norms",
+    "target": "social-normative-influence",
+    "reason": "规范类型有助于解释具体社会影响线索",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-dynamic-norms",
+    "target": "social-descriptive-injunctive-norms",
+    "reason": "在当前描述性规范上加入变化方向",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-reciprocity-norm",
+    "target": "social-reciprocal-altruism",
+    "reason": "规范性回报与演化上的互惠利他处于不同解释层次",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-door-in-the-face",
+    "target": "social-foot-in-the-door",
+    "reason": "两者请求顺序相反，提出的主要机制也不同",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-negative-state-relief",
+    "target": "social-empathy-altruism",
+    "reason": "对比自身不适缓解与他人福祉两种动机",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-psychological-reactance",
+    "target": "social-obedience-authority",
+    "reason": "自主权威胁可能与服从权威的压力相对抗",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-need-to-belong",
+    "target": "social-sociometer",
+    "reason": "自尊可能监测关系接纳的状态",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-communal-exchange",
+    "target": "social-social-exchange",
+    "reason": "区分具体关系规范与用于解释关系评价的交换理论",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-equity-theory",
+    "target": "social-social-exchange",
+    "reason": "公平约束可改变单纯成本收益的关系评价",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-functional-distance",
+    "target": "social-mere-exposure",
+    "reason": "更多相遇可能通过熟悉性进一步影响喜欢",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-similarity-attraction",
+    "target": "social-self-verification",
+    "reason": "感到对方理解自己可与相似性吸引相连",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-halo-effect",
+    "target": "social-self-fulfilling-prophecy",
+    "reason": "外貌期待也可能经差别互动影响之后表现",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-partner-responsiveness",
+    "target": "social-investment-model",
+    "reason": "回应性为满意、投入及替代选择的共同变化提供解释",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-relationship-attributions",
+    "target": "social-self-serving-attribution",
+    "reason": "比较关系评价与自利动机怎样改变原因分配",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-stereotype-prejudice-discrimination",
+    "target": "social-social-identity",
+    "reason": "身份与群体评价可能影响这些不同层面",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-modern-racism",
+    "target": "social-bystander-diffusion",
+    "reason": "责任模糊可为偏向提供非群体性的解释空间",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-benevolent-prejudice",
+    "target": "social-stereotype-content",
+    "reason": "温暖与能力分离可形成矛盾评价",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-implicit-association-test",
+    "target": "foundations-measurement",
+    "reason": "构念效度和行为对应决定分数如何解释",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-affect-misattribution-procedure",
+    "target": "social-implicit-association-test",
+    "reason": "两种间接测量分别侧重评价与反应时差异",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-subtyping",
+    "target": "social-confirmation-bias",
+    "reason": "对子类型的划分可以保护既有信念不受反证影响",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-outgroup-homogeneity",
+    "target": "social-social-identity",
+    "reason": "群体边界会影响如何组织与评价成员信息",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-own-race-bias",
+    "target": "social-eyewitness-memory",
+    "reason": "群体识别经验是目击辨认的一个条件",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-own-race-bias",
+    "target": "cognition-holistic-face-processing",
+    "reason": "面孔经验可能改变使用整体与特征信息的方式",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-own-race-bias",
+    "target": "development-perceptual-narrowing",
+    "reason": "属于经验塑造知觉分辨能力的研究例子",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-contact-hypothesis",
+    "target": "social-subtyping",
+    "reason": "若接触对象被隔离为例外，积极经验可能无法泛化",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-common-ingroup-identity",
+    "target": "social-social-identity",
+    "reason": "通过调整群体边界改变身份作用的范围",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-diversity-ideologies",
+    "target": "social-common-ingroup-identity",
+    "reason": "共同身份与是否承认原有群体差异需分别考虑",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-social-dominance",
+    "target": "social-system-justification",
+    "reason": "比较支持等级与维护整个系统正当性的动机",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-intergroup-goal-mismatch",
+    "target": "social-stereotype-content",
+    "reason": "温暖与能力两维塑造不同的互动关切",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-marley-hypothesis",
+    "target": "social-framing-effects",
+    "reason": "进步评价可因比较基准不同而变化",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-evaluation-apprehension",
+    "target": "social-social-facilitation",
+    "reason": "这是社会助长现象的一种机制解释",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-deindividuation",
+    "target": "social-self-awareness",
+    "reason": "聚焦个体身份和标准构成相对方向的过程",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-spotlight-effect",
+    "target": "social-self-presentation",
+    "reason": "公共形象越重要，越可能关心他人的注意",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-general-aggression",
+    "target": "social-weapons-cues",
+    "reason": "武器线索和愤怒交互是具体过程之一",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-heat-misattribution",
+    "target": "social-general-aggression",
+    "reason": "把温度线索与个人解释连接起来",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-weapons-cues",
+    "target": "social-construal",
+    "reason": "同一物体的心理意义会因经验不同而改变",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-precarious-manhood",
+    "target": "social-honor-culture",
+    "reason": "比较社会认可受威胁时的不同防御规范",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-reactive-devaluation",
+    "target": "social-hostile-media",
+    "reason": "既有对立立场会改变对同一材料的解释",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-integrative-complexity",
+    "target": "social-reactive-devaluation",
+    "reason": "容纳不同动机解释可能帮助理解谈判分歧",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-perspective-giving",
+    "target": "social-contact-hypothesis",
+    "reason": "良好接触需要关注互动结构与地位",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-restorative-justice",
+    "target": "emotion-forgiveness",
+    "reason": "修复程序可能影响宽恕，但不保证或强制宽恕",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-moral-foundations",
+    "target": "emotion-social-intuition",
+    "reason": "社会直觉模型说明加工方式，道德基础理论细分直觉内容",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-prisoners-dilemma",
+    "target": "social-tit-for-tat",
+    "reason": "重复互动使后续回应成为当前选择的条件",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-tit-for-tat",
+    "target": "social-reciprocal-altruism",
+    "reason": "具体重复互动规则可帮助理解互惠如何维持",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-reputation-cooperation",
+    "target": "social-reciprocity-norm",
+    "reason": "直接回报之外，第三方信息也可维持合作",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-ultimatum-game",
+    "target": "social-prisoners-dilemma",
+    "reason": "同属简化经济博弈，但行动顺序和收益结构不同",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-naive-realism",
+    "target": "social-construal",
+    "reason": "人会忽略自己的情境解释过程",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-affect-labeling",
+    "target": "emotion-rumination",
+    "reason": "区分简明辨认体验与重复扩展其负面含义",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-tend-befriend",
+    "target": "emotion-social-support-buffering",
+    "reason": "照顾结盟强调回应方式，缓冲理论强调支持的保护条件",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-tend-befriend",
+    "target": "emotion-hpa-axis",
+    "reason": "压力还包括内分泌反应",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-tend-befriend",
+    "target": "personality-oxytocin-context",
+    "reason": "催产素的社会行为关联具有条件性",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-subjective-social-rank",
+    "target": "social-social-comparison",
+    "reason": "比较对象会影响对自身相对位置的理解",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-dispositional-optimism",
+    "target": "social-perceived-control",
+    "reason": "期待好结果与相信自己能控制结果需要区分",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-belonging-uncertainty",
+    "target": "social-stereotype-threat",
+    "reason": "身份相关威胁可通过不同路径影响学习表现",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-cultural-mismatch",
+    "target": "emotion-self-construal",
+    "reason": "独立和互依自我取向构成错位的一种内容",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-recursive-intervention",
+    "target": "social-self-affirmation",
+    "reason": "价值肯定可能成为启动后续反馈的输入",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-false-confessions",
+    "target": "social-fundamental-attribution-error",
+    "reason": "从行为推断内在事实时可能低估情境力量",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-punitive-damage-mapping",
+    "target": "social-framing-effects",
+    "reason": "参照尺度改变判断的数量表达",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-punishment-attribution",
+    "target": "emotion-appraisal",
+    "reason": "对责任和可改变性的评价与不同情绪相连",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-experience-sampling",
+    "target": "personality-blis-data",
+    "reason": "区分由参与者自报和直接记录的资料",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-experience-sampling",
+    "target": "foundations-aggregation",
+    "reason": "重复取样支持估计均值与波动",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-aggregation",
+    "target": "foundations-measurement",
+    "reason": "聚合主要改善测量的一致性",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-aggregation",
+    "target": "personality-relative-consistency",
+    "reason": "说明为何需要跨时点估计相对位置",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-case-method",
+    "target": "foundations-experiment-correlation",
+    "reason": "后续设计可以检验从个案提出的假说",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-case-method",
+    "target": "personality-narrative-identity",
+    "reason": "个人生命故事可成为深入研究材料",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-projective-hypothesis",
+    "target": "personality-blis-data",
+    "reason": "开放回答属于需要解释的行为线索",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-projective-hypothesis",
+    "target": "personality-construct-validity",
+    "reason": "人格含义需由外部关联检验",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-rational-test-construction",
+    "target": "foundations-factor-analysis",
+    "reason": "可检验内容相似题目的共同变化",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-rational-test-construction",
+    "target": "foundations-empirical-test-construction",
+    "reason": "外部预测检验补足题目直观性",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-factor-analysis",
+    "target": "personality-big-five",
+    "reason": "大五是因素分析的重要应用",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-factor-analysis",
+    "target": "personality-construct-validity",
+    "reason": "共同维度还需外部验证",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-empirical-test-construction",
+    "target": "personality-replication-open-science",
+    "reason": "新样本验证检验结果的可重复性",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-significance-errors",
+    "target": "personality-effect-size",
+    "reason": "区分结果的意外程度与幅度",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-significance-errors",
+    "target": "personality-replication-open-science",
+    "reason": "单次显著不能替代独立重复",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-besd",
+    "target": "personality-effect-size",
+    "reason": "为相关效应量提供具体展示",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-besd",
+    "target": "foundations-experiment-correlation",
+    "reason": "结果显示与因果识别是不同问题",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-normative-distinctive-accuracy",
+    "target": "personality-judgability",
+    "reason": "对象差异也会影响独特线索能否判断",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-normative-distinctive-accuracy",
+    "target": "personality-relative-consistency",
+    "reason": "独特性判断关注人与人相对差异",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-judgability",
+    "target": "personality-realistic-accuracy-model",
+    "reason": "对象特征影响相关线索能否出现和被看见",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-judgability",
+    "target": "personality-convergent-validation",
+    "reason": "准确性还要与独立行为证据汇聚",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-self-other-knowledge-asymmetry",
+    "target": "personality-blis-data",
+    "reason": "自评和知情者报告提供不同信息",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-self-other-knowledge-asymmetry",
+    "target": "personality-realistic-accuracy-model",
+    "reason": "解释信息可用性与检测的不同优势",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-narcissism",
+    "target": "personality-self-monitoring",
+    "reason": "均涉及社会呈现但动机不同",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-narcissism",
+    "target": "personality-dimensional-personality-pathology",
+    "reason": "区分一般特质与功能受损的极端模式",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-q-sort",
+    "target": "personality-blis-data",
+    "reason": "Q分类可组织自评或他评的人格资料",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-q-sort",
+    "target": "personality-traits-types",
+    "reason": "输出是多特质轮廓而非固定类型",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-lexical-hypothesis",
+    "target": "foundations-factor-analysis",
+    "reason": "词表经相关结构分析形成较少维度",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-lexical-hypothesis",
+    "target": "personality-etics-emics",
+    "reason": "跨语言共同性需要兼顾本土描述",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-extraversion-arousal",
+    "target": "personality-big-five",
+    "reason": "这是外向性的一种机制解释",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-extraversion-arousal",
+    "target": "personality-behavioral-activation",
+    "reason": "奖励敏感性提供不同但可比较的解释",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-hexaco",
+    "target": "personality-big-five",
+    "reason": "可比较不同特质结构的覆盖范围",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-hexaco",
+    "target": "personality-narcissism",
+    "reason": "优越感与低谦逊有概念交集但不相同",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-person-environment-transactions",
+    "target": "personality-person-situation-interaction",
+    "reason": "从即时交互扩展到跨时间反馈",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-person-environment-transactions",
+    "target": "emotion-transactional-context",
+    "reason": "与发展中的人境相互塑造联系",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-cohort-effects",
+    "target": "personality-maturity-principle",
+    "reason": "成熟趋势需要发展设计支持",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-cohort-effects",
+    "target": "foundations-measurement",
+    "reason": "涉及研究结论的时间和人群适用范围",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-social-clock",
+    "target": "personality-social-investment",
+    "reason": "角色投入是社会要求影响发展的路径",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-social-clock",
+    "target": "foundations-cohort-effects",
+    "reason": "社会时钟具有历史与队列背景",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-narrative-identity",
+    "target": "personality-declarative-self",
+    "reason": "生命故事构成可陈述的自我知识",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-narrative-identity",
+    "target": "emotion-meaningful-life",
+    "reason": "连接经历、目标和意义",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-time-perspective-goals",
+    "target": "personality-social-clock",
+    "reason": "区分主观时间与社会年龄规范",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-time-perspective-goals",
+    "target": "personality-narrative-identity",
+    "reason": "时间视野会改变生命故事的未来部分",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-intentional-change",
+    "target": "personality-self-efficacy",
+    "reason": "对能否行动的信念影响尝试",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-intentional-change",
+    "target": "personality-person-environment-transactions",
+    "reason": "环境反馈影响新行为能否维持",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-social-investment",
+    "target": "personality-person-environment-transactions",
+    "reason": "人格选择与角色反馈相互作用",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-social-investment",
+    "target": "personality-maturity-principle",
+    "reason": "成年角色经验可能参与平均成熟趋势",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-reverse-inference",
+    "target": "personality-neural-networks",
+    "reason": "脑活动的意义依赖网络情境",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-reverse-inference",
+    "target": "foundations-experiment-correlation",
+    "reason": "相关线索不能自动升级为因果或唯一解释",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-reverse-inference",
+    "target": "foundations-double-dissociation",
+    "reason": "两者都关注如何用脑与行为证据约束功能解释",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-oxytocin-context",
+    "target": "personality-replication-open-science",
+    "reason": "需要检验快速累积发现的可重复性",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-shared-nonshared-environment",
+    "target": "personality-heritability",
+    "reason": "遗传率估计同时涉及环境差异",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-shared-nonshared-environment",
+    "target": "personality-person-environment-transactions",
+    "reason": "家庭成员会引出不同回应",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-gwas-polygenicity",
+    "target": "personality-gene-environment-interaction",
+    "reason": "基因影响受环境和其他因素制约",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-gwas-polygenicity",
+    "target": "personality-replication-open-science",
+    "reason": "海量比较特别需要独立重复",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-epigenetics",
+    "target": "personality-gene-environment-interaction",
+    "reason": "表达调节是基因环境联系的一种可能路径",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-epigenetics",
+    "target": "foundations-plasticity",
+    "reason": "经验影响生物过程有多个层次",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-epigenetics",
+    "target": "emotion-diathesis-stress",
+    "reason": "有助于讨论经历与易感性如何联系",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-evolutionary-mismatch",
+    "target": "emotion-evolutionary-adaptation",
+    "reason": "补充适应观点的环境边界",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-evolutionary-mismatch",
+    "target": "personality-gene-environment-interaction",
+    "reason": "行为结果依赖环境条件",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-adaptive-tradeoffs",
+    "target": "personality-big-five",
+    "reason": "大五各维度的后果需联系条件",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-adaptive-tradeoffs",
+    "target": "personality-person-situation-interaction",
+    "reason": "环境与个人特点共同影响结果",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-psychic-determinism",
+    "target": "personality-structural-conflict",
+    "reason": "为内部冲突解释提供前提",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-psychic-determinism",
+    "target": "personality-defense-mechanisms",
+    "reason": "防御只是其中一种可能机制",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-catharsis-hypothesis",
+    "target": "emotion-rumination",
+    "reason": "反复注意冒犯可与情绪延续联系",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-catharsis-hypothesis",
+    "target": "emotion-regulation-process",
+    "reason": "不同表达和调节方式需分别分析",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-primary-secondary-process",
+    "target": "personality-structural-conflict",
+    "reason": "联系本我与自我的不同功能",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-primary-secondary-process",
+    "target": "cognition-dual-process",
+    "reason": "可比较但不能等同现代加工区分",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-defense-denial",
+    "target": "personality-defense-mechanisms",
+    "reason": "从防御机制总框架展开此具体过程",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-defense-denial",
+    "target": "personality-structural-conflict",
+    "reason": "经典理论以自我应对冲突来解释其功能",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-defense-repression",
+    "target": "personality-defense-mechanisms",
+    "reason": "从防御机制总框架展开此具体过程",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-defense-repression",
+    "target": "personality-structural-conflict",
+    "reason": "经典理论以自我应对冲突来解释其功能",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-defense-reaction-formation",
+    "target": "personality-defense-mechanisms",
+    "reason": "从防御机制总框架展开此具体过程",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-defense-reaction-formation",
+    "target": "personality-structural-conflict",
+    "reason": "经典理论以自我应对冲突来解释其功能",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-defense-projection",
+    "target": "personality-defense-mechanisms",
+    "reason": "从防御机制总框架展开此具体过程",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-defense-projection",
+    "target": "personality-structural-conflict",
+    "reason": "经典理论以自我应对冲突来解释其功能",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-defense-rationalization",
+    "target": "personality-defense-mechanisms",
+    "reason": "从防御机制总框架展开此具体过程",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-defense-rationalization",
+    "target": "personality-structural-conflict",
+    "reason": "经典理论以自我应对冲突来解释其功能",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-defense-intellectualization",
+    "target": "personality-defense-mechanisms",
+    "reason": "从防御机制总框架展开此具体过程",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-defense-intellectualization",
+    "target": "personality-structural-conflict",
+    "reason": "经典理论以自我应对冲突来解释其功能",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-defense-displacement",
+    "target": "personality-defense-mechanisms",
+    "reason": "从防御机制总框架展开此具体过程",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-defense-displacement",
+    "target": "personality-structural-conflict",
+    "reason": "经典理论以自我应对冲突来解释其功能",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-defense-sublimation",
+    "target": "personality-defense-mechanisms",
+    "reason": "从防御机制总框架展开此具体过程",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-defense-sublimation",
+    "target": "personality-structural-conflict",
+    "reason": "经典理论以自我应对冲突来解释其功能",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-transference",
+    "target": "personality-object-relations",
+    "reason": "重要关系表征可以影响后续关系",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-transference",
+    "target": "personality-relational-self",
+    "reason": "关系自我讨论相近的情境化互动脚本",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-transference",
+    "target": "emotion-attachment",
+    "reason": "早期关系可能影响后来的安全期待",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-adler-compensation",
+    "target": "personality-narcissism",
+    "reason": "补偿性自我维护可与自恋机制比较",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-adler-compensation",
+    "target": "personality-psychosocial-development",
+    "reason": "都将动机放进发展与社会关系中",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-collective-unconscious",
+    "target": "personality-personal-constructs",
+    "reason": "可比较个人意义系统与共同意象的不同主张",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-collective-unconscious",
+    "target": "personality-psychic-determinism",
+    "reason": "属于精神分析传统扩展的不同解释框架",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-persona",
+    "target": "personality-self-monitoring",
+    "reason": "情境调节不必意味着疏离自身",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-persona",
+    "target": "personality-rogerian-humanism",
+    "reason": "与接纳自身体验的取向形成联系",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-horney-basic-anxiety",
+    "target": "personality-object-relations",
+    "reason": "均重视早期关系与后续需要",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-horney-basic-anxiety",
+    "target": "personality-rejection-sensitivity",
+    "reason": "对关系威胁的反应可作机制比较",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-splitting",
+    "target": "personality-object-relations",
+    "reason": "好坏整合是客体关系理论的核心问题",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-splitting",
+    "target": "personality-defense-mechanisms",
+    "reason": "理想化可以在该理论中发挥保护作用",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-transitional-object",
+    "target": "personality-object-relations",
+    "reason": "物品承载与重要对象的情感联系",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-transitional-object",
+    "target": "emotion-attachment",
+    "reason": "与分离时的安全感有关但概念不同",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-existential-authenticity",
+    "target": "emotion-meaningful-life",
+    "reason": "共同讨论意义但研究方式不同",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-existential-authenticity",
+    "target": "personality-personal-constructs",
+    "reason": "个人如何赋予经验意义",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-hedonic-eudaimonic-wellbeing",
+    "target": "emotion-meaningful-life",
+    "reason": "进一步追问生活意义的来源",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-hedonic-eudaimonic-wellbeing",
+    "target": "emotion-flow",
+    "reason": "投入活动可以同时涉及享受与意义",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-enculturation-acculturation",
+    "target": "personality-cultural-ecology",
+    "reason": "文化方式经学习连接到个人心理",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-enculturation-acculturation",
+    "target": "personality-etics-emics",
+    "reason": "文化学习提醒关注本土意义",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-cultural-tightness",
+    "target": "personality-individualism-collectivism",
+    "reason": "是可比较但不相同的文化维度",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-cultural-tightness",
+    "target": "social-normative-influence",
+    "reason": "规范压力可以影响具体行为",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-honor-face-dignity",
+    "target": "social-honor-culture",
+    "reason": "扩展荣誉逻辑的比较框架",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-honor-face-dignity",
+    "target": "personality-individualism-collectivism",
+    "reason": "提供另一种文化比较维度",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-cross-cultural-measurement",
+    "target": "personality-etics-emics",
+    "reason": "共同构念与本土特性需要互相校验",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-cross-cultural-measurement",
+    "target": "foundations-measurement",
+    "reason": "测量可比性支撑跨群体推论",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-value-structure",
+    "target": "personality-individualism-collectivism",
+    "reason": "文化可能影响不同价值的权重",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-value-structure",
+    "target": "personality-goal-hierarchy",
+    "reason": "价值可组织更具体的行动目标",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-cultural-ecology",
+    "target": "emotion-transactional-context",
+    "reason": "多层环境与个人存在双向反馈",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-cultural-ecology",
+    "target": "personality-individualism-collectivism",
+    "reason": "文化价值可以置于历史与任务背景理解",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "learning-desensitization",
+    "target": "learning-habituation",
+    "reason": "去敏化强调对特定情绪性刺激的反应减弱；习惯化是更广的重复刺激反应递减，两者不能直接互换。",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "learning-desensitization",
+    "target": "clinical-exposure-extinction",
+    "reason": "比较情绪反应减弱与学习到威胁不再出现；日常去敏化不等于临床系统脱敏。",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "learning-desensitization",
+    "target": "social-mere-exposure",
+    "reason": "重复接触后反应减弱与好感增加是不同结果，不应把麻木直接解释为喜欢或赞同。",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "learning-learned-helplessness",
+    "target": "social-perceived-control",
+    "reason": "无助涉及对行动影响结果的预期",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "learning-learned-helplessness",
+    "target": "clinical-hopelessness-rumination",
+    "reason": "绝望理论关注相关但不相同的认知路径",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-goal-hierarchy",
+    "target": "cognition-implementation-intentions",
+    "reason": "可把下位目标进一步连到具体行动条件",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-goal-hierarchy",
+    "target": "personality-self-efficacy",
+    "reason": "能力预期影响是否执行目标",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-idiographic-nomothetic-goals",
+    "target": "personality-goal-hierarchy",
+    "reason": "需要进一步组织目标之间的关系",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-idiographic-nomothetic-goals",
+    "target": "personality-complementary-approaches",
+    "reason": "个体理解与跨人概括具有互补性",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-defensive-pessimism",
+    "target": "learning-learned-helplessness",
+    "reason": "悲观策略不等于行动无效的预期",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-defensive-pessimism",
+    "target": "personality-self-efficacy",
+    "reason": "低结果期待与是否相信自己能行动需区分",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-affect-intensity",
+    "target": "foundations-experience-sampling",
+    "reason": "动态差异需要跨时点记录",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-affect-intensity",
+    "target": "emotion-affect-timescales",
+    "reason": "强度和变化必须说明时间尺度",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-beats",
+    "target": "personality-cognitive-affective-system",
+    "reason": "同样从认知情感过程解释模式",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-beats",
+    "target": "personality-big-five",
+    "reason": "尝试连接过程解释与特质描述",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-self-schema",
+    "target": "personality-declarative-self",
+    "reason": "自我图式组织可报告的自我内容",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-self-schema",
+    "target": "social-schemas",
+    "reason": "是图式概念在自我信息上的应用",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "learning-self-reference-effect",
+    "target": "personality-self-schema",
+    "reason": "自我知识为新信息提供组织",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "learning-self-reference-effect",
+    "target": "learning-levels-processing",
+    "reason": "自我参照是有意义加工的一种路径",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-possible-selves",
+    "target": "personality-goal-hierarchy",
+    "reason": "未来形象可组织当前行动目标",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-possible-selves",
+    "target": "personality-narrative-identity",
+    "reason": "未来自我属于生命故事的延展",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-relational-self",
+    "target": "personality-procedural-self",
+    "reason": "关系脚本是程序性自我的具体部分",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-future-self-continuity",
+    "target": "personality-possible-selves",
+    "reason": "未来形象与其和当前自我的连接是不同问题",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-future-self-continuity",
+    "target": "personality-goal-hierarchy",
+    "reason": "长期目标需要当前行动支持",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-sociosexuality",
+    "target": "social-attachment",
+    "reason": "依恋维度关注安全与亲密调节，不能与此混同",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-sociosexuality",
+    "target": "personality-traits-types",
+    "reason": "适合按连续差异而非二分类型理解",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-dark-triad",
+    "target": "personality-narcissism",
+    "reason": "自恋只是三联征中的一个成分",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-dark-triad",
+    "target": "personality-citizenship-performance",
+    "reason": "比较个人得势与促进组织合作的行为",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-citizenship-performance",
+    "target": "personality-big-five",
+    "reason": "尽责性与合作倾向可影响工作行为",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-citizenship-performance",
+    "target": "personality-holland-vocational-types",
+    "reason": "职业匹配与跨职业行为贡献是不同问题",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-ego-syntonic-dystonic",
+    "target": "personality-intentional-change",
+    "reason": "觉得值得改变是改变路径的一环",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-ego-syntonic-dystonic",
+    "target": "personality-dimensional-personality-pathology",
+    "reason": "理解特质与功能问题的不同层面",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-biosocial-emotion-dysregulation",
+    "target": "emotion-diathesis-stress",
+    "reason": "易感性与环境共同作用",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-biosocial-emotion-dysregulation",
+    "target": "emotion-emotion-socialization",
+    "reason": "照料互动影响调节学习机会",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-dbt-emotion-skills",
+    "target": "personality-biosocial-emotion-dysregulation",
+    "reason": "技能学习回应发展模型中的调节困难",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-dbt-emotion-skills",
+    "target": "emotion-regulation-development",
+    "reason": "调节能力具有学习与发展的成分",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-type-a-hostility",
+    "target": "personality-health-behavior-pathway",
+    "reason": "健康关联需要区分行为与生理路径",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "personality-type-a-hostility",
+    "target": "personality-construct-validity",
+    "reason": "A型量表差异提示构念检验问题",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-act-r",
+    "target": "cognition-working-memory",
+    "reason": "模块缓冲区与工作记忆限制密切相关",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-act-r",
+    "target": "cognition-connectionism",
+    "reason": "两类计算解释在表征与运算假设上不同",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-task-impurity",
+    "target": "foundations-measurement",
+    "reason": "帮助区分观测分数与待测构念",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-task-impurity",
+    "target": "cognition-executive-unity-diversity",
+    "reason": "执行功能研究尤其需要跨任务提取共同过程",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-reliability-weighted-cues",
+    "target": "cognition-ventriloquism",
+    "reason": "跨感官定位偏移可体现可靠性权重",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-reliability-weighted-cues",
+    "target": "cognition-perceptual-constancy",
+    "reason": "多线索整合有助于在输入变化时估计稳定属性",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-blindsight",
+    "target": "cognition-signal-detection",
+    "reason": "报告标准可影响是否声称看见",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-blindsight",
+    "target": "cognition-consciousness-report",
+    "reason": "检验意识需要区分行为能力与主观报告",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-holistic-face-processing",
+    "target": "cognition-face-recognition",
+    "reason": "细化面孔结构编码的加工方式",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-holistic-face-processing",
+    "target": "cognition-gestalt",
+    "reason": "都强调部分之间的组织关系",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-visual-imagery",
+    "target": "cognition-top-down-bottom-up",
+    "reason": "意象更多依赖内部知识驱动的生成",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-visual-imagery",
+    "target": "cognition-episodic-future-thinking",
+    "reason": "未来模拟可调用视觉与情景信息",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-planning-control",
+    "target": "cognition-perception-action",
+    "reason": "进一步细化视觉引导动作内部的过程",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-planning-control",
+    "target": "cognition-affordances",
+    "reason": "对象可供性为行动选择提供信息",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-mirror-neurons",
+    "target": "personality-observational-learning",
+    "reason": "观察学习可能调用动作表征，但不只由镜像活动解释",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-mirror-neurons",
+    "target": "cognition-affordances",
+    "reason": "都涉及对象与可执行动作的联系",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-selective-filter",
+    "target": "cognition-load-theory",
+    "reason": "负荷理论进一步说明无关刺激何时获得加工",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-selective-filter",
+    "target": "cognition-top-down-bottom-up",
+    "reason": "期待和目标影响选择",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-object-based-attention",
+    "target": "cognition-gestalt",
+    "reason": "对象的知觉分组为注意分配提供结构",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-object-based-attention",
+    "target": "cognition-feature-integration",
+    "reason": "二者都把注意与对象加工联系起来",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-inhibition-return",
+    "target": "cognition-object-based-attention",
+    "reason": "返回抑制可同时考察位置与对象表征",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-inhibition-return",
+    "target": "cognition-feature-integration",
+    "reason": "补充搜索中的注意分配机制",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-attentional-extinction",
+    "target": "cognition-load-theory",
+    "reason": "额外负荷会加剧有限容量中的刺激竞争",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-attentional-extinction",
+    "target": "cognition-object-based-attention",
+    "reason": "把刺激整合成对象或整体可改变竞争",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-ventriloquism",
+    "target": "cognition-mcgurk",
+    "reason": "麦格克效应关注语音身份而非声源位置",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-psychological-refractory-period",
+    "target": "cognition-multiple-resources",
+    "reason": "多资源解释和中央瓶颈解释对干扰来源提出不同假设",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-psychological-refractory-period",
+    "target": "cognition-working-memory",
+    "reason": "任务协调与工作记忆资源相关",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-executive-unity-diversity",
+    "target": "cognition-working-memory",
+    "reason": "细化中央执行系统的功能组成",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "learning-transfer-appropriate-processing",
+    "target": "learning-levels-processing",
+    "reason": "为深度加工的优势加入测试条件",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "learning-transfer-appropriate-processing",
+    "target": "cognition-retrieval-cues",
+    "reason": "编码与提取的对应是两个解释的共同关注点",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "learning-implicit-learning",
+    "target": "cognition-priming",
+    "reason": "启动关注记忆的间接表现，内隐学习关注规律的获得",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "learning-implicit-learning",
+    "target": "foundations-task-impurity",
+    "reason": "内隐学习任务可能混合显性和内隐过程",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-interference",
+    "target": "cognition-retrieval-cues",
+    "reason": "共享提取线索是产生竞争的重要条件",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-interference",
+    "target": "cognition-memory-consolidation",
+    "reason": "新近记忆对后续干扰的敏感性与巩固有关",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-directed-forgetting",
+    "target": "cognition-executive-unity-diversity",
+    "reason": "记忆抑制调用目标控制过程",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-directed-forgetting",
+    "target": "cognition-interference",
+    "reason": "替代内容可能通过竞争影响提取",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-memory-consolidation",
+    "target": "learning-hebb-ltp",
+    "reason": "突触变化是记忆稳定化的生物基础之一",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-memory-consolidation",
+    "target": "cognition-reconsolidation",
+    "reason": "巩固后的记忆在再激活时仍可能改变",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-reconsolidation",
+    "target": "cognition-misinformation",
+    "reason": "误导信息效应可能涉及多种更新或来源过程",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-familiarity-recollection",
+    "target": "cognition-episodic-semantic",
+    "reason": "回想与具体情景记忆密切相关",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-familiarity-recollection",
+    "target": "cognition-signal-detection",
+    "reason": "再认表现也能用强度和判断标准分析",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-semanticisation",
+    "target": "cognition-episodic-semantic",
+    "reason": "说明两类记忆如何联系与转化",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-semanticisation",
+    "target": "cognition-memory-consolidation",
+    "reason": "长期稳定化可能伴随表征的改变",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-semantic-spreading",
+    "target": "cognition-priming",
+    "reason": "语义启动是激活扩散的典型解释对象",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-semantic-spreading",
+    "target": "cognition-speech-spreading",
+    "reason": "语言产生也使用扩散思想但加工任务不同",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-grounded-cognition",
+    "target": "cognition-semantic-spreading",
+    "reason": "补充固定概念网络对情境变化的解释不足",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-grounded-cognition",
+    "target": "cognition-hub-spoke",
+    "reason": "枢纽—辐条模型结合感官与抽象表征",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-hub-spoke",
+    "target": "cognition-episodic-semantic",
+    "reason": "细化语义记忆的内部组织",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-episodic-future-thinking",
+    "target": "cognition-prospective-memory",
+    "reason": "未来模拟可以支持记住以后要做的行动",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-process-alliances",
+    "target": "cognition-episodic-semantic",
+    "reason": "对固定记忆系统边界提出补充解释",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-process-alliances",
+    "target": "personality-neural-networks",
+    "reason": "都强调网络合作而非孤立脑区",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-flashbulb-memory",
+    "target": "emotion-memory-reconstruction",
+    "reason": "情绪记忆仍涉及重建",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-flashbulb-memory",
+    "target": "cognition-self-memory",
+    "reason": "个人意义影响事件记忆的组织",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-reminiscence-bump",
+    "target": "cognition-self-memory",
+    "reason": "自我目标可组织何种经历更容易被提取",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-reminiscence-bump",
+    "target": "cognition-episodic-semantic",
+    "reason": "人生脚本是语义知识而具体回忆是情景内容",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-infantile-amnesia",
+    "target": "cognition-self-memory",
+    "reason": "自传体记忆组织依赖发展的自我系统",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-infantile-amnesia",
+    "target": "development-piaget",
+    "reason": "区分儿童已有能力与任务所要求的表达方式",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-cognitive-interview",
+    "target": "cognition-retrieval-cues",
+    "reason": "方法以多样线索支持提取",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-cognitive-interview",
+    "target": "social-eyewitness-memory",
+    "reason": "补充目击证据的获取方式",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-saying-is-believing",
+    "target": "cognition-audience-design",
+    "reason": "为听众调整表述是效应产生的交流背景",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-saying-is-believing",
+    "target": "cognition-misinformation",
+    "reason": "两者都显示事件后信息可影响回忆",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-categorical-speech-perception",
+    "target": "development-perceptual-narrowing",
+    "reason": "早期语言经验改变可区分的语音差异",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-categorical-speech-perception",
+    "target": "cognition-trace",
+    "reason": "语音识别模型需要解释音位和词汇信息互动",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-mcgurk",
+    "target": "cognition-top-down-bottom-up",
+    "reason": "语音知觉不只取决于孤立声学输入",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-phonemic-restoration",
+    "target": "cognition-trace",
+    "reason": "交互激活解释高层词汇如何影响语音识别",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-phonemic-restoration",
+    "target": "cognition-top-down-bottom-up",
+    "reason": "展现知识与输入共同塑造知觉",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-cohort-model",
+    "target": "cognition-trace",
+    "reason": "都解释语音随时间展开时的词汇竞争",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-cohort-model",
+    "target": "cognition-phonemic-restoration",
+    "reason": "语境与受损输入检验候选选择的灵活性",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-word-superiority",
+    "target": "cognition-top-down-bottom-up",
+    "reason": "词汇知识可支持局部特征判断",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-word-superiority",
+    "target": "cognition-dual-route-reading",
+    "reason": "视觉词识别是阅读路径的组成环节",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-triangle-reading",
+    "target": "cognition-connectionism",
+    "reason": "三角模型把连接主义用于阅读",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-triangle-reading",
+    "target": "cognition-dual-route-reading",
+    "reason": "可比较其对规则与词汇路径的不同解释",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-good-enough-language",
+    "target": "cognition-garden-path",
+    "reason": "最初分析的残留可解释重新分析后仍有误解",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-good-enough-language",
+    "target": "cognition-constraint-language",
+    "reason": "两者都重视多种线索但对表征完整性强调不同",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-egocentric-listening",
+    "target": "cognition-audience-design",
+    "reason": "说话者与听话者都需要处理双方共享信息",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-egocentric-listening",
+    "target": "development-theory-mind",
+    "reason": "推断他人所知为交流视角调整提供基础",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-bridging-elaborative-inference",
+    "target": "cognition-situation-model",
+    "reason": "推论帮助构建超越字面的事件模型",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-bridging-elaborative-inference",
+    "target": "social-schemas",
+    "reason": "背景知识为推论提供可用结构",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-construction-integration",
+    "target": "cognition-situation-model",
+    "reason": "说明情境模型如何从文本和知识中形成",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-construction-integration",
+    "target": "cognition-semantic-spreading",
+    "reason": "广泛激活是候选意义生成的一部分",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-event-segmentation",
+    "target": "cognition-situation-model",
+    "reason": "分段涉及当前情境模型的更新",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-event-segmentation",
+    "target": "cognition-memory-consolidation",
+    "reason": "经验怎样组织会影响后续记忆",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-speech-monitoring",
+    "target": "cognition-weaver",
+    "reason": "言语产生模型需要说明选择与监控",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-speech-monitoring",
+    "target": "cognition-speech-spreading",
+    "reason": "多个候选的竞争可能产生口误与监控信号",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-incremental-speech",
+    "target": "cognition-working-memory",
+    "reason": "有限资源影响提前规划范围",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-incremental-speech",
+    "target": "cognition-weaver",
+    "reason": "细化词语选择在连续言语中的时间组织",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-knowledge-transforming-writing",
+    "target": "cognition-audience-design",
+    "reason": "写作同样需要形成读者的知识表征",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-knowledge-transforming-writing",
+    "target": "cognition-insight",
+    "reason": "重构问题可产生新的知识关系",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-gesture-support",
+    "target": "cognition-grounded-cognition",
+    "reason": "动作与认知表征联系的一个研究场景",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-gesture-support",
+    "target": "cognition-speech-spreading",
+    "reason": "手势可能支持言语产生中的词语激活",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-functional-fixedness",
+    "target": "cognition-insight",
+    "reason": "克服功能固着是表征重构的一种形式",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-functional-fixedness",
+    "target": "cognition-affordances",
+    "reason": "惯常功能与当前可能行动之间可以出现张力",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-mental-set",
+    "target": "cognition-expertise",
+    "reason": "专业经验能同时带来效率和固定化风险",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-mental-set",
+    "target": "cognition-functional-fixedness",
+    "reason": "两者都限制问题空间但作用对象不同",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-incubation",
+    "target": "cognition-mental-set",
+    "reason": "休息可能减轻已有策略的限制",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-incubation",
+    "target": "cognition-insight",
+    "reason": "酝酿可为重新表征创造条件",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-means-ends",
+    "target": "cognition-working-memory",
+    "reason": "保持和切换子目标会占用工作记忆",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-means-ends",
+    "target": "cognition-analogy",
+    "reason": "结构类比提供另一种跨问题的解题策略",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-natural-frequencies",
+    "target": "foundations-measurement",
+    "reason": "表述和测量形式影响所观察到的推理能力",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-support-theory",
+    "target": "cognition-heuristics",
+    "reason": "容易想到的理由可影响支持程度",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-support-theory",
+    "target": "cognition-base-rate-neglect",
+    "reason": "都揭示主观概率受表述与线索权重影响",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-fast-frugal",
+    "target": "cognition-bounded-rationality",
+    "reason": "以有限资源中的适配性评价决策",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-fast-frugal",
+    "target": "cognition-heuristics",
+    "reason": "补充启发式在适合环境中的收益",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-sunk-cost",
+    "target": "cognition-prospect-theory",
+    "reason": "过去投入可影响损失与参照点的体验",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-sunk-cost",
+    "target": "social-cognitive-dissonance",
+    "reason": "维持原先决定可能减轻自我矛盾",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-omission-bias",
+    "target": "emotion-appraisal",
+    "reason": "责任归因改变结果的情绪意义",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-omission-bias",
+    "target": "cognition-cni-model",
+    "reason": "分离行动倾向与后果或规范偏好",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-belief-bias",
+    "target": "cognition-dual-process",
+    "reason": "信念与逻辑冲突是双过程理论的研究场景",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-belief-bias",
+    "target": "social-confirmation-bias",
+    "reason": "信念偏差针对论证有效性而确认偏误范围更广",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-deontic-reasoning",
+    "target": "cognition-mental-models",
+    "reason": "规则内容改变可能情况的表征与搜索",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-deontic-reasoning",
+    "target": "cognition-bounded-rationality",
+    "reason": "推理是否有效要考虑任务目标和环境",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-bounded-rationality",
+    "target": "cognition-dual-process",
+    "reason": "不同加工方式具有不同时间与控制需求",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-motivational-intensity-attention",
+    "target": "social-broaden-build",
+    "reason": "对积极情绪扩展注意的主张加入动机边界",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-motivational-intensity-attention",
+    "target": "emotion-appraisal",
+    "reason": "目标关系是情绪意义的重要方面",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-cni-model",
+    "target": "emotion-social-intuition",
+    "reason": "从不同角度解释道德判断背后的过程",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-emotion-imbued-choice",
+    "target": "emotion-affect-as-information",
+    "reason": "当前情绪可被当作评价信息",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-emotion-imbued-choice",
+    "target": "cognition-prospect-theory",
+    "reason": "补充价值和概率权重之外的情绪路径",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "clinical-cognitive-bias-modification",
+    "target": "emotion-cognitive-biases",
+    "reason": "把偏向相关性推进到可改变性的检验",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "clinical-cognitive-bias-modification",
+    "target": "emotion-anxiety-attention",
+    "reason": "注意威胁偏向是常见训练目标",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-recurrent-processing",
+    "target": "cognition-global-workspace",
+    "reason": "两者对全局传播是否必要的回答不同",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-recurrent-processing",
+    "target": "cognition-consciousness-report",
+    "reason": "测量报告与体验的区别影响理论检验",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-integrated-information",
+    "target": "cognition-global-workspace",
+    "reason": "对意识的核心机制提出另一种解释",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-integrated-information",
+    "target": "cognition-consciousness-report",
+    "reason": "理论仍需要能够区分体验与报告的证据",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-left-hemisphere-interpreter",
+    "target": "cognition-agency",
+    "reason": "行动的主观体验不一定完整揭示实际原因",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-left-hemisphere-interpreter",
+    "target": "cognition-consciousness-report",
+    "reason": "口头说明受可访问的信息限制",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "learning-association-contiguity",
+    "target": "learning-classical-conditioning",
+    "reason": "条件作用以可控实验研究刺激间联系",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "learning-association-contiguity",
+    "target": "learning-blocking",
+    "reason": "阻断效应显示共同出现不保证新学习",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-observer-expectancy",
+    "target": "foundations-experiment-correlation",
+    "reason": "因果实验还需防止处理之外的差异",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-observer-expectancy",
+    "target": "cognition-placebo-analgesia",
+    "reason": "期待有时会改变实际体验而不只是报告",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-parental-investment",
+    "target": "social-kin-selection",
+    "reason": "两者从不同角度讨论亲缘与后代相关行为",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-parental-investment",
+    "target": "emotion-evolutionary-adaptation",
+    "reason": "亲代投资是功能性解释的一种具体框架",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-circadian-rhythm",
+    "target": "foundations-homeostasis",
+    "reason": "周期调节与稳态驱动共同影响状态",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-circadian-rhythm",
+    "target": "cognition-working-memory",
+    "reason": "生理状态会改变认知任务表现",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-sensory-adaptation",
+    "target": "learning-habituation",
+    "reason": "两者都可表现为反应下降但机制与层次不同",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-sensory-adaptation",
+    "target": "learning-desensitization",
+    "reason": "避免把感官适应与情绪反应下降混为一谈",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-weber-law",
+    "target": "cognition-signal-detection",
+    "reason": "都研究感觉判断，但信号检测进一步区分敏感性与标准",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-weber-law",
+    "target": "cognition-sensory-adaptation",
+    "reason": "适应也会改变感觉系统对刺激的响应",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-placebo-analgesia",
+    "target": "cognition-pain-gate",
+    "reason": "疼痛受来自中枢的调节影响",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "learning-contingency",
+    "target": "learning-classical-conditioning",
+    "reason": "细化什么样的刺激关系能产生条件学习",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "learning-contingency",
+    "target": "learning-association-contiguity",
+    "reason": "说明单纯相邻律的局限",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "learning-blocking",
+    "target": "learning-contingency",
+    "reason": "两者都强调预测价值而非仅有共同出现",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "learning-blocking",
+    "target": "learning-classical-conditioning",
+    "reason": "阻断是条件作用内部的重要限制现象",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "learning-reinforcement-schedules",
+    "target": "learning-operant-conditioning",
+    "reason": "细化行为后果如何被安排",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "learning-reinforcement-schedules",
+    "target": "learning-contingency",
+    "reason": "需要考察行为与后果的实际条件关系",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "learning-overjustification",
+    "target": "social-self-perception",
+    "reason": "人可能根据行为与外部诱因推断自己的动机",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "learning-overjustification",
+    "target": "learning-operant-conditioning",
+    "reason": "补充奖励对长期行为的认知影响",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "learning-latent-learning",
+    "target": "learning-wanting-liking",
+    "reason": "动机状态能改变知识是否转化为行动",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "learning-latent-learning",
+    "target": "learning-implicit-learning",
+    "reason": "潜伏学习与内隐学习分别强调表现与意识，不能混用",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "learning-taste-aversion",
+    "target": "learning-classical-conditioning",
+    "reason": "展示条件学习的生物约束与特殊时间条件",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "learning-taste-aversion",
+    "target": "emotion-disgust",
+    "reason": "厌恶反应可与食物相关经验联系",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-stroop",
+    "target": "cognition-executive-unity-diversity",
+    "reason": "该任务常用于研究抑制但存在任务不纯性",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-stroop",
+    "target": "cognition-selective-filter",
+    "reason": "无关信息可能进入加工并干扰目标",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-dual-coding",
+    "target": "cognition-visual-imagery",
+    "reason": "视觉意象为非当前知觉提供表征",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-dual-coding",
+    "target": "cognition-retrieval-cues",
+    "reason": "熟悉路线提供稳定的提取线索",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-imagination-false-memory",
+    "target": "cognition-misinformation",
+    "reason": "错误信息可能经想象被纳入个人回忆",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-imagination-false-memory",
+    "target": "cognition-visual-imagery",
+    "reason": "生动意象不等于实际经历的证据",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-holistic-analytic-thinking",
+    "target": "emotion-self-construal",
+    "reason": "自我与关系的文化框架可能影响注意",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-holistic-analytic-thinking",
+    "target": "social-fundamental-attribution-error",
+    "reason": "对背景的关注可改变行为归因",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-flynn-effect",
+    "target": "cognition-general-intelligence",
+    "reason": "群体分数变化与一般能力结构是不同问题",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-flynn-effect",
+    "target": "cognition-fluid-crystallized",
+    "reason": "不同测验类型的增幅可比较环境影响",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-violation-expectation",
+    "target": "learning-habituation",
+    "reason": "熟悉阶段借助反应下降建立比较基础",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-violation-expectation",
+    "target": "development-piaget",
+    "reason": "与抓取任务的差异帮助区分知识和表现",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-overregularization",
+    "target": "learning-implicit-learning",
+    "reason": "儿童能使用规律却未必能明确说出",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-overregularization",
+    "target": "foundations-empiricism-nativism",
+    "reason": "规则如何获得是先天与经验解释的重要争论",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-language-sensitive-period",
+    "target": "development-perceptual-narrowing",
+    "reason": "早期经验也会改变语音辨别系统",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-language-sensitive-period",
+    "target": "foundations-plasticity",
+    "reason": "敏感期是可塑性随发展变化的研究问题",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-overimitation",
+    "target": "personality-observational-learning",
+    "reason": "细化观察学习中复制什么与为何复制",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-overimitation",
+    "target": "social-normative-influence",
+    "reason": "动作可能被理解为应当遵循的规范",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-adolescent-dual-systems",
+    "target": "cognition-executive-unity-diversity",
+    "reason": "认知控制在发展与情境中具有多种成分",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-adolescent-dual-systems",
+    "target": "social-normative-influence",
+    "reason": "同伴带来的规范和认同动机可能参与冒险",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-maturity-gap",
+    "target": "development-adolescent-dual-systems",
+    "reason": "社会结构路径可与发展中的控制动机路径比较",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-maturity-gap",
+    "target": "social-social-identity",
+    "reason": "群体身份可能影响何种行为具有地位意义",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-occupational-self-direction",
+    "target": "personality-reciprocal-determinism",
+    "reason": "个人选择环境而环境又塑造个人",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "development-occupational-self-direction",
+    "target": "development-parenting",
+    "reason": "职业中的自主或服从要求可影响养育方式",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "clinical-avoidance-reinforcement",
+    "target": "learning-operant-conditioning",
+    "reason": "回避受到行为后果的强化",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "clinical-avoidance-reinforcement",
+    "target": "clinical-exposure-extinction",
+    "reason": "减少回避可提供检验威胁预期的机会",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "clinical-panic-catastrophic-interpretation",
+    "target": "emotion-interoception",
+    "reason": "内部身体感觉如何被读取与解释",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "clinical-panic-catastrophic-interpretation",
+    "target": "emotion-appraisal",
+    "reason": "对身体变化的意义评价影响情绪",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "clinical-ocd-safety-completion",
+    "target": "cognition-executive-unity-diversity",
+    "reason": "抑制和转换困难也可能与重复行为相关",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "clinical-ocd-safety-completion",
+    "target": "clinical-avoidance-reinforcement",
+    "reason": "缓解不适的后果可能维持重复行为",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "clinical-common-factors",
+    "target": "cognition-placebo-analgesia",
+    "reason": "期待可通过多种路径影响体验与结果",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "clinical-common-factors",
+    "target": "emotion-cognitive-behavioral",
+    "reason": "具体技术与共同因素可以同时发挥作用",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "clinical-contingency-management",
+    "target": "learning-operant-conditioning",
+    "reason": "将行为与后果关系用于改变行为",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "clinical-contingency-management",
+    "target": "learning-reinforcement-schedules",
+    "reason": "后果出现的安排影响反应与保持",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-anchoring",
+    "target": "cognition-heuristics",
+    "reason": "补足可得性与代表性之外的经典判断启发式",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-anchoring",
+    "target": "cognition-support-theory",
+    "reason": "都提示信息呈现形式可改变判断",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-framing-effect",
+    "target": "cognition-prospect-theory",
+    "reason": "前景理论为得失框架的风险偏好变化提供解释",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-framing-effect",
+    "target": "cognition-omission-bias",
+    "reason": "责任和行动含义也可能影响同一选项的评价",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-positive-test-strategy",
+    "target": "social-confirmation-bias",
+    "reason": "正例策略需与选择性解释证据的偏误区分",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-positive-test-strategy",
+    "target": "cognition-bounded-rationality",
+    "reason": "策略有效性取决于问题环境与信息结构",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-prospective-multiprocess",
+    "target": "cognition-prospective-memory",
+    "reason": "细化未来意图如何在正确时机被提取",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "cognition-prospective-multiprocess",
+    "target": "cognition-implementation-intentions",
+    "reason": "建立线索与行动联系可帮助自发提取",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-sleep-functions",
+    "target": "foundations-circadian-rhythm",
+    "reason": "睡眠的功能问题不同于每日时间调节",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "foundations-sleep-functions",
+    "target": "cognition-memory-consolidation",
+    "reason": "记忆巩固是睡眠相关的另一类认知功能",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-affective-priming",
+    "target": "cognition-priming",
+    "reason": "情感启动关注好恶意义对随后判断的影响，是启动研究中的一种具体问题。",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "emotion-social-pain",
+    "target": "foundations-reverse-inference",
+    "reason": "共同脑区活动不能独自证明社会疼痛与身体疼痛是同一过程。",
+    "kind": "阅读关联"
+  },
+  {
+    "source": "social-broaden-build",
+    "target": "emotion-expression-social-functions",
+    "reason": "两种视角分别关注积极情绪如何拓展资源，以及表达如何协调他人。",
+    "kind": "阅读关联"
   }
 ]

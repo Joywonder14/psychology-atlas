@@ -9,7 +9,7 @@ summary: "人可能为了获得接纳、避免批评或排斥而与群体一致�
 aliases: []
 keywords: ["规范", "从众", "接纳", "排斥", "群体压力", "公开", "私下", "阿希"]
 questions: ["为什么明知自己有不同看法还会公开赞同？", "怎样区分寻求正确答案与避免被排斥？"]
-sources: [{"book": "social", "chapter": "第8章 社会影响", "locator": "PDF 第 360 页", "pdfPages": [360]}, {"book": "social", "chapter": "第8章 社会影响", "locator": "PDF 第 362–363 页", "pdfPages": [362, 363]}, {"book": "social", "chapter": "第8章 社会影响", "locator": "PDF 第 394 页", "pdfPages": [394]}]
+sources: [{"book": "social", "chapter": "第8章 社会影响", "locator": "PDF 第 360 页", "pdfPages": [360]}, {"book": "social", "chapter": "第8章 社会影响", "locator": "PDF 第 362–363 页", "pdfPages": [362, 363]}, {"book": "social", "chapter": "第8章 社会影响", "locator": "PDF 第 394 页", "pdfPages": [394]}, {"book": "social", "chapter": "社会心理学与法律", "locator": "PDF 第 745、746 页", "pdfPages": [745, 746]}]
 candidateRelated: [{"concept": "信息性社会影响", "reason": "从众的另一种主要过程"}, {"concept": "社会计量器假说", "reason": "关系接纳与自我感受相连"}]
 ---
 
@@ -24,3 +24,7 @@ candidateRelated: [{"concept": "信息性社会影响", "reason": "从众的另�
 ## 理解边界
 
 一致行为不能直接证明存在规范压力，也不能说明私下态度已改变。理解原因时还要区分信息判断与避免排斥的动机。
+
+## 社会心理学中的补充
+
+教材在陪审团讨论中强调，少数派能否得到同伴支持，不只是人数比例的问题。同样一对五和两对十的比例，后者的少数成员仍有盟友，因而可能更能坚持表达。这里补充的是群体影响机制，不是对现行司法规则的陈述。

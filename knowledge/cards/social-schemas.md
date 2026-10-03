@@ -6,7 +6,7 @@ kind: "概念"
 domain: "cognition"
 subdomain: "知识表征"
 summary: "图式是关于世界的有组织知识，帮助人判断情境意味着什么及应如何行动。它让理解更有效率，但既有期待也可能遮蔽某个人或事件的特殊信息。"
-aliases: ["Schema", "图式"]
+aliases: ["Schema"]
 keywords: ["图式", "知识结构", "期待", "情境", "角色", "概括", "刻板印象", "理解", "Schema", "知识表征", "预期", "填补", "脚本"]
 questions: ["为什么进入陌生但同类的场所仍知道怎样行动？", "图式怎样帮助理解，又怎样造成误解？", "为什么我会自动补出别人没有明说的信息？", "图式在什么条件下适用，有什么局限？"]
 sources: [{"book": "social", "chapter": "第1章 社会心理学导论", "locator": "PDF 第 42–43 页", "pdfPages": [42, 43]}, {"book": "cognitive", "chapter": "第7章 · 长期记忆系统", "locator": "PDF 第 372–372 页", "pdfPages": [372]}]

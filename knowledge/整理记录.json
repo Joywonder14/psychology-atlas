@@ -67,5 +67,14 @@
     },
     "collections": "人工精选并按学习顺序排列",
     "sourceScope": "五本教材全部81个教学章节/应用模块的核心知识整理，不穷尽全部术语"
+  },
+  "expansionReview": {
+    "date": "2026-10-03",
+    "cards": 527,
+    "chapters": 81,
+    "relations": 860,
+    "collections": 10,
+    "auditFile": "细化复核.json",
+    "notes": "按教材小节补充机制、效应与模型；同概念跨书合并，保留教材研究线索及理解边界。"
   }
 }

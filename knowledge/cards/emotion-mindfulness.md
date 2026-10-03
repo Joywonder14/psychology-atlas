@@ -9,7 +9,7 @@ summary: "正念取向关注对当下身体、思想和情绪的觉察，以及�
 aliases: []
 keywords: ["正念", "当下觉察", "不评判", "注意", "接纳", "思想", "情绪", "Kabat-Zinn", "Langer", "Mindfulness"]
 questions: ["注意到一个念头与马上被它带着行动有何不同？", "正念是否就是让大脑完全没有想法？"]
-sources: [{"book": "emotions", "chapter": "第14章 有意义的生活", "locator": "第14章 · Mindfulness, Ancient and Modern", "epubPath": "OPS/c14.xhtml#head-2-150"}]
+sources: [{"book": "emotions", "chapter": "第14章 有意义的生活", "locator": "第14章 · Mindfulness, Ancient and Modern", "epubPath": "OPS/c14.xhtml#head-2-150"}, {"book": "personality", "chapter": "人本积极心理与幸福", "locator": "Positive Experience / Mindfulness；PDF文件第938、944页", "pdfPages": [938, 944]}]
 candidateRelated: [{"title": "情绪调节过程模型", "reason": "注意与反应关系是调节的重要环节"}, {"title": "反刍与情绪延续", "reason": "关注与反复消极思考不同的心理关系"}]
 ---
 

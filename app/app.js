@@ -43,7 +43,11 @@
   }
   function normal(text) {return String(text).normalize('NFKC').toLowerCase().replace(/[’‘]/g,"'").trim();}
   const synonyms=[
-    ['习惯','习惯化','反复接触','重复刺激','适应','habituation','去敏化','脱敏'],
+    ['习惯','习惯化','反复接触','重复刺激','habituation'],
+    ['去敏化','脱敏','麻木','看多了','不再震惊','desensitization'],
+    ['敏化','敏感化','反应增强','sensitization','点燃效应'],
+    ['反复接触','单纯曝光','熟悉','mere exposure'],
+    ['情绪劳动','情感劳动','表层扮演','深层扮演','emotional labor'],
     ['群体压力','从众','社会影响','规范性影响','同伴','合群'],
     ['记不住','忘记','记忆','遗忘','记住','memory'],
     ['注意力','分心','注意','集中','选择性注意','attention'],

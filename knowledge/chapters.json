@@ -7,9 +7,12 @@
     "cardIds": [
       "emotion-unfolding-process",
       "emotion-james-lange",
-      "emotion-affect-timescales"
+      "emotion-affect-timescales",
+      "emotion-emotional-labor",
+      "emotion-feeling-rules",
+      "emotion-social-roles"
     ],
-    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "emotions",
@@ -22,7 +25,7 @@
       "emotion-attachment",
       "emotion-status-display"
     ],
-    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "emotions",
@@ -32,9 +35,12 @@
     "cardIds": [
       "emotion-self-construal",
       "emotion-dialectical-complexity",
-      "emotion-ideal-affect"
+      "emotion-ideal-affect",
+      "emotion-social-roles",
+      "emotion-amae",
+      "emotion-context-recognition"
     ],
-    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "emotions",
@@ -44,9 +50,11 @@
     "cardIds": [
       "emotion-expression-universality",
       "emotion-behavioral-ecology",
-      "emotion-display-rules-dialects"
+      "emotion-display-rules-dialects",
+      "emotion-context-recognition",
+      "emotion-expression-social-functions"
     ],
-    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "emotions",
@@ -57,9 +65,12 @@
       "emotion-james-lange",
       "emotion-hpa-axis",
       "emotion-interoception",
-      "emotion-somatic-marker"
+      "emotion-somatic-marker",
+      "emotion-facial-feedback",
+      "emotion-blushing-repair",
+      "emotion-awe"
     ],
-    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "emotions",
@@ -71,9 +82,17 @@
       "emotion-appraisal",
       "emotion-discrete-emotions",
       "emotion-constructed-emotion",
-      "emotion-regulation-process"
+      "emotion-regulation-process",
+      "emotion-negativity-bias",
+      "emotion-affective-priming",
+      "emotion-prototypes",
+      "emotion-social-sharing",
+      "emotion-reappraisal",
+      "emotion-expressive-suppression",
+      "emotion-distraction",
+      "emotion-expressive-writing"
     ],
-    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "emotions",
@@ -85,9 +104,11 @@
       "emotion-constructed-emotion",
       "emotion-amygdala-relevance",
       "learning-wanting-liking",
-      "emotion-brain-patterns"
+      "emotion-brain-patterns",
+      "emotion-empathy-components",
+      "emotion-social-pain"
     ],
-    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "emotions",
@@ -98,9 +119,13 @@
       "emotion-self-conscious-development",
       "emotion-social-referencing",
       "emotion-temperament",
-      "emotion-regulation-development"
+      "emotion-regulation-development",
+      "emotion-negativity-bias",
+      "development-functionalist-emotion",
+      "emotion-multimodal-recognition",
+      "development-effortful-control"
     ],
-    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "emotions",
@@ -113,9 +138,14 @@
       "emotion-emotional-mimicry",
       "emotion-group-collective",
       "emotion-infrahumanization",
-      "emotion-emotional-intelligence"
+      "emotion-emotional-intelligence",
+      "emotion-forgiveness",
+      "emotion-gratitude",
+      "emotion-social-support-buffering",
+      "emotion-power-approach-inhibition",
+      "emotion-social-class-context"
     ],
-    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "emotions",
@@ -126,9 +156,12 @@
       "emotion-affect-infusion",
       "emotion-affect-as-information",
       "emotion-memory-reconstruction",
-      "emotion-social-intuition"
+      "emotion-social-intuition",
+      "emotion-priority-interruption",
+      "emotion-processing-style",
+      "emotion-distractor-devaluation"
     ],
-    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "emotions",
@@ -140,9 +173,12 @@
       "emotion-temperament",
       "emotion-differential-susceptibility",
       "emotion-biobehavioral-synchrony",
-      "emotion-emotion-socialization"
+      "emotion-emotion-socialization",
+      "development-parental-mentalization",
+      "development-mental-state-talk",
+      "development-emotion-coaching"
     ],
-    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "emotions",
@@ -154,9 +190,10 @@
       "emotion-p-factor",
       "emotion-transactional-context",
       "emotion-cumulative-risk",
-      "emotion-developmental-continuity"
+      "emotion-developmental-continuity",
+      "development-conduct-trajectories"
     ],
-    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "emotions",
@@ -167,9 +204,12 @@
       "emotion-diathesis-stress",
       "emotion-rumination",
       "emotion-anxiety-attention",
-      "emotion-expressed-emotion"
+      "emotion-expressed-emotion",
+      "emotion-social-support-buffering",
+      "emotion-self-compassion",
+      "emotion-stress-sensitization"
     ],
-    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "emotions",
@@ -180,9 +220,14 @@
       "emotion-meaningful-life",
       "emotion-flow",
       "emotion-mindfulness",
-      "emotion-cognitive-behavioral"
+      "emotion-cognitive-behavioral",
+      "emotion-social-sharing",
+      "emotion-hedonic-adaptation",
+      "emotion-emotion-focused-therapy",
+      "emotion-expressive-writing",
+      "emotion-literature-simulation"
     ],
-    "notes": "已核对本章正文；卡片为核心理论、模型、概念与过程的中文转述，跨章概念复用，出处保留原书小节。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "social",
@@ -193,9 +238,12 @@
     "cardIds": [
       "social-construal",
       "social-automatic-controlled-processing",
-      "social-schemas"
+      "social-schemas",
+      "social-channel-factors",
+      "social-naturalistic-fallacy",
+      "social-naive-realism"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "social",
@@ -205,9 +253,12 @@
     "pdfEnd": 109,
     "cardIds": [
       "social-random-assignment",
-      "foundations-measurement"
+      "foundations-measurement",
+      "social-hindsight-bias",
+      "social-natural-experiment",
+      "foundations-experiment-correlation"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "social",
@@ -217,9 +268,19 @@
     "pdfEnd": 160,
     "cardIds": [
       "social-sociometer",
-      "social-self-discrepancy"
+      "social-self-discrepancy",
+      "social-reflected-appraisal",
+      "social-working-self-concept",
+      "social-social-comparison",
+      "social-self-worth-contingencies",
+      "social-self-enhancement",
+      "social-self-verification",
+      "social-regulatory-focus",
+      "social-self-presentation",
+      "social-self-handicapping",
+      "cognition-implementation-intentions"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "social",
@@ -229,9 +290,21 @@
     "pdfEnd": 217,
     "cardIds": [
       "social-fundamental-attribution-error",
-      "social-confirmation-bias"
+      "social-confirmation-bias",
+      "social-covariation-attribution",
+      "social-discounting-principle",
+      "social-counterfactual-thinking",
+      "social-self-serving-attribution",
+      "social-actor-observer",
+      "social-order-effects",
+      "social-framing-effects",
+      "social-construal-level",
+      "social-processing-fluency",
+      "cognition-base-rate-neglect",
+      "social-illusory-correlation",
+      "social-regression-fallacy"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "social",
@@ -241,9 +314,12 @@
     "pdfEnd": 263,
     "cardIds": [
       "social-broaden-build",
-      "social-affective-forecasting"
+      "social-affective-forecasting",
+      "social-peak-end-duration",
+      "social-emotion-commitment",
+      "emotion-expression-social-functions"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "social",
@@ -254,9 +330,16 @@
     "cardIds": [
       "social-cognitive-dissonance",
       "social-self-perception",
-      "social-self-affirmation"
+      "social-self-affirmation",
+      "social-attitude-components",
+      "social-attitude-behavior-correspondence",
+      "social-reasons-analysis",
+      "social-effort-justification",
+      "social-induced-compliance",
+      "social-system-justification",
+      "social-terror-management"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "social",
@@ -266,9 +349,16 @@
     "pdfEnd": 346,
     "cardIds": [
       "social-elaboration-likelihood",
-      "social-attitude-inoculation"
+      "social-attitude-inoculation",
+      "social-sleeper-effect",
+      "social-identifiable-victim",
+      "social-fear-appeals",
+      "social-need-for-cognition",
+      "social-agenda-control",
+      "social-hostile-media",
+      "social-thought-polarization"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "social",
@@ -279,9 +369,17 @@
     "cardIds": [
       "social-normative-influence",
       "social-informational-influence",
-      "social-obedience-authority"
+      "social-obedience-authority",
+      "social-minority-influence",
+      "social-foot-in-the-door",
+      "social-descriptive-injunctive-norms",
+      "social-dynamic-norms",
+      "social-reciprocity-norm",
+      "social-door-in-the-face",
+      "social-negative-state-relief",
+      "social-psychological-reactance"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "social",
@@ -293,9 +391,17 @@
       "social-attachment",
       "social-investment-model",
       "social-mere-exposure",
-      "social-social-exchange"
+      "social-social-exchange",
+      "social-need-to-belong",
+      "social-communal-exchange",
+      "social-equity-theory",
+      "social-functional-distance",
+      "social-similarity-attraction",
+      "social-halo-effect",
+      "social-partner-responsiveness",
+      "social-relationship-attributions"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "social",
@@ -306,9 +412,21 @@
     "cardIds": [
       "social-social-identity",
       "social-realistic-group-conflict",
-      "social-self-fulfilling-prophecy"
+      "social-self-fulfilling-prophecy",
+      "social-stereotype-prejudice-discrimination",
+      "social-modern-racism",
+      "social-benevolent-prejudice",
+      "social-implicit-association-test",
+      "social-affect-misattribution-procedure",
+      "social-paired-distinctiveness",
+      "social-subtyping",
+      "social-outgroup-homogeneity",
+      "cognition-own-race-bias",
+      "social-contact-hypothesis",
+      "social-common-ingroup-identity",
+      "social-diversity-ideologies"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "social",
@@ -318,9 +436,14 @@
     "pdfEnd": 558,
     "cardIds": [
       "social-stereotype-threat",
-      "social-attributional-ambiguity"
+      "social-attributional-ambiguity",
+      "social-social-dominance",
+      "social-just-world",
+      "social-stereotype-content",
+      "social-intergroup-goal-mismatch",
+      "social-marley-hypothesis"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "social",
@@ -332,9 +455,14 @@
       "social-social-facilitation",
       "social-group-polarization",
       "social-social-loafing",
-      "social-groupthink"
+      "social-groupthink",
+      "social-evaluation-apprehension",
+      "social-deindividuation",
+      "social-self-awareness",
+      "social-spotlight-effect",
+      "emotion-power-approach-inhibition"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "social",
@@ -344,9 +472,18 @@
     "pdfEnd": 655,
     "cardIds": [
       "social-dehumanization",
-      "social-honor-culture"
+      "social-honor-culture",
+      "social-general-aggression",
+      "social-heat-misattribution",
+      "social-weapons-cues",
+      "social-precarious-manhood",
+      "social-reactive-devaluation",
+      "social-integrative-complexity",
+      "social-perspective-giving",
+      "social-restorative-justice",
+      "emotion-social-pain"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "social",
@@ -358,9 +495,15 @@
       "social-empathy-altruism",
       "social-reciprocal-altruism",
       "social-bystander-diffusion",
-      "social-pluralistic-ignorance"
+      "social-pluralistic-ignorance",
+      "social-moral-foundations",
+      "social-prisoners-dilemma",
+      "social-tit-for-tat",
+      "social-reputation-cooperation",
+      "social-ultimatum-game",
+      "social-construal"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "social",
@@ -370,9 +513,15 @@
     "pdfEnd": 720,
     "cardIds": [
       "social-stress-appraisal",
-      "social-perceived-control"
+      "social-perceived-control",
+      "social-affect-labeling",
+      "personality-tend-befriend",
+      "social-subjective-social-rank",
+      "social-dispositional-optimism",
+      "emotion-expressive-writing",
+      "emotion-social-support-buffering"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "social",
@@ -382,9 +531,13 @@
     "pdfEnd": 735,
     "cardIds": [
       "social-implicit-intelligence-theories",
-      "social-teacher-expectancy"
+      "social-teacher-expectancy",
+      "social-belonging-uncertainty",
+      "social-cultural-mismatch",
+      "social-recursive-intervention",
+      "personality-observational-learning"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "social",
@@ -394,9 +547,13 @@
     "pdfEnd": 755,
     "cardIds": [
       "social-eyewitness-memory",
-      "social-procedural-justice"
+      "social-procedural-justice",
+      "social-false-confessions",
+      "social-punitive-damage-mapping",
+      "social-punishment-attribution",
+      "social-normative-influence"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "personality",
@@ -408,7 +565,7 @@
       "personality-psychological-triad",
       "personality-complementary-approaches"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "personality",
@@ -418,9 +575,14 @@
     "pdfEnd": 187,
     "cardIds": [
       "personality-blis-data",
-      "personality-construct-validity"
+      "personality-construct-validity",
+      "foundations-aggregation",
+      "foundations-experience-sampling",
+      "social-self-verification",
+      "foundations-measurement",
+      "foundations-case-method"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "personality",
@@ -430,9 +592,15 @@
     "pdfEnd": 263,
     "cardIds": [
       "personality-effect-size",
-      "personality-replication-open-science"
+      "personality-replication-open-science",
+      "personality-projective-hypothesis",
+      "foundations-rational-test-construction",
+      "foundations-factor-analysis",
+      "foundations-empirical-test-construction",
+      "foundations-significance-errors",
+      "foundations-besd"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "personality",
@@ -444,7 +612,7 @@
       "personality-person-situation-interaction",
       "personality-relative-consistency"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "personality",
@@ -454,9 +622,12 @@
     "pdfEnd": 402,
     "cardIds": [
       "personality-realistic-accuracy-model",
-      "personality-convergent-validation"
+      "personality-convergent-validation",
+      "personality-judgability",
+      "personality-normative-distinctive-accuracy",
+      "personality-self-other-knowledge-asymmetry"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "personality",
@@ -467,9 +638,14 @@
     "cardIds": [
       "personality-big-five",
       "personality-traits-types",
-      "personality-self-monitoring"
+      "personality-self-monitoring",
+      "personality-narcissism",
+      "personality-q-sort",
+      "personality-lexical-hypothesis",
+      "personality-extraversion-arousal",
+      "personality-hexaco"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "personality",
@@ -479,9 +655,17 @@
     "pdfEnd": 564,
     "cardIds": [
       "personality-cumulative-continuity",
-      "personality-maturity-principle"
+      "personality-maturity-principle",
+      "emotion-developmental-continuity",
+      "personality-person-environment-transactions",
+      "foundations-cohort-effects",
+      "personality-social-clock",
+      "personality-narrative-identity",
+      "personality-time-perspective-goals",
+      "personality-intentional-change",
+      "personality-social-investment"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "personality",
@@ -491,9 +675,12 @@
     "pdfEnd": 652,
     "cardIds": [
       "personality-behavioral-activation",
-      "personality-neural-networks"
+      "personality-neural-networks",
+      "foundations-reverse-inference",
+      "personality-tend-befriend",
+      "personality-oxytocin-context"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "personality",
@@ -503,9 +690,14 @@
     "pdfEnd": 721,
     "cardIds": [
       "personality-heritability",
-      "personality-gene-environment-interaction"
+      "personality-gene-environment-interaction",
+      "personality-shared-nonshared-environment",
+      "foundations-gwas-polygenicity",
+      "personality-epigenetics",
+      "personality-evolutionary-mismatch",
+      "personality-adaptive-tradeoffs"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "personality",
@@ -516,9 +708,21 @@
     "cardIds": [
       "personality-structural-conflict",
       "personality-defense-mechanisms",
-      "personality-psychosexual-development"
+      "personality-psychosexual-development",
+      "personality-psychic-determinism",
+      "personality-primary-secondary-process",
+      "personality-transference",
+      "personality-catharsis-hypothesis",
+      "personality-defense-denial",
+      "personality-defense-repression",
+      "personality-defense-reaction-formation",
+      "personality-defense-projection",
+      "personality-defense-rationalization",
+      "personality-defense-intellectualization",
+      "personality-defense-displacement",
+      "personality-defense-sublimation"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "personality",
@@ -528,9 +732,15 @@
     "pdfEnd": 878,
     "cardIds": [
       "personality-psychosocial-development",
-      "personality-object-relations"
+      "personality-object-relations",
+      "personality-adler-compensation",
+      "personality-collective-unconscious",
+      "personality-persona",
+      "personality-horney-basic-anxiety",
+      "personality-transitional-object",
+      "personality-splitting"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "personality",
@@ -542,9 +752,13 @@
       "personality-personal-constructs",
       "emotion-flow",
       "personality-rogerian-humanism",
-      "personality-hierarchy-needs"
+      "personality-hierarchy-needs",
+      "personality-existential-authenticity",
+      "emotion-awe",
+      "personality-hedonic-eudaimonic-wellbeing",
+      "emotion-mindfulness"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "personality",
@@ -554,9 +768,16 @@
     "pdfEnd": 1068,
     "cardIds": [
       "personality-individualism-collectivism",
-      "personality-etics-emics"
+      "personality-etics-emics",
+      "personality-cultural-tightness",
+      "personality-honor-face-dignity",
+      "personality-cross-cultural-measurement",
+      "personality-cultural-ecology",
+      "personality-value-structure",
+      "social-outgroup-homogeneity",
+      "personality-enculturation-acculturation"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "personality",
@@ -570,9 +791,19 @@
       "personality-locus-control",
       "personality-self-efficacy",
       "personality-expectancy-reward-value",
-      "personality-observational-learning"
+      "personality-observational-learning",
+      "learning-desensitization",
+      "learning-learned-helplessness",
+      "personality-goal-hierarchy",
+      "personality-idiographic-nomothetic-goals",
+      "social-implicit-intelligence-theories",
+      "personality-defensive-pessimism",
+      "personality-affect-intensity",
+      "personality-beats",
+      "learning-operant-conditioning",
+      "learning-habituation"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "personality",
@@ -582,9 +813,16 @@
     "pdfEnd": 1203,
     "cardIds": [
       "personality-declarative-self",
-      "personality-procedural-self"
+      "personality-procedural-self",
+      "personality-self-schema",
+      "learning-self-reference-effect",
+      "personality-possible-selves",
+      "personality-relational-self",
+      "social-implicit-association-test",
+      "social-working-self-concept",
+      "personality-future-self-continuity"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "personality",
@@ -594,9 +832,12 @@
     "pdfEnd": 1271,
     "cardIds": [
       "personality-rejection-sensitivity",
-      "personality-holland-vocational-types"
+      "personality-holland-vocational-types",
+      "personality-sociosexuality",
+      "personality-citizenship-performance",
+      "personality-dark-triad"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "personality",
@@ -606,9 +847,14 @@
     "pdfEnd": 1359,
     "cardIds": [
       "personality-dimensional-personality-pathology",
-      "personality-health-behavior-pathway"
+      "personality-health-behavior-pathway",
+      "personality-ego-syntonic-dystonic",
+      "personality-type-a-hostility",
+      "personality-biosocial-emotion-dysregulation",
+      "personality-dbt-emotion-skills",
+      "personality-splitting"
     ],
-    "notes": "已核对章节结构与章总结，按核心概念建立学习卡；为有界主题覆盖，不代表逐字或所有研究穷尽。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "personality",
@@ -618,9 +864,11 @@
     "pdfEnd": 1395,
     "cardIds": [
       "personality-complementary-approaches",
-      "personality-relative-consistency"
+      "personality-relative-consistency",
+      "foundations-aggregation",
+      "personality-person-environment-transactions"
     ],
-    "notes": "本章为全书总结；核对 PDF 第1393页后复用研究取向互补性与相对一致性卡，不制造新的理论条目。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "cognitive",
@@ -631,9 +879,12 @@
     "cardIds": [
       "cognition-top-down-bottom-up",
       "foundations-double-dissociation",
-      "cognition-connectionism"
+      "cognition-connectionism",
+      "foundations-reverse-inference",
+      "cognition-act-r",
+      "foundations-task-impurity"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "cognitive",
@@ -644,9 +895,11 @@
     "cardIds": [
       "cognition-perception-action",
       "cognition-color-opponent",
-      "cognition-subliminal"
+      "cognition-subliminal",
+      "cognition-reliability-weighted-cues",
+      "cognition-blindsight"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "cognitive",
@@ -657,9 +910,11 @@
     "cardIds": [
       "cognition-gestalt",
       "cognition-recognition-components",
-      "cognition-face-recognition"
+      "cognition-face-recognition",
+      "cognition-holistic-face-processing",
+      "cognition-visual-imagery"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "cognitive",
@@ -670,9 +925,11 @@
     "cardIds": [
       "cognition-affordances",
       "cognition-optic-flow",
-      "cognition-change-blindness"
+      "cognition-change-blindness",
+      "cognition-planning-control",
+      "cognition-mirror-neurons"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "cognitive",
@@ -683,9 +940,15 @@
     "cardIds": [
       "cognition-load-theory",
       "cognition-feature-integration",
-      "cognition-multiple-resources"
+      "cognition-multiple-resources",
+      "cognition-selective-filter",
+      "cognition-object-based-attention",
+      "cognition-inhibition-return",
+      "cognition-attentional-extinction",
+      "cognition-ventriloquism",
+      "cognition-psychological-refractory-period"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "cognitive",
@@ -696,9 +959,16 @@
     "cardIds": [
       "cognition-working-memory",
       "learning-levels-processing",
-      "learning-testing-effect"
+      "learning-testing-effect",
+      "cognition-executive-unity-diversity",
+      "learning-transfer-appropriate-processing",
+      "learning-implicit-learning",
+      "cognition-interference",
+      "cognition-directed-forgetting",
+      "cognition-memory-consolidation",
+      "cognition-reconsolidation"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "cognitive",
@@ -709,9 +979,16 @@
     "cardIds": [
       "cognition-episodic-semantic",
       "social-schemas",
-      "cognition-priming"
+      "cognition-priming",
+      "cognition-familiarity-recollection",
+      "cognition-semanticisation",
+      "cognition-semantic-spreading",
+      "cognition-grounded-cognition",
+      "cognition-hub-spoke",
+      "cognition-episodic-future-thinking",
+      "cognition-process-alliances"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "cognitive",
@@ -723,9 +1000,16 @@
       "cognition-self-memory",
       "cognition-misinformation",
       "cognition-prospective-memory",
-      "cognition-implementation-intentions"
+      "cognition-implementation-intentions",
+      "cognition-flashbulb-memory",
+      "cognition-reminiscence-bump",
+      "cognition-infantile-amnesia",
+      "cognition-cognitive-interview",
+      "cognition-saying-is-believing",
+      "clinical-ocd-safety-completion",
+      "cognition-prospective-multiprocess"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "cognitive",
@@ -736,9 +1020,15 @@
     "cardIds": [
       "cognition-trace",
       "cognition-dual-route-reading",
-      "cognition-ez-reader"
+      "cognition-ez-reader",
+      "cognition-categorical-speech-perception",
+      "cognition-mcgurk",
+      "cognition-phonemic-restoration",
+      "cognition-cohort-model",
+      "cognition-word-superiority",
+      "cognition-triangle-reading"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "cognitive",
@@ -749,9 +1039,14 @@
     "cardIds": [
       "cognition-garden-path",
       "cognition-constraint-language",
-      "cognition-situation-model"
+      "cognition-situation-model",
+      "cognition-good-enough-language",
+      "cognition-egocentric-listening",
+      "cognition-bridging-elaborative-inference",
+      "cognition-construction-integration",
+      "cognition-event-segmentation"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "cognitive",
@@ -762,9 +1057,13 @@
     "cardIds": [
       "cognition-speech-spreading",
       "cognition-weaver",
-      "cognition-audience-design"
+      "cognition-audience-design",
+      "cognition-speech-monitoring",
+      "cognition-incremental-speech",
+      "cognition-knowledge-transforming-writing",
+      "cognition-gesture-support"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "cognitive",
@@ -776,9 +1075,13 @@
       "cognition-insight",
       "cognition-analogy",
       "cognition-expertise",
-      "foundations-plasticity"
+      "foundations-plasticity",
+      "cognition-functional-fixedness",
+      "cognition-mental-set",
+      "cognition-incubation",
+      "cognition-means-ends"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "cognitive",
@@ -789,9 +1092,17 @@
     "cardIds": [
       "cognition-heuristics",
       "cognition-prospect-theory",
-      "cognition-accountability"
+      "cognition-accountability",
+      "cognition-base-rate-neglect",
+      "cognition-natural-frequencies",
+      "cognition-support-theory",
+      "cognition-fast-frugal",
+      "cognition-sunk-cost",
+      "cognition-omission-bias",
+      "cognition-anchoring",
+      "cognition-framing-effect"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "cognitive",
@@ -802,9 +1113,13 @@
     "cardIds": [
       "social-confirmation-bias",
       "cognition-mental-models",
-      "cognition-dual-process"
+      "cognition-dual-process",
+      "cognition-belief-bias",
+      "cognition-deontic-reasoning",
+      "cognition-bounded-rationality",
+      "cognition-positive-test-strategy"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "cognitive",
@@ -815,9 +1130,14 @@
     "cardIds": [
       "emotion-appraisal",
       "emotion-mood-memory",
-      "emotion-cognitive-biases"
+      "emotion-cognitive-biases",
+      "emotion-motivational-intensity-attention",
+      "cognition-cni-model",
+      "cognition-emotion-imbued-choice",
+      "clinical-cognitive-bias-modification",
+      "emotion-anxiety-attention"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "cognitive",
@@ -828,9 +1148,12 @@
     "cardIds": [
       "cognition-global-workspace",
       "cognition-agency",
-      "cognition-consciousness-report"
+      "cognition-consciousness-report",
+      "cognition-recurrent-processing",
+      "cognition-integrated-information",
+      "cognition-left-hemisphere-interpreter"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "general",
@@ -840,9 +1163,10 @@
     "pdfEnd": 105,
     "cardIds": [
       "foundations-empiricism-nativism",
-      "foundations-levels-explanation"
+      "foundations-levels-explanation",
+      "learning-association-contiguity"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "general",
@@ -852,9 +1176,10 @@
     "pdfEnd": 166,
     "cardIds": [
       "foundations-experiment-correlation",
-      "foundations-measurement"
+      "foundations-measurement",
+      "foundations-observer-expectancy"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "general",
@@ -865,9 +1190,12 @@
     "cardIds": [
       "personality-gene-environment-interaction",
       "social-kin-selection",
-      "social-reciprocal-altruism"
+      "social-reciprocal-altruism",
+      "personality-epigenetics",
+      "development-parental-investment",
+      "foundations-levels-explanation"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "general",
@@ -878,9 +1206,10 @@
     "cardIds": [
       "foundations-neural-signaling",
       "learning-hebb-ltp",
-      "foundations-plasticity"
+      "foundations-plasticity",
+      "cognition-mirror-neurons"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "general",
@@ -890,9 +1219,11 @@
     "pdfEnd": 440,
     "cardIds": [
       "foundations-homeostasis",
-      "learning-wanting-liking"
+      "learning-wanting-liking",
+      "foundations-circadian-rhythm",
+      "foundations-sleep-functions"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "general",
@@ -902,9 +1233,12 @@
     "pdfEnd": 512,
     "cardIds": [
       "cognition-signal-detection",
-      "cognition-pain-gate"
+      "cognition-pain-gate",
+      "cognition-sensory-adaptation",
+      "cognition-weber-law",
+      "cognition-placebo-analgesia"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "general",
@@ -915,9 +1249,11 @@
     "cardIds": [
       "cognition-top-down-bottom-up",
       "cognition-color-opponent",
-      "cognition-perceptual-constancy"
+      "cognition-perceptual-constancy",
+      "cognition-own-race-bias",
+      "development-perceptual-narrowing"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "general",
@@ -929,9 +1265,15 @@
       "learning-habituation",
       "learning-classical-conditioning",
       "learning-operant-conditioning",
-      "personality-observational-learning"
+      "personality-observational-learning",
+      "learning-contingency",
+      "learning-blocking",
+      "learning-reinforcement-schedules",
+      "learning-overjustification",
+      "learning-latent-learning",
+      "learning-taste-aversion"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "general",
@@ -943,9 +1285,13 @@
       "cognition-working-memory",
       "cognition-priming",
       "cognition-prospective-memory",
-      "cognition-retrieval-cues"
+      "cognition-retrieval-cues",
+      "cognition-memory-consolidation",
+      "cognition-stroop",
+      "cognition-dual-coding",
+      "cognition-imagination-false-memory"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "general",
@@ -956,9 +1302,12 @@
     "cardIds": [
       "social-confirmation-bias",
       "cognition-general-intelligence",
-      "cognition-fluid-crystallized"
+      "cognition-fluid-crystallized",
+      "cognition-functional-fixedness",
+      "cognition-holistic-analytic-thinking",
+      "cognition-flynn-effect"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "general",
@@ -969,9 +1318,13 @@
     "cardIds": [
       "development-piaget",
       "development-sociocultural",
-      "development-theory-mind"
+      "development-theory-mind",
+      "development-violation-expectation",
+      "development-perceptual-narrowing",
+      "development-overregularization",
+      "development-language-sensitive-period"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "general",
@@ -981,9 +1334,13 @@
     "pdfEnd": 1064,
     "cardIds": [
       "emotion-attachment",
-      "development-parenting"
+      "development-parenting",
+      "development-overimitation",
+      "development-adolescent-dual-systems",
+      "development-maturity-gap",
+      "development-occupational-self-direction"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "general",
@@ -995,7 +1352,7 @@
       "social-cognitive-dissonance",
       "social-social-facilitation"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "general",
@@ -1006,9 +1363,11 @@
     "cardIds": [
       "personality-big-five",
       "personality-hierarchy-needs",
-      "personality-rogerian-humanism"
+      "personality-rogerian-humanism",
+      "emotion-differential-susceptibility",
+      "personality-cognitive-affective-system"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "general",
@@ -1019,9 +1378,12 @@
     "cardIds": [
       "clinical-three-ps",
       "clinical-hopelessness-rumination",
-      "emotion-rumination"
+      "emotion-rumination",
+      "clinical-avoidance-reinforcement",
+      "clinical-panic-catastrophic-interpretation",
+      "clinical-ocd-safety-completion"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   },
   {
     "book": "general",
@@ -1031,8 +1393,11 @@
     "pdfEnd": 1415,
     "cardIds": [
       "clinical-abc-model",
-      "clinical-exposure-extinction"
+      "clinical-exposure-extinction",
+      "clinical-common-factors",
+      "clinical-contingency-management",
+      "personality-transference"
     ],
-    "notes": "已实际读取本章正文或章节总结；卡片为核心概念导读，非逐条穷尽全部术语。所有PDF页码均为文件页序，从1开始。"
+    "notes": "已按章及小节复核并补充可独立理解的理论、机制、模型、效应与概念；同一概念跨书复用。PDF 为文件页序，EPUB 定位到小节；不声称穷尽全部术语。"
   }
 ]

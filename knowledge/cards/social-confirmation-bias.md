@@ -9,7 +9,7 @@ summary: "人在检验想法时，容易寻找与原有判断相符的信息。�
 aliases: ["证实偏差", "Confirmation bias", "确认偏误"]
 keywords: ["确认偏差", "证实", "搜索", "证据", "反例", "假设", "动机", "判断", "确认偏误", "Confirmation bias", "推理与信念", "偏见", "反证", "选择信息", "信念"]
 questions: ["为什么真实的例子也可能支持错误印象？", "怎样识别只寻找支持材料的检验方式？", "为什么我总能找到支持自己想法的证据？", "确认偏误在什么条件下适用，有什么局限？"]
-sources: [{"book": "social", "chapter": "第4章 社会认知", "locator": "PDF 第 215 页", "pdfPages": [215]}, {"book": "cognitive", "chapter": "第14章 · 推理与假设检验", "locator": "PDF 第 736–736 页", "pdfPages": [736]}, {"book": "general", "chapter": "第10章 · 问题解决：推理与智力", "locator": "PDF 第 805–805 页", "pdfPages": [805]}]
+sources: [{"book": "social", "chapter": "第4章 社会认知", "locator": "PDF 第 215 页", "pdfPages": [215]}, {"book": "cognitive", "chapter": "第14章 · 推理与假设检验", "locator": "PDF 第 736–736 页", "pdfPages": [736]}, {"book": "general", "chapter": "第10章 · 问题解决：推理与智力", "locator": "PDF 第 805–805 页", "pdfPages": [805]}, {"book": "cognitive", "chapter": "第14章 · 推理与假设检验", "locator": "PDF 第 724–726 页", "pdfPages": [724, 725, 726]}]
 candidateRelated: [{"concept": "情境解释", "reason": "已有解释会引导后续信息搜索"}, {"concept": "态度接种", "reason": "涉及对反方论点的加工"}, {"title": "自上而下与自下而上加工", "reason": "先前期待会影响材料解释"}, {"title": "心智模型理论", "reason": "寻找反例有助于检查初始模型"}]
 ---
 
@@ -24,3 +24,7 @@ candidateRelated: [{"concept": "情境解释", "reason": "已有解释会引导�
 ## 理解边界
 
 找到支持材料本身不是偏差；关键是检验是否系统地忽略其他可能。确认偏差也不要求当事人故意歪曲事实。
+
+## 立场偏差与一般认知能力
+
+教材区分为自己立场寻找支持的倾向与一般推理能力。较高认知能力并不保证在涉及既有立场时同样开放；分析资源也可能被用来生成更多支持自身立场的理由。

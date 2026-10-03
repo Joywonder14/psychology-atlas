@@ -9,7 +9,7 @@ summary: "人格稳定不要求一个人在所有场合表现完全相同。相�
 aliases: []
 keywords: ["一致性", "相对", "稳定", "个体差异", "情境", "特质", "比较", "行为"]
 questions: ["行为随场合改变为什么不必否定人格稳定？", "绝对不变与相对一致有什么不同？"]
-sources: [{"book": "personality", "chapter": "第4章 人与情境", "locator": "PDF 第 329 页", "pdfPages": [329]}, {"book": "personality", "chapter": "第18章 我们学到了什么", "locator": "PDF 第 1393 页", "pdfPages": [1393]}]
+sources: [{"book": "personality", "chapter": "第4章 人与情境", "locator": "PDF 第 329 页", "pdfPages": [329]}, {"book": "personality", "chapter": "第18章 我们学到了什么", "locator": "PDF 第 1393 页", "pdfPages": [1393]}, {"book": "personality", "chapter": "我们学到了什么", "locator": "Cross-Situational Consistency and Aggregation；PDF文件第1377、1378页", "pdfPages": [1377, 1378]}]
 candidateRelated: [{"concept": "人与情境交互作用", "reason": "解释条件变化与个人模式"}, {"concept": "累积连续性原则", "reason": "关注随年龄变化的稳定程度"}]
 ---
 

@@ -9,7 +9,7 @@ summary: "把能力看作固定不变或能够发展，会改变人如何理解�
 aliases: ["成长型思维", "固定型思维"]
 keywords: ["能力观", "智力", "固定", "成长", "实体理论", "渐进理论", "挑战", "失败"]
 questions: ["把能力看作可发展会怎样改变失败解释？", "为什么成长观念不能简化为只要努力就行？"]
-sources: [{"book": "social", "chapter": "应用模块2 社会心理学与教育", "locator": "PDF 第 723–724 页", "pdfPages": [723, 724]}, {"book": "social", "chapter": "应用模块2 社会心理学与教育", "locator": "PDF 第 734 页", "pdfPages": [734]}]
+sources: [{"book": "social", "chapter": "应用模块2 社会心理学与教育", "locator": "PDF 第 723–724 页", "pdfPages": [723, 724]}, {"book": "social", "chapter": "应用模块2 社会心理学与教育", "locator": "PDF 第 734 页", "pdfPages": [734]}, {"book": "personality", "chapter": "人格过程", "locator": "Judgment Goals and Development Goals; Entity and Incremental Theories；PDF文件第1110、1111、1112页", "pdfPages": [1110, 1111, 1112]}]
 candidateRelated: [{"concept": "刻板印象威胁", "reason": "能力评价情境也可能影响表现"}, {"concept": "认知情感人格系统", "reason": "关注解释与情境化反应"}]
 ---
 
@@ -24,3 +24,7 @@ candidateRelated: [{"concept": "刻板印象威胁", "reason": "能力评价情�
 ## 理解边界
 
 相信能力可变不意味着单靠努力就足够，教学和资源仍重要。不能由一次坚持或放弃直接判定一个人固定的能力观。
+
+## 人格教材补充：判断目标与发展目标
+
+人格教材区分证明或确认自身能力的判断目标，与实际增进能力的发展目标。面对错误，前者可能把反馈当作自我价值威胁，后者更可能把它用于改进。教材又提示边界：在失败后切换到不同能力任务时，渐进观念者若持续反刍先前努力不足，也可能影响新任务表现。教材引 Dweck 与 Leggett（1988）及 Park 与 Kim（2015）；本次未查阅原论文。

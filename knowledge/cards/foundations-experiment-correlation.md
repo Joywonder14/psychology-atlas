@@ -9,7 +9,7 @@ summary: "观察两个变量相关，与检验一个变量是否造成另一个�
 aliases: ["Experimental and correlational research"]
 keywords: ["实验研究与相关研究", "Experimental and correlational research", "研究与测量", "因果", "相关", "混淆", "实验", "对照", "随机分配"]
 questions: ["实验研究与相关研究解释了什么心理现象？", "实验研究与相关研究在什么条件下适用，有什么局限？"]
-sources: [{"book": "general", "chapter": "第2章 · 心理学的方法", "locator": "PDF 第 119–130 页", "pdfPages": [119, 120, 121, 130]}]
+sources: [{"book": "general", "chapter": "第2章 · 心理学的方法", "locator": "PDF 第 119–130 页", "pdfPages": [119, 120, 121, 130]}, {"book": "social", "chapter": "研究方法", "locator": "PDF 第 86、87、88 页", "pdfPages": [86, 87, 88]}]
 candidateRelated: [{"title": "信度、效度与操作化", "reason": "设计质量仍依赖测量质量"}, {"title": "确认偏误", "reason": "主动比较替代解释有助于避免只寻支持"}]
 ---
 
@@ -24,3 +24,7 @@ candidateRelated: [{"title": "信度、效度与操作化", "reason": "设计质
 ## 理解边界
 
 随机分配不等于随机抽样，实验中的因果证据也不自动保证可推广到所有人。对现实不可操纵的问题，相关研究仍能提供重要信息。
+
+## 社会心理学中的补充
+
+教材区分反向因果、第三变量与自我选择：参与者所处条件通常伴随其他未测属性，因而相关可能来自共同原因。纵向跟踪能澄清测量的时间顺序，但更早的共同原因仍可能造成关联；先发生不自动等于因果。
