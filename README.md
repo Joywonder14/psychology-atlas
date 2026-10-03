@@ -1,54 +1,90 @@
-# Psychology Atlas · 心理学图谱
+# Psychology for Social Science
 
-A psychology learning and knowledge-organization project for social science researchers. It brings together Chinese-language study cards, bilingual terminology, textbook source references, search, and an interactive network of related concepts. The website runs locally without a server or external dependencies.
+[中文说明](README.zh-CN.md)
 
-This is an AI-assisted learning resource based on five textbooks. It is not an original psychology research contribution or a substitute for reading the cited sources. Original textbook files are not distributed in this repository.
+**[Open the interactive knowledge base](https://psychology-atlas-joywonder.stx8wpytbp.chatgpt.site)**
 
-**Current snapshot (2026-10-03):** 527 cards · 8 domains · 81 chapter entries · 860 connections · 10 thematic collections.
+An interactive psychology knowledge base for social science researchers. Explore psychological theories, models, processes, effects, and concepts through study cards, textbook references, keyword search, and a network of related ideas.
 
-面向社会科学研究者的心理学知识库，用于持续学习心理学，并为社会科学研究提供启发。支持领域与子领域浏览、全文与联想词搜索、可点击知识网络、跨领域主题集合、原书章节索引及 Markdown 导出。卡片内容、来源整理与网站开发使用了 AI 辅助；阅读和研究使用时应回到所列教材核对具体论述。
+The project supports sustained learning and the development of ideas for social science research. Cards are currently written in Chinese, with English terminology and searchable aliases. Project documentation is available in English and Chinese.
 
-## Explore
+**Current snapshot (October 3, 2026):** 527 cards · 8 domains · 5 textbooks · 81 chapter entries · 860 connections · 10 thematic collections.
 
-- **Read the cards:** browse [`knowledge/cards/`](knowledge/cards/) or the [complete Markdown archive](backups/心理学知识库.md).
-- **Use the interactive atlas:** download this repository with **Code → Download ZIP**, unzip it, and open `dist/index.html` in a browser. Search and network exploration work offline.
-- **Rebuild after editing:** run `python3 tools/build.py`. Building uses only the Python standard library.
-- **Check the data and search:** run `node tools/check.js` after building; this check requires Node.js.
+## Explore the knowledge base
 
-## 打开
+- Browse broad domains and subfields, then open individual knowledge cards.
+- Search Chinese and English terms, aliases, keywords, and explanatory phrases.
+- Follow connections between cards and explore thematic collections across domains.
+- Trace cards back to textbook chapters and source locations.
+- Read or download the complete Markdown archive for use outside the website.
 
-- 下载并解压仓库后，直接打开 `dist/index.html`，无需联网即可浏览、搜索、查看网络和下载 Markdown。GitHub 文件预览显示的是 HTML 源码，交互页面需要下载后打开。
-- 如需边修改 Markdown 边查看，双击 `启动知识库.command`，或运行 `python3 tools/serve.py`。浏览器会打开本地网页，保存卡片后自动重新生成并刷新。
-- 本仓库提供可下载的离线网页、源文件和 Markdown 备份；无需访问私人托管服务。
+The interface and study-card content are primarily in Chinese. English terms help readers identify concepts and find them in the source literature.
 
-## 内容和备份
+## Start reading
 
-- `knowledge/cards/`：每张卡片的 Markdown 原文件，可独立编辑。
-- `backups/心理学知识库.md`：按领域汇总的完整 Markdown 备份，每次生成网页时更新。
-- `knowledge/catalog.json`：领域和书目信息。
-- `knowledge/chapters.json`：各书章节与卡片的对应关系。
-- `knowledge/relations.json`：卡片关系与关系说明。
-- `knowledge/collections.json`：跨领域主题集合。
-- `knowledge/细化复核.json`：本轮逐章、小节复核记录、跨书合并与新增卡片清单。
+**Online:** [open the public website](https://psychology-atlas-joywonder.stx8wpytbp.chatgpt.site) in your browser. No download or installation is needed.
 
-卡片前面的 `---` 块保存元数据，后面的正文可直接用 Markdown 编辑。元数据采用每行一个字段，复杂列表使用 JSON 数组。卡片 ID 用于引用，更新已有卡片时保持 ID 不变。
+**On GitHub:** browse the [individual cards](knowledge/cards/) or read the [complete Markdown archive](backups/心理学知识库.md).
 
-更新后运行 `python3 tools/build.py`，会从 Markdown 生成网页及汇总备份。网页不把阅读数据发送给外部 AI 服务。
+**Offline:** choose **Code → Download ZIP**, extract the archive, and open `dist/index.html` in a browser. Browsing, search, the concept network, and Markdown export work offline. GitHub's HTML file preview displays the source code; use the online link above or download the file to use the interface.
 
-## 整理口径
+The prebuilt website works offline in a browser and does not send reading activity to an external AI service.
 
-内容依据五本教材整理，书目信息见 [`knowledge/catalog.json`](knowledge/catalog.json)，每张卡片列出具体来源位置。卡片为中文学习转述，覆盖每个正文教学章节及社会心理学的应用模块所选取的核心理论、模型、效应、概念和方法；不声称收录书中每一个术语或替代全书论证。书中的序言、致谢、参考文献表和索引不单独生成理论卡。
+## Build and maintain
 
-PDF 定位采用文件页序，避免与电子书转换前的纸书页码混淆。EPUB 采用已核对的章节、小节与锚点。卡片中的“理解用例”为自编辅助情境；其他内容依据注明的教材位置。理解边界用于保留教材对适用范围或争议的说明。
+Edit the Markdown cards, then rebuild the website and archive:
 
-细化整理以能独立解释一个现象为单位，不限于教材标题中带有“理论”的条目。机制、效应、假说与模型分别标注；同一概念在不同教材中的内容合并到一张卡。部分新增卡片设有“教材中的研究线索”，用于顺着教材查找原始文献；这些线索仍是教材转述，不能当作已独立核读论文的证据。
+```sh
+python3 tools/build.py
+```
 
-网络连线是用于学习的概念关联，并不自动表示因果关系。主题集合允许同一卡片出现在多个集合。检索使用标题、英文名、别名、正文、关键词及少量联想词，适合查找相关概念；不生成问答结论。
+The build uses only the Python standard library. To check card references, chapter mappings, relationships, search behavior, and the archive, run the existing checks with Node.js:
 
-## 维护
+```sh
+node tools/check.js
+```
 
-新增卡片时，沿用 [`knowledge/卡片模板.md`](knowledge/卡片模板.md)，填写真实来源并给出稳定 ID，然后更新章节索引、关系和集合。随后运行 `python3 tools/build.py` 更新网页和备份，并运行 `node tools/check.js` 检查检索及关联数据。发现问题时，可以在 Issue 中注明卡片 ID、来源位置与建议修改。
+For a local editing preview that rebuilds when source files change:
 
-`tools/curate.py` 和 `tools/import_cards.py` 是首次整理资料时使用的导入工具。日常维护直接编辑 Markdown；不要用旧导入文件覆盖已更新的内容。
+```sh
+python3 tools/serve.py
+```
 
-原始教材保留在项目外的本地 `books` 目录，不随仓库分发。仓库包含整理后的学习卡片、网页代码和 Markdown 备份。
+On macOS, the included `启动知识库.command` launcher also starts the local preview.
+
+## Repository structure
+
+| Location | Contents |
+| --- | --- |
+| [`knowledge/cards/`](knowledge/cards/) | Editable Markdown cards and their metadata |
+| [`knowledge/catalog.json`](knowledge/catalog.json) | Domain definitions and textbook bibliography |
+| [`knowledge/chapters.json`](knowledge/chapters.json) | Chapter-to-card mappings |
+| [`knowledge/relations.json`](knowledge/relations.json) | Connections between cards and explanations of those connections |
+| [`knowledge/collections.json`](knowledge/collections.json) | Collections spanning multiple domains |
+| [`knowledge/细化复核.json`](knowledge/细化复核.json) | Records of the detailed organization of this version |
+| [`app/`](app/) | HTML, CSS, and JavaScript source |
+| [`dist/index.html`](dist/index.html) | The generated website, ready to open offline |
+| [`backups/心理学知识库.md`](backups/心理学知识库.md) | The complete Markdown archive, regenerated during each build |
+| [`tools/`](tools/) | Build, preview, validation, and initial-import utilities |
+
+Card metadata is stored between the opening `---` delimiters. Each field occupies one line; complex values use JSON arrays. Keep an existing card's ID stable because chapters, collections, and connections refer to it.
+
+## Sources and interpretation
+
+This is a learning resource developed with AI assistance, based on five textbooks listed in the [catalog](knowledge/catalog.json). Each card includes source locations. Original textbook files are kept outside the repository and are not distributed here.
+
+The cards paraphrase selected theories, models, processes, effects, concepts, and methods from the textbooks. Coverage includes core material selected from the teaching chapters and the applied social psychology modules; it does not claim to capture every term or replace the books' arguments. Prefaces, acknowledgments, bibliographies, and indexes do not generate separate cards.
+
+PDF references use the page order in the source file, which can differ from printed page numbers. EPUB references use chapters, subsections, and anchors. Illustrative examples are written to aid understanding. Notes on interpretation preserve qualifications and limitations discussed in the sources.
+
+Some cards include leads to studies mentioned in the textbooks. These are textbook-based references, not a claim that the original papers have been independently reviewed. Check the cited sources before using a card to support a research claim.
+
+Card types are editorial labels that can overlap; they do not rank the strength of evidence. Connections in the network represent conceptual relationships, not established causal relationships. A card may appear in multiple thematic collections. Search retrieves relevant cards using their text and metadata; it does not generate answers.
+
+## Additions and corrections
+
+Use the [card template](knowledge/卡片模板.md) when adding material. Include a source location and a stable ID, update the chapter mappings, connections, and collections as appropriate, then rebuild and run the checks above.
+
+To report a correction, open an issue with the card ID, the relevant source location, and the proposed change.
+
+`tools/curate.py` and `tools/import_cards.py` were used for the initial import. Routine maintenance should edit the Markdown cards directly; rerunning an old import can overwrite later edits.
