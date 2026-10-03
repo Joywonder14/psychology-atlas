@@ -1,12 +1,25 @@
-# 心理学图谱
+# Psychology Atlas · 心理学图谱
 
-从本地五本教材整理的个人心理学知识库。支持领域与子领域浏览、全文与联想词搜索、可点击知识网络、跨领域主题集合、原书章节索引及 Markdown 导出。
+A psychology learning and knowledge-organization project for social science researchers. It brings together Chinese-language study cards, bilingual terminology, textbook source references, search, and an interactive network of related concepts. The website runs locally without a server or external dependencies.
+
+This is an AI-assisted learning resource based on five textbooks. It is not an original psychology research contribution or a substitute for reading the cited sources. Original textbook files are not distributed in this repository.
+
+**Current snapshot (2026-10-03):** 527 cards · 8 domains · 81 chapter entries · 860 connections · 10 thematic collections.
+
+面向社会科学研究者的心理学知识库，用于持续学习心理学，并为社会科学研究提供启发。支持领域与子领域浏览、全文与联想词搜索、可点击知识网络、跨领域主题集合、原书章节索引及 Markdown 导出。卡片内容、来源整理与网站开发使用了 AI 辅助；阅读和研究使用时应回到所列教材核对具体论述。
+
+## Explore
+
+- **Read the cards:** browse [`knowledge/cards/`](knowledge/cards/) or the [complete Markdown archive](backups/心理学知识库.md).
+- **Use the interactive atlas:** download this repository with **Code → Download ZIP**, unzip it, and open `dist/index.html` in a browser. Search and network exploration work offline.
+- **Rebuild after editing:** run `python3 tools/build.py`. Building uses only the Python standard library.
+- **Check the data and search:** run `node tools/check.js` after building; this check requires Node.js.
 
 ## 打开
 
-- 直接打开 `dist/index.html`，无需联网即可浏览、搜索、查看网络和下载 Markdown。
+- 下载并解压仓库后，直接打开 `dist/index.html`，无需联网即可浏览、搜索、查看网络和下载 Markdown。GitHub 文件预览显示的是 HTML 源码，交互页面需要下载后打开。
 - 如需边修改 Markdown 边查看，双击 `启动知识库.command`，或运行 `python3 tools/serve.py`。浏览器会打开本地网页，保存卡片后自动重新生成并刷新。
-- 网页的私人在线地址记录在 `在线地址.txt`。本地修改后，需在此聊天中要求同步发布，在线版本才会更新。
+- 本仓库提供可下载的离线网页、源文件和 Markdown 备份；无需访问私人托管服务。
 
 ## 内容和备份
 
@@ -24,7 +37,7 @@
 
 ## 整理口径
 
-内容全部来自 `books` 中现有教材。卡片为中文学习转述，覆盖每个正文教学章节及社会心理学的应用模块所选取的核心理论、模型、效应、概念和方法；不声称收录书中每一个术语或替代全书论证。书中的序言、致谢、参考文献表和索引不单独生成理论卡。
+内容依据五本教材整理，书目信息见 [`knowledge/catalog.json`](knowledge/catalog.json)，每张卡片列出具体来源位置。卡片为中文学习转述，覆盖每个正文教学章节及社会心理学的应用模块所选取的核心理论、模型、效应、概念和方法；不声称收录书中每一个术语或替代全书论证。书中的序言、致谢、参考文献表和索引不单独生成理论卡。
 
 PDF 定位采用文件页序，避免与电子书转换前的纸书页码混淆。EPUB 采用已核对的章节、小节与锚点。卡片中的“理解用例”为自编辅助情境；其他内容依据注明的教材位置。理解边界用于保留教材对适用范围或争议的说明。
 
@@ -34,8 +47,8 @@ PDF 定位采用文件页序，避免与电子书转换前的纸书页码混淆�
 
 ## 维护
 
-新增卡片时，沿用 `knowledge/卡片模板.md`，填写真实来源并给出稳定 ID，然后更新章节索引、关系和集合。也可以直接在聊天中提出要补充或修改的内容。
+新增卡片时，沿用 [`knowledge/卡片模板.md`](knowledge/卡片模板.md)，填写真实来源并给出稳定 ID，然后更新章节索引、关系和集合。随后运行 `python3 tools/build.py` 更新网页和备份，并运行 `node tools/check.js` 检查检索及关联数据。发现问题时，可以在 Issue 中注明卡片 ID、来源位置与建议修改。
 
 `tools/curate.py` 和 `tools/import_cards.py` 是首次整理资料时使用的导入工具。日常维护直接编辑 Markdown；不要用旧导入文件覆盖已更新的内容。
 
-原始教材保留在项目外的 `books` 目录，不包含在网站发布文件中。网站只发布整理后的卡片和 Markdown 备份。
+原始教材保留在项目外的本地 `books` 目录，不随仓库分发。仓库包含整理后的学习卡片、网页代码和 Markdown 备份。

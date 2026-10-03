@@ -2,5 +2,9 @@
 ._*
 .sites-runtime/
 .env
+.env.*
+.openai/
+books/
+/在线地址.txt
 *.tar.gz
 __pycache__/
